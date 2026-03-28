@@ -8,6 +8,7 @@ lang: vi
 categories:
 - chapter00
 lesson_type: required
+hidden: true
 ---
 
 Bài học này giới thiệu các khái niệm cơ bản về tính liên tục và tính liên tục đều, những khái niệm quan trọng để hiểu hành vi của các hàm số trong tối ưu hóa.
@@ -15,6 +16,10 @@ Bài học này giới thiệu các khái niệm cơ bản về tính liên tụ
 ---
 
 ## Tính liên tục và Tính liên tục đều
+
+<!-- vi-interactive:start -->
+{% include vi-interactive-lesson.html %}
+<!-- vi-interactive:end -->
 
 **Tính liên tục** và **Tính liên tục đều** là những khái niệm cơ bản mô tả hành vi của các hàm số, đặc biệt liên quan đến tính "mượt mà" hoặc "có thể dự đoán được" của chúng. Mặc dù có liên quan chặt chẽ, chúng thể hiện các tính chất khác biệt, với tính liên tục đều là điều kiện mạnh hơn so với tính liên tục thông thường.
 

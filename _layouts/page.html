@@ -2,55 +2,96 @@
 layout: default
 ---
 
-<h1>{{page.chapter}}. {{page.title}}</h1>
-
 {% assign full_name = page.chapter | prepend: "chapter" %}
 {% assign current_lang = page.lang | default: site.default_lang %}
-{% assign all_posts = site.categories[full_name] | sort_natural %}
-{% assign post_list = all_posts | where: "lang", current_lang %}
-
-{% if page.chapter == "26" %}
-  {% assign full_name = "reference" %}
-  {% assign all_posts = site.categories[full_name] | sort_natural %}
-  {% assign post_list = all_posts | where: "lang", current_lang %}
+{% if current_lang == "en" %}
+  {% assign other_lang = "vi" %}
+{% else %}
+  {% assign other_lang = "en" %}
 {% endif %}
+{% assign current_posts = site.categories[full_name] %}
+{% if current_posts == nil %}
+  {% assign current_posts = "" | split: "" %}
+{% endif %}
+{% assign current_posts = current_posts | where: "lang", current_lang | sort: "order" %}
+{% assign current_posts = current_posts | where_exp: "post", "post.hidden != true" %}
+{% assign other_posts = site.categories[full_name] %}
+{% if other_posts == nil %}
+  {% assign other_posts = "" | split: "" %}
+{% endif %}
+{% assign other_posts = other_posts | where: "lang", other_lang | sort: "order" %}
+{% assign other_posts = other_posts | where_exp: "post", "post.hidden != true" %}
+{% assign required_posts = current_posts | where: "lesson_type", "required" %}
+{% assign optional_posts = current_posts | where: "lesson_type", "optional" %}
+{% assign other_required_posts = other_posts | where: "lesson_type", "required" %}
+{% assign display_chapter = page.sequence | default: page.chapter %}
 
-<!-- Get first post and show it -->
-{% assign first_post = post_list | first %}
-{{first_post.content}}
+<div class="page">
+  <h1>{{ display_chapter }}. {{ page.title }}</h1>
 
-<!-- Remove first element from post_list which is already shown above. -->
-{% assign post_list = post_list | shift %}  
+  <div class="chapter-overview" style="margin-bottom: 2rem;">
+    {{ content }}
+  </div>
 
-<!-- List up the posts in the chapter -->
-<ul style="list-style: none;">
-{% for post in post_list %}
-  {% assign title_parts = post.title | split: " " %}
-  {% assign subchapter = title_parts | first %}
-  {% assign subchapter_level = subchapter | split: "-" %}
-  {% if subchapter_level.size < 3 %}
-    <li style="text-align:left; vertical-align: middle; margin-left: -2em; margin-top: 5px;" >
-      <a href="{{ post.url | absolute_url }}">{{post.title}}</a>
-      {% if post.lesson_type %}
-        {% if post.lesson_type == 'required' %}
-          <span class="lesson-badge required">{% t required %}</span>
-        {% elsif post.lesson_type == 'optional' %}
-          <span class="lesson-badge optional">{% t optional %}</span>
-        {% endif %}
+  <div class="chapter-status" style="margin-bottom: 2rem; padding: 1rem 1.25rem; background: #f8f9fa; border-left: 4px solid #268bd2;">
+    <strong>{% if current_lang == "vi" %}Trạng thái song ngữ{% else %}Translation status{% endif %}:</strong>
+    {% if current_lang == "vi" %}
+      Tiếng Anh hiện có {{ other_required_posts.size }}/{{ required_posts.size }} bài cốt lõi tương ứng cho chương này.
+    {% else %}
+      English currently includes {{ required_posts.size }}/{{ other_required_posts.size }} core lessons for this chapter.
+    {% endif %}
+  </div>
+
+  <h2>{% if current_lang == "vi" %}Lộ trình cốt lõi{% else %}Core learning path{% endif %}</h2>
+
+  {% if required_posts.size > 0 %}
+    <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
+      {% for post in required_posts %}
+        <li style="margin: 0 0 0.85rem 0;">
+          <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>
+      {% if current_lang == "vi" %}
+        Chương này đang được biên soạn lại. Nội dung cốt lõi sẽ được bổ sung theo lộ trình 8-12 tuổi.
+      {% else %}
+        This chapter is being rebuilt for the 8-12 learner path. Core lessons are coming soon.
       {% endif %}
-    </li>
+    </p>
   {% endif %}
-  {% if subchapter_level.size >= 3 %}
-    <li style="text-align:left; vertical-align: middle;  margin-left: 0em;" >
-      <a href="{{ post.url | absolute_url }}"> {{ post.title }}</a>
-      {% if post.lesson_type %}
-        {% if post.lesson_type == 'required' %}
-          <span class="lesson-badge required">{% t required %}</span>
-        {% elsif post.lesson_type == 'optional' %}
-          <span class="lesson-badge optional">{% t optional %}</span>
-        {% endif %}
+
+  {% if current_lang == "en" %}
+    {% assign missing_orders = "" | split: "" %}
+    {% for source_post in other_required_posts %}
+      {% assign match = required_posts | where: "order", source_post.order %}
+      {% if match.size == 0 %}
+        {% assign missing_orders = missing_orders | push: source_post %}
       {% endif %}
-    </li>
+    {% endfor %}
+
+    {% if missing_orders.size > 0 %}
+      <h2>Coming Soon</h2>
+      <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
+        {% for post in missing_orders %}
+          <li style="margin: 0 0 0.85rem 0;">
+            <span>{{ post.order }}. {{ post.title }}</span>
+            <span class="lesson-badge optional">Coming soon</span>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   {% endif %}
-{% endfor %}
-</ul>
+
+  {% if optional_posts.size > 0 %}
+    <h2>{% if current_lang == "vi" %}Mở rộng và khám phá thêm{% else %}Enrichment and exploration{% endif %}</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      {% for post in optional_posts %}
+        <li style="margin: 0 0 0.85rem 0;">
+          <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>

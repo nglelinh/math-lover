@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Mau hinh nhan doi</title>
+  <desc id="desc">Day so 2, 4, 8, 16, 32 voi mui ten nhan doi giua moi so.</desc>
+  <rect width="1200" height="420" fill="#F6FBFF"/>
+  <text x="600" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#14324A">Mau hinh nhan doi</text>
+  <text x="600" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#14324A">Moi buoc deu gap doi so truoc</text>
+
+  <g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="75" y="180" width="150" height="120" rx="24" fill="#45B7D1" stroke="#14324A" stroke-width="6"/>
+    <text x="150" y="255" font-size="48" fill="#14324A">2</text>
+
+    <path d="M250 240 L335 240" stroke="#FF8A5B" stroke-width="16" stroke-linecap="round"/>
+    <path d="M335 240 L312 223 L312 257 Z" fill="#FF8A5B"/>
+    <text x="292" y="200" font-size="30" fill="#FF8A5B">x2</text>
+
+    <rect x="360" y="180" width="150" height="120" rx="24" fill="#4ECDC4" stroke="#14324A" stroke-width="6"/>
+    <text x="435" y="255" font-size="48" fill="#14324A">4</text>
+
+    <path d="M535 240 L620 240" stroke="#FF8A5B" stroke-width="16" stroke-linecap="round"/>
+    <path d="M620 240 L597 223 L597 257 Z" fill="#FF8A5B"/>
+    <text x="577" y="200" font-size="30" fill="#FF8A5B">x2</text>
+
+    <rect x="645" y="180" width="150" height="120" rx="24" fill="#FFD166" stroke="#14324A" stroke-width="6"/>
+    <text x="720" y="255" font-size="48" fill="#14324A">8</text>
+
+    <path d="M820 240 L905 240" stroke="#FF8A5B" stroke-width="16" stroke-linecap="round"/>
+    <path d="M905 240 L882 223 L882 257 Z" fill="#FF8A5B"/>
+    <text x="862" y="200" font-size="30" fill="#FF8A5B">x2</text>
+
+    <rect x="930" y="180" width="150" height="120" rx="24" fill="#FF6B6B" stroke="#14324A" stroke-width="6"/>
+    <text x="1005" y="255" font-size="48" fill="#14324A">16</text>
+
+    <path d="M1105 240 L1160 240" stroke="#FF8A5B" stroke-width="16" stroke-linecap="round"/>
+    <path d="M1160 240 L1137 223 L1137 257 Z" fill="#FF8A5B"/>
+    <text x="1132" y="200" font-size="30" fill="#FF8A5B">x2</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="1020" y="180" width="150" height="120" rx="24" fill="#A29BFE" stroke="#14324A" stroke-width="6"/>
+    <text x="1095" y="255" font-size="48" fill="#14324A">32</text>
+  </g>
+</svg>

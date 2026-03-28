@@ -1,0 +1,73 @@
+{% assign lesson_config = site.data.vi_interactive_lessons[page.path] %}
+{% if lesson_config %}
+<section class="vi-interactive-section" style="margin: 2rem 0; padding: 1.25rem; border: 2px solid #cfe7ff; border-radius: 18px; background: linear-gradient(180deg, #f8fcff 0%, #eef7ff 100%); box-shadow: 0 10px 24px rgba(14, 72, 131, 0.08);">
+  <h2 style="margin-top: 0; margin-bottom: 0.5rem; color: #0f4c81;">Trạm khám phá tương tác</h2>
+  <p style="margin-top: 0; margin-bottom: 1rem; color: #204a69; line-height: 1.6;">
+    {{ lesson_config.guidance | default: "Em hãy kéo thanh trượt, nhấn nút hoặc đổi số liệu rồi tự nói lại điều em quan sát được." }}
+  </p>
+  <div
+    id="{{ lesson_config.container_id }}"
+    class="vi-interactive-root"
+    data-vi-template="{{ lesson_config.template }}"
+    data-vi-mode="{{ lesson_config.mode }}"
+    data-vi-container-id="{{ lesson_config.container_id }}"
+    data-vi-lesson-title="{{ page.title | escape_once }}"
+    data-vi-path="{{ page.path | escape_once }}"
+  >
+    <div style="padding: 1rem; border: 1px solid #d7e6f5; border-radius: 16px; background: #ffffff; color: #17364d;">
+      <p style="margin: 0 0 0.75rem; font-weight: 700; color: #0f4c81;">Đang mở minh hoạ tương tác...</p>
+      {% if lesson_config.template == 'sequence-lab' %}
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">2</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">5</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">8</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">11</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #0f4c81; color: white;">?</span>
+      </div>
+      {% elsif lesson_config.template == 'fraction-lab' %}
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.35rem;">
+        <span style="height: 28px; border-radius: 10px; background: linear-gradient(135deg, #21a1df 0%, #0f4c81 100%);"></span>
+        <span style="height: 28px; border-radius: 10px; background: linear-gradient(135deg, #21a1df 0%, #0f4c81 100%);"></span>
+        <span style="height: 28px; border-radius: 10px; background: #eef6fd; border: 1px solid #cddff0;"></span>
+        <span style="height: 28px; border-radius: 10px; background: #eef6fd; border: 1px solid #cddff0;"></span>
+      </div>
+      {% elsif lesson_config.template == 'geometry-lab' %}
+      <div style="display: flex; justify-content: center;">
+        <svg width="220" height="120" viewBox="0 0 220 120" aria-hidden="true">
+          {% if lesson_config.mode == 'angle' %}
+          <line x1="50" y1="92" x2="180" y2="92" stroke="#0f4c81" stroke-width="5" stroke-linecap="round"></line>
+          <line x1="50" y1="92" x2="112" y2="38" stroke="#1d7cb8" stroke-width="5" stroke-linecap="round"></line>
+          <path d="M78 92 A28 28 0 0 0 69 72" fill="none" stroke="#ff7b54" stroke-width="4"></path>
+          <circle cx="50" cy="92" r="5" fill="#17364d"></circle>
+          {% else %}
+          <rect x="25" y="20" width="170" height="80" rx="14" fill="#8dd0f5" stroke="#0f4c81" stroke-width="4"></rect>
+          {% endif %}
+        </svg>
+      </div>
+      {% elsif lesson_config.template == 'data-lab' %}
+      <div style="display: grid; gap: 0.5rem;">
+        <div style="display: grid; grid-template-columns: 54px 1fr; gap: 0.5rem; align-items: center;"><strong>A</strong><span style="height: 14px; border-radius: 999px; background: linear-gradient(90deg, #1d7cb8 0%, #4fb3ff 100%); width: 60%; display: inline-block;"></span></div>
+        <div style="display: grid; grid-template-columns: 54px 1fr; gap: 0.5rem; align-items: center;"><strong>B</strong><span style="height: 14px; border-radius: 999px; background: linear-gradient(90deg, #1d7cb8 0%, #4fb3ff 100%); width: 85%; display: inline-block;"></span></div>
+        <div style="display: grid; grid-template-columns: 54px 1fr; gap: 0.5rem; align-items: center;"><strong>C</strong><span style="height: 14px; border-radius: 999px; background: linear-gradient(90deg, #1d7cb8 0%, #4fb3ff 100%); width: 45%; display: inline-block;"></span></div>
+      </div>
+      {% elsif lesson_config.template == 'balance-lab' %}
+      <div style="font-size: 1.5rem; font-weight: 700; color: #0f4c81; text-align: center;">x + 4 = 11</div>
+      {% else %}
+      <div style="display: flex; flex-wrap: wrap; gap: 0.45rem;">
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #1d7cb8; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #a3c8e3; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #1d7cb8; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #a3c8e3; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #1d7cb8; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #a3c8e3; display: inline-block;"></span>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  <noscript>
+    <p style="margin: 1rem 0 0; color: #8a3b12;">Phần khám phá này cần bật JavaScript để hoạt động.</p>
+  </noscript>
+</section>
+{% else %}
+<!-- Missing Vietnamese interactive config for {{ page.path }} -->
+{% endif %}

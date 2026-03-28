@@ -19,9 +19,9 @@ Mở file `_config.yml` và thay đổi các thông tin sau:
 # Setup
 title:               "Your Course Title"          # Tên khóa học của bạn
 description:         'Your Course Description'    # Mô tả khóa học
-url:                 https://your-username.github.io
+url:                 https://nglelinh.github.io
 baseurl:             '/your-repo-name'            # Tên repository của bạn
-imgurl:              https://your-username.github.io/your-repo-name/img
+imgurl:              /your-repo-name/img
 
 # Language-specific configurations
 t:
@@ -43,10 +43,10 @@ author:
 Mở file `_layouts/default.html` và tìm dòng 24:
 
 ```html
-<a class="github-logo__wrapper" target="_blank" href="https://github.com/your-username/your-repo-name" title="Github">
+<a class="github-logo__wrapper" target="_blank" href="https://github.com/nglelinh/your-repo-name" title="Github">
 ```
 
-Thay `your-username/your-repo-name` bằng username và tên repository thực tế của bạn.
+Thay `nglelinh/your-repo-name` bằng username và tên repository thực tế của bạn.
 
 ### 2.3. Cập nhật Thông tin Tác giả
 
@@ -166,7 +166,6 @@ Chỉnh sửa các file trong `public/css/`:
 Chỉnh sửa các file trong `public/js/`:
 - `script.js` - Chức năng chung
 - `multilang.js` - Xử lý đa ngôn ngữ
-- `search.js` - Tìm kiếm
 
 ## 🆘 Troubleshooting
 
@@ -178,7 +177,7 @@ Chỉnh sửa các file trong `public/js/`:
 
 ### Images không hiển thị
 
-1. Kiểm tra đường dẫn: `{{ site.imgurl }}/chapter_img/your-image.png`
+1. Kiểm tra đường dẫn: `{{ site.baseurl }}/img/chapter_img/your-image.png`
 2. Đảm bảo image file tồn tại trong `img/chapter_img/`
 3. Kiểm tra `imgurl` trong `_config.yml`
 
@@ -187,12 +186,6 @@ Chỉnh sửa các file trong `public/js/`:
 1. Kiểm tra MathJax script trong `_includes/head.html`
 2. Sử dụng `$$...$$` cho inline math
 3. Sử dụng block format cho công thức phức tạp
-
-### Search không hoạt động
-
-1. Kiểm tra `search-index.json` và `search-index-vi.json` được generate
-2. Xem console log trong browser
-3. Đảm bảo Lunr.js được load
 
 ## 📚 Tài liệu Tham khảo
 
@@ -211,4 +204,3 @@ Nếu gặp vấn đề:
 ---
 
 **Good luck with your course! 🎓**
-

@@ -214,10 +214,83 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
 }
+.sidebar-nav-group {
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-nav-group-heading {
+  display: flex;
+  align-items: stretch;
+}
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-nav-chapter {
+  flex: 1;
+  border-top: 0;
+}
+.sidebar-nav-group.is-open .sidebar-nav-chapter {
+  background-color: rgba(255,255,255,.06);
+}
+.sidebar-submenu-toggle {
+  flex: 0 0 2.75rem;
+  border: 0;
+  border-left: 1px solid rgba(255,255,255,.08);
+  padding: 0;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color .2s ease-in-out;
+}
+.sidebar-submenu-toggle::before {
+  content: "";
+  display: block;
+  width: .55rem;
+  height: .55rem;
+  margin: 0 auto;
+  border-right: 2px solid rgba(255,255,255,.85);
+  border-bottom: 2px solid rgba(255,255,255,.85);
+  transform: rotate(-45deg);
+  transition: transform .2s ease-in-out;
+}
+.sidebar-nav-group.is-open .sidebar-submenu-toggle::before {
+  transform: rotate(45deg);
+}
+.sidebar-submenu-toggle:hover,
+.sidebar-submenu-toggle:focus {
+  background-color: rgba(255,255,255,.1);
+  outline: none;
+}
+.sidebar-submenu[hidden] {
+  display: none;
+}
+.sidebar-submenu {
+  background-color: rgba(255,255,255,.03);
+}
+.sidebar-nav-subitem {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: .5rem;
+  padding-left: 2rem;
+  font-size: .78rem;
+  color: rgba(255,255,255,.92);
+  border-top: 1px solid rgba(255,255,255,.06);
+}
+.sidebar-nav-subitem-inner {
+  min-width: 0;
+  flex: 1;
+}
+.sidebar-nav-subitem-title {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.sidebar-nav-subitem .lesson-badge {
+  margin-left: 0;
+  flex: 0 0 auto;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
@@ -234,6 +307,12 @@ a.sidebar-nav-item:focus {
   .sidebar-nav-item {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
+  }
+  .sidebar-submenu-toggle {
+    flex-basis: 3rem;
+  }
+  .sidebar-nav-subitem {
+    padding-left: 2.5rem;
   }
 }
 
@@ -668,4 +747,3 @@ a.pagination-item:hover {
     margin-left: 8px;
   }
 }
-

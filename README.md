@@ -1,100 +1,113 @@
-# Jekyll Course Template - Multilingual Support
+# Math-Lover: A Discovery-Based Math Course for Children (Ages 8-12)
 
-Template để tạo trang web khóa học với hỗ trợ đa ngôn ngữ (Tiếng Anh và Tiếng Việt), được xây dựng trên Jekyll và GitHub Pages.
+A multilingual (English/Vietnamese) mathematics course website for children ages 8-12, built on Jekyll and GitHub Pages. This course emphasizes discovery-based learning, pattern recognition, and mathematical thinking rather than rote memorization.
 
-## 🎯 Tính năng chính
+## 🎯 Key Features
 
-- ✅ Hỗ trợ đa ngôn ngữ (English/Vietnamese)
-- ✅ Cấu trúc nội dung theo chương (chapters)
-- ✅ Tìm kiếm nội dung
-- ✅ Responsive design
-- ✅ MathJax support cho công thức toán học
-- ✅ Tự động deploy lên GitHub Pages
-- ✅ Custom Jekyll plugins
-- ✅ Exam/Quiz templates
+- ✅ Bilingual support (English/Vietnamese)
+- ✅ Chapter-based content structure
+- ✅ Responsive, child-friendly design
+- ✅ MathJax support for mathematical formulas
+- ✅ Automatic deployment to GitHub Pages
+- ✅ Custom Jekyll plugins for multilingual support
+- ✅ Discovery-based learning approach
+- ✅ Parent-child guidance sections
 
-## 🚀 Cách sử dụng template này
+**Target Audience:** Children ages 8-12 with parents/educators as guides
 
-> 📖 **Xem hướng dẫn chi tiết trong [SETUP.md](./SETUP.md)**
+## 🚀 Getting Started
 
-### Bước 1: Tạo repository mới từ template
+> 📖 **See detailed setup instructions in [SETUP.md](./SETUP.md) and [AGENTS.md](./AGENTS.md)**
 
-1. Nhấn nút "Use this template" trên GitHub
-2. Đặt tên cho repository mới của bạn (ví dụ: `machine-learning-course`)
-3. Chọn Public hoặc Private
-4. Nhấn "Create repository from template"
+### Step 1: Configure the Course
 
-### Bước 2: Cấu hình cơ bản
-
-Chỉnh sửa file `_config.yml`:
+Edit `_config.yml`:
 
 ```yaml
 # Setup
-title:               "Tên Khóa Học Của Bạn"
-description:         'Mô tả khóa học'
-url:                 https://your-username.github.io
-baseurl:             '/your-repo-name'
-imgurl:              https://your-username.github.io/your-repo-name/img
+title:               "Math-Lover: Discovering Numbers"
+description:         'A discovery-based math course for children ages 8-12'
+url:                 https://nglelinh.github.io
+baseurl:             '/math-lover'
+imgurl:              /math-lover/img
 
 # About/contact
 author:
-  name:              Tên Giảng Viên
-  email:             email@example.com
+  name:              Your Name
+  email:             your.email@example.com
 ```
 
-### Bước 3: Cấu hình GitHub Pages
+### Step 2: Configure GitHub Pages
 
-1. Vào **Settings > Pages**
-2. Chọn **Source**: "GitHub Actions"
-3. Workflow sẽ tự động chạy khi bạn push code
+1. Go to **Settings > Pages**
+2. Select **Source**: "GitHub Actions"
+3. Workflows automatically run when you push code
 
-### Bước 4: Tùy chỉnh nội dung
+### Step 3: Create Lesson Content
 
-#### Trang chủ
+Edit homepage content in `home/_posts/`:
+- `21-01-20-introduction.md` - Course introduction
+- `21-01-20-contents.md` - Course outline
+- `21-02-03-makers.md` - Creator information
 
-Chỉnh sửa các file trong `home/_posts/`:
-- `21-01-20-introduction.md` - Giới thiệu khóa học
-- `21-01-20-contents.md` - Nội dung khóa học
-- `21-02-03-makers.md` - Thông tin giảng viên
-
-#### Nội dung các chương
-
-Tạo nội dung trong `contents/en/` và `contents/vi/`:
+Create chapter content in `contents/en/` and `contents/vi/`:
 
 ```
 contents/
 ├── en/
-│   ├── chapter00/
-│   │   └── _posts/
-│   │       └── 21-01-01-00_Introduction.md
 │   ├── chapter01/
 │   │   └── _posts/
-│   │       └── 21-01-07-01_00_Introduction.md
+│   │       └── 2024-01-01-discovering-numbers.md
+│   ├── chapter02/
+│   │   └── _posts/
+│   │       └── 2024-01-15-patterns-and-sequences.md
 │   └── ...
 └── vi/
-    ├── chapter00/
+    ├── chapter01/
     │   └── _posts/
-    │       └── 21-01-01-00_Gioi_thieu.md
+    │       └── 2024-01-01-kham-pha-con-so.md
     └── ...
 ```
 
-**Format file bài giảng:**
+**Lesson Format (Child-Friendly):**
 
 ```markdown
 ---
 layout: post
-title: Tiêu đề bài giảng
-chapter: '00'
+title: Discovering Even and Odd Numbers
+chapter: '01'
 order: 1
-owner: Tên tác giả
-lang: en  # hoặc vi
-categories:
-- chapter00
+owner: Your Name
+lang: en
+categories: [chapter01]
+lesson_type: required  # or optional
 ---
 
-Nội dung bài giảng ở đây...
+## Objectives
+What will children discover in this lesson...
 
-Sử dụng LaTeX cho công thức: $$f(x) = x^2$$
+## Introduction
+A relatable story or scenario...
+
+## Core Idea
+Gradual explanation with concrete examples...
+
+## Guided Discovery Activity
+Short parent-child activities using objects or drawings...
+
+## Example Exploration
+Step-by-step walkthrough with numbers...
+
+## Parent Insight
+Mathematical ideas and cognitive skills being developed...
+
+## Thinking Questions
+Open-ended questions encouraging exploration...
+
+## Extension Activity
+Optional challenge for curious learners...
+
+Use math formulas for clarity: $$2, 4, 6, 8, \ldots$$
 ```
 
 ## 📁 Cấu trúc thư mục
@@ -113,7 +126,6 @@ Sử dụng LaTeX cho công thức: $$f(x) = x^2$$
 │   ├── multilang.rb         # Hỗ trợ đa ngôn ngữ
 │   ├── multilang_post_url.rb
 │   ├── redirect_generator.rb
-│   └── search_generator.rb
 ├── contents/                # Nội dung khóa học
 │   ├── en/                  # Nội dung tiếng Anh
 │   │   ├── chapter00/
@@ -138,132 +150,159 @@ Sử dụng LaTeX cho công thức: $$f(x) = x^2$$
 
 ## 🛠️ Development
 
-### Cài đặt môi trường
+### Setup
 
 ```bash
-# Cài đặt Ruby dependencies
+# Install Ruby dependencies
 bundle install
 
-# Chạy Jekyll local server
-bundle exec jekyll serve
+# Run Jekyll local server (with live reload)
+bundle exec jekyll serve --livereload
 
-# Truy cập tại
+# Access the site at
 http://127.0.0.1:4000/your-baseurl/
 ```
 
-### Thêm chương mới
+### Adding New Chapters
 
-1. Tạo thư mục mới trong `contents/en/chapterXX/` và `contents/vi/chapterXX/`
-2. Tạo thư mục `_posts/` bên trong
-3. Thêm file markdown với format: `YYYY-MM-DD-title.md`
-4. Đảm bảo front matter có đầy đủ thông tin
+1. Create directories: `contents/en/chapterXX/` and `contents/vi/chapterXX/`
+2. Create `_posts/` subdirectories
+3. Add markdown files: `YYYY-MM-DD-title.md`
+4. Ensure complete front matter (chapter, order, lang, etc.)
 
-### Thêm hình ảnh
+### Adding Images
 
-1. Đặt hình ảnh vào `img/chapter_img/`
-2. Tham chiếu trong markdown:
+1. Place images in `img/chapter_img/`
+2. Reference in markdown:
 
 ```markdown
-![Alt text]({{ site.imgurl }}/chapter_img/your-image.png)
+![Alt text]({{ site.baseurl }}/img/chapter_img/your-image.png)
 ```
 
-## 🎨 Tùy chỉnh giao diện
+### Important: Bilingual Content
+
+**Every lesson must be created in BOTH English and Vietnamese:**
+- Add to `contents/en/chapterXX/_posts/` with `lang: en`
+- Add to `contents/vi/chapterXX/_posts/` with `lang: vi`
+- Use similar file names with translated titles
+
+## 📚 Content Philosophy
+
+### Age-Appropriate Learning Progression
+
+- **Ages 8-9**: Number sense, place value, basic operations, simple fractions, shapes, patterns
+- **Ages 9-10**: Multiplicative thinking, logic puzzles, fraction fluency, measurement
+- **Ages 10-12**: Decimals, ratios, geometry, data, probability, introductory algebraic thinking
+
+### Discovery-Based Approach
+
+Each lesson follows a progression:
+1. **Play & Exploration** - Children discover through hands-on activities
+2. **Reasoning** - Guide children to notice patterns and ask questions
+3. **Explanation** - Formalize the mathematical idea
+
+Emphasize the "why" not the "what"—help children develop deep intuition.
+
+## 🎨 Customization
 
 ### CSS
 
-Chỉnh sửa các file trong `public/css/`:
-- `lanyon.css` - Layout chính
+Edit files in `public/css/`:
+- `lanyon.css` - Main layout
 - `poole.css` - Base styles
 - `syntax.css` - Code highlighting
 
 ### JavaScript
 
-Chỉnh sửa các file trong `public/js/`:
-- `script.js` - Chức năng chung
-- `multilang.js` - Xử lý đa ngôn ngữ
-- `search.js` - Tìm kiếm
+Edit files in `public/js/`:
+- `script.js` - General functionality
+- `multilang.js` - Language switching
 
-## 📝 Viết nội dung với LaTeX
+## 📝 Mathematical Content
 
-Template hỗ trợ MathJax để hiển thị công thức toán học:
+The course uses MathJax for mathematical formulas:
 
 ```markdown
-Inline math: $$f(x) = x^2$$
+Simple equation: $$2 + 3 = 5$$
 
-Display math:
+Pattern notation: $$2, 4, 6, 8, \ldots$$
+
+Multi-line equations:
 $$
-\min_{x \in \mathbb{R}^n} f(x)
+\begin{align}
+\text{Length} &= 5 \text{ units} \\
+\text{Width} &= 3 \text{ units} \\
+\text{Area} &= 5 \times 3 = 15 \text{ square units}
+\end{align}
 $$
 ```
 
-## 🔍 Tìm kiếm
+**Keep formulas minimal and child-friendly**—avoid complex notation that obscures concepts.
 
-Tìm kiếm được tạo tự động từ plugin `search_generator.rb`:
-- `search-index.json` - Index tiếng Anh
-- `search-index-vi.json` - Index tiếng Việt
+## 🌐 Multilingual Support
 
-## 🌐 Đa ngôn ngữ
+### Using Translation Tags
 
-### Sử dụng translation tags
-
-Trong template:
+In templates:
 
 ```liquid
-{% t home %}           <!-- Hiển thị "Home" hoặc "Trang chủ" -->
-{% language_switch %}  <!-- Nút chuyển ngôn ngữ -->
+{% t home %}           <!-- Shows "Home" or "Trang chủ" -->
+{% language_switch %}  <!-- Language switcher button -->
 ```
 
-### Cấu hình translations
+### Configure Translations
 
-Trong `_config.yml`:
+In `_config.yml`:
 
 ```yaml
 t:
   en:
-    title: "Course Title"
+    title: "Math-Lover"
     home: "Home"
     chapters: "Chapters"
   vi:
-    title: "Tiêu đề Khóa học"
+    title: "Tình Yêu Toán Học"
     home: "Trang chủ"
     chapters: "Các chương"
 ```
 
-## 📚 Tạo đề thi
+## 📖 Documentation
 
-Để tạo đề thi hoặc bài tập:
+- **[AGENTS.md](./AGENTS.md)** - Developer guidelines for contributing
+- **[SETUP.md](./SETUP.md)** - Detailed setup instructions
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** - Contribution guidelines
+- **[Cursor Rules](./cursor/rules/)** - AI assistant guidelines
 
-1. Tạo file HTML mới trong thư mục gốc
-2. Sử dụng cấu trúc HTML cơ bản với MathJax
-3. File sẽ tự động được build và deploy
+## 🤝 Contributing
 
-## 🤝 Đóng góp
+To contribute lessons:
 
-Để đóng góp vào khóa học:
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/chapter-XX-topic`
+3. Add content to **BOTH** `contents/en/` and `contents/vi/`
+4. Test locally: `bundle exec jekyll serve`
+5. Submit a Pull Request
 
-1. Fork repository
-2. Tạo branch mới: `git checkout -b feature/new-chapter`
-3. Commit changes: `git commit -am 'Add new chapter'`
-4. Push to branch: `git push origin feature/new-chapter`
-5. Tạo Pull Request
+Please follow the [Lesson Writing Guidelines](./AGENTS.md) for age-appropriate, discovery-based content.
 
 ## 📄 License
 
-Template này sử dụng theme Lanyon và được phát triển cho mục đích giáo dục.
+This course template uses the Lanyon theme and is developed for educational purposes.
 
 ## 🙏 Credits
 
 - **Theme**: [Lanyon](https://github.com/poole/lanyon) by Mark Otto
 - **Jekyll**: Static site generator
 - **MathJax**: Mathematical formula rendering
+- **Inspiration**: Mathematical circles and discovery-based learning
 
-## 📞 Hỗ trợ
+## 📞 Support
 
-Nếu có vấn đề, vui lòng:
-1. Kiểm tra [Issues](../../issues)
-2. Tạo issue mới nếu chưa có
-3. Liên hệ qua email trong `_config.yml`
+If you encounter issues:
+1. Check [Issues](../../issues)
+2. Create a new issue if needed
+3. See contact info in `_config.yml`
 
 ---
 
-**Happy Teaching! 🎓**
+**Happy Teaching and Discovering! 🎓✨**

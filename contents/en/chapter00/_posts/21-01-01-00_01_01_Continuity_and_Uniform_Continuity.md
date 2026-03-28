@@ -8,6 +8,7 @@ lang: en
 categories:
 - chapter00
 lesson_type: required
+hidden: true
 ---
 
 This lesson introduces the fundamental concepts of continuity and uniform continuity, which are essential for understanding the behavior of functions in optimization.

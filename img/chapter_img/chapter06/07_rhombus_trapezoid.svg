@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="shape pair">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#223042"/>
+      </marker>
+    </defs>
+    <rect width="960" height="540" fill="#FFF7ED"/><rect x="90" y="120" width="340" height="300" rx="28" fill="#FFFFFF" stroke="#223042" stroke-width="4"/><rect x="530" y="120" width="340" height="300" rx="28" fill="#FFFFFF" stroke="#223042" stroke-width="4"/><polygon points="260.0,180 340,260.0 260.0,340 180,260.0" fill="#FF8A65" stroke="#223042" stroke-width="4" stroke-linejoin="round"/><polygon points="652.0,180 748.0,180 780,340 620,340" fill="#38B8C5" stroke="#223042" stroke-width="4" stroke-linejoin="round"/></svg>

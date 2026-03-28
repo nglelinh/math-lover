@@ -17,7 +17,8 @@
     {% endcomment %}
 
     {% assign current_lang = page.lang | default: site.default_lang %}
-    {% assign pages_list = site.pages | where: "lang", current_lang | sort: "chapter" %}
+    {% assign unsorted_pages = site.pages | where: "lang", current_lang %}
+    {% assign pages_list = unsorted_pages | sort: "chapter" | sort: "sequence" %}
     
     <!-- Hiển thị các chương có sẵn cho ngôn ngữ hiện tại -->
     {% for node in pages_list %}
@@ -25,23 +26,62 @@
         {% if node.layout == "page" %}
           {% assign is_hidden = node.hidden | default: false %}
           {% unless is_hidden %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">
-              {{node.chapter}}. {{ node.title }}
-              {% if node.lesson_type %}
-                {% if node.lesson_type == 'required' %}
-                  <span class="lesson-badge required">{% t required %}</span>
-                {% elsif node.lesson_type == 'optional' %}
-                  <span class="lesson-badge optional">{% t optional %}</span>
-                {% endif %}
-              {% endif %}
-            </a>
+            {% assign full_name = node.chapter | prepend: "chapter" %}
+            {% assign chapter_posts = site.categories[full_name] %}
+            {% if chapter_posts == nil %}
+              {% assign chapter_posts = "" | split: "" %}
+            {% endif %}
+            {% assign chapter_posts = chapter_posts | where: "lang", current_lang | sort: "order" %}
+            {% assign chapter_posts = chapter_posts | where_exp: "post", "post.hidden != true" %}
+            {% assign submenu_id = "sidebar-submenu-" | append: current_lang | append: "-" | append: node.chapter %}
+            {% assign is_current_lesson = page.layout == "post" and page.chapter == node.chapter %}
+            {% assign display_chapter = node.sequence | default: node.chapter %}
+
+            {% if chapter_posts.size > 0 %}
+              <div class="sidebar-nav-group{% if is_current_lesson %} is-open{% endif %}">
+                <div class="sidebar-nav-group-heading">
+                  <a class="sidebar-nav-item sidebar-nav-chapter{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">
+                    {{ display_chapter }}. {{ node.title }}
+                  </a>
+                  <button
+                    class="sidebar-submenu-toggle"
+                    type="button"
+                    aria-controls="{{ submenu_id }}"
+                    aria-expanded="{% if is_current_lesson %}true{% else %}false{% endif %}"
+                    aria-label="{% if current_lang == 'vi' %}Ẩn hiện danh sách bài học chương {{ display_chapter }}{% else %}Toggle lessons for chapter {{ display_chapter }}{% endif %}">
+                    <span class="sr-only">
+                      {% if current_lang == 'vi' %}
+                        Ẩn hiện danh sách bài học chương {{ display_chapter }}
+                      {% else %}
+                        Toggle lessons for chapter {{ display_chapter }}
+                      {% endif %}
+                    </span>
+                  </button>
+                </div>
+
+                <div class="sidebar-submenu" id="{{ submenu_id }}"{% unless is_current_lesson %} hidden{% endunless %}>
+                  {% for post in chapter_posts %}
+                    <a class="sidebar-nav-item sidebar-nav-subitem{% if page.url == post.url %} active{% endif %}" href="{{ post.url | absolute_url }}" title="{{ post.title | escape }}">
+                      <span class="sidebar-nav-subitem-inner">
+                        <span class="sidebar-nav-subitem-title">{{ post.title }}</span>
+                      </span>
+                    </a>
+                  {% endfor %}
+                </div>
+              </div>
+            {% else %}
+              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">
+                {{ display_chapter }}. {{ node.title }}
+              </a>
+            {% endif %}
           {% endunless %}
         {% endif %}
       {% endif %}
     {% endfor %}
     
     <!-- Nếu không có nội dung cho ngôn ngữ hiện tại, hiển thị thông báo -->
-    {% if pages_list.size == 0 %}
+    {% assign visible_pages = pages_list | where_exp: "node", "node.hidden != true and node.layout == 'page'" %}
+    {% if visible_pages.size == 0 %}
       <div class="sidebar-nav-item" style="color: #999; font-style: italic;">
         {% if current_lang == 'vi' %}
           Nội dung tiếng Việt đang được cập nhật...
@@ -52,10 +92,10 @@
       
       <!-- Hiển thị link chuyển sang ngôn ngữ có nội dung -->
       {% assign other_lang = current_lang == 'en' ? 'vi' : 'en' %}
-      {% assign other_pages = site.pages | where: "lang", other_lang | sort: "chapter" %}
+      {% assign other_pages = site.pages | where: "lang", other_lang | sort: "chapter" | sort: "sequence" %}
       {% if other_pages.size > 0 %}
         <div class="sidebar-nav-item">
-          <a href="{{ '/contents/' | append: other_lang | append: '/chapter00/' | absolute_url }}" style="color: #268bd2;">
+          <a href="{{ '/contents/' | append: other_lang | append: '/chapter01/' | absolute_url }}" style="color: #268bd2;">
             {% if current_lang == 'vi' %}
               → Xem nội dung tiếng Anh
             {% else %}

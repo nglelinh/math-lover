@@ -7,6 +7,7 @@ module Jekyll
       # Tạo redirect pages cho các URL cũ
       create_chapter_redirects(site)
       create_post_redirects(site)
+      create_vi_lesson_redirects(site)
     end
 
     private
@@ -39,6 +40,17 @@ module Jekyll
           # Redirect đến URL mới
           create_redirect_page(site, old_url.sub(/^\//, '') + 'index.html', post.url)
         end
+      end
+    end
+
+    def create_vi_lesson_redirects(site)
+      redirect_map = site.data['vi_lesson_redirects']
+      return unless redirect_map.is_a?(Hash)
+
+      redirect_map.each do |old_url, new_url|
+        next if old_url.to_s.empty? || new_url.to_s.empty?
+
+        create_redirect_page(site, old_url.sub(%r{^/}, '') + 'index.html', new_url)
       end
     end
 

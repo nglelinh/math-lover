@@ -5,13 +5,6 @@ layout: default
 <div class="post">
   <h1 class="post-title">
     {{ page.title }}
-    {% if page.lesson_type %}
-      {% if page.lesson_type == 'required' %}
-        <span class="lesson-badge required large">{% t required %}</span>
-      {% elsif page.lesson_type == 'optional' %}
-        <span class="lesson-badge optional large">{% t optional %}</span>
-      {% endif %}
-    {% endif %}
   </h1>
   {{ content }}
 </div>
@@ -28,44 +21,70 @@ layout: default
 {% endif %}
 
 {% assign full_name = page.chapter | prepend: "chapter" %}
-{% assign all_posts = site.categories[full_name] | sort_natural: "order" %}
+{% assign all_posts = site.categories[full_name] %}
+{% if all_posts == nil %}
+  {% assign all_posts = "" | split: "" %}
+{% endif %}
+{% assign all_posts = all_posts | sort: "order" %}
 {% assign current_lang = page.lang | default: site.default_lang %}
-{% assign post_list = all_posts | where: "lang", current_lang %}
+{% assign post_list = all_posts | where: "lang", current_lang | where_exp: "post", "post.hidden != true" %}
+{% assign required_posts = post_list | where: "lesson_type", "required" %}
 
-{% assign post_order = page.order%}
+{% assign previous_post = nil %}
+{% assign next_post = nil %}
+{% assign found_current = false %}
 
-{% assign post_before = page.order | minus: 1 %}
-{% assign post_after = page.order | plus: 1 %}
+{% if page.lesson_type == "required" %}
+  {% for post in required_posts %}
+    {% if found_current and next_post == nil %}
+      {% assign next_post = post %}
+      {% break %}
+    {% endif %}
+    {% if post.url == page.url %}
+      {% assign found_current = true %}
+    {% else %}
+      {% assign previous_post = post %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
 
-{% if post_list.size >= 2 %}
+{% if page.lesson_type == "required" %}
+  {% if previous_post or next_post %}
 <div class="related">
   <ul class="related-posts">
-    {% for post in post_list%}
-      {% if post.order == post_before %}
-        <li>
-          <h2>Previous Post</h2>
-          <h3>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h3>
-        </li>
-      {% endif %}
-    {% endfor %}
-    {% for post in post_list%}
-    {% if post.order == post_after %}
+    {% if previous_post %}
       <li>
-        <h2>Next Post</h2>
+        <h2>Previous Post</h2>
         <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
+          <a href="{{ site.baseurl }}{{ previous_post.url }}">
+            {{ previous_post.title }}
           </a>
         </h3>
       </li>
     {% endif %}
-  {% endfor %}
+    {% if next_post %}
+      <li>
+        <h2>Next Post</h2>
+        <h3>
+          <a href="{{ site.baseurl }}{{ next_post.url }}">
+            {{ next_post.title }}
+          </a>
+        </h3>
+      </li>
+    {% endif %}
   </ul>
 </div>
+  {% endif %}
+{% endif %}
+
+{% if page.lang == 'vi' %}
+<script src="{{ site.baseurl }}/public/js/interactive-vi-lessons.js"></script>
+{% elsif page.chapter == '01' %}
+<script src="{{ site.baseurl }}/public/js/interactive-even-numbers.js"></script>
+{% elsif page.chapter == '02' %}
+<script src="{{ site.baseurl }}/public/js/interactive-skip-counting.js"></script>
+{% elsif page.chapter == '04' %}
+<script src="{{ site.baseurl }}/public/js/interactive-fractions.js"></script>
 {% endif %}
 
 

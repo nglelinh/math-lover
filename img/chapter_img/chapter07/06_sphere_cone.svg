@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="sphere and cone">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+              markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+        <path d="M 0 0 L 10 5 L 0 10 z" fill="#223042"/>
+      </marker>
+    </defs>
+    <rect width="960" height="540" fill="#FFF7ED"/><rect x="90" y="120" width="340" height="300" rx="28" fill="#FFFFFF" stroke="#223042" stroke-width="4"/><rect x="530" y="120" width="340" height="300" rx="28" fill="#FFFFFF" stroke="#223042" stroke-width="4"/><circle cx="260" cy="270" r="95" fill="#7AA8FF" stroke="#223042" stroke-width="4"/><ellipse cx="248" cy="258" rx="49.4" ry="26.6" fill="none" stroke="#FFFFFF" stroke-width="10"/><ellipse cx="700" cy="188.0" rx="75.0" ry="20" fill="#FCE7C3" stroke="#223042" stroke-width="4"/><polygon points="700,170.0 625.0,370.0 775.0,370.0" fill="#FF8A65" stroke="#223042" stroke-width="4" stroke-linejoin="round"/><ellipse cx="700" cy="370.0" rx="75.0" ry="20" fill="#FCE7C3" stroke="#223042" stroke-width="4"/></svg>

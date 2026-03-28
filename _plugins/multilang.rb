@@ -40,6 +40,15 @@ module Jekyll
   end
 
   class LanguageSwitchTag < Liquid::Tag
+    def first_visible_chapter_url(site, lang)
+      visible_page = site.pages
+                         .select { |p| p.data['lang'] == lang && p.data['layout'] == 'page' && !p.data['hidden'] }
+                         .sort_by { |p| [p.data['sequence'].to_i.zero? ? 999 : p.data['sequence'].to_i, p.data['chapter'].to_s] }
+                         .first
+
+      visible_page ? visible_page.url : '/'
+    end
+
     def render(context)
       site = context.registers[:site]
       page = context.registers[:page]
@@ -55,8 +64,8 @@ module Jekyll
         potential_url = current_url.gsub("/contents/#{current_lang}/", "/contents/#{other_lang}/")
         
         # Kiểm tra xem trang tương ứng có tồn tại không (tìm trong cả pages và posts)
-        target_page = site.pages.find { |p| p.url == potential_url && p.data['lang'] == other_lang }
-        target_post = site.posts.docs.find { |p| p.url == potential_url && p.data['lang'] == other_lang }
+        target_page = site.pages.find { |p| p.url == potential_url && p.data['lang'] == other_lang && !p.data['hidden'] }
+        target_post = site.posts.docs.find { |p| p.url == potential_url && p.data['lang'] == other_lang && !p.data['hidden'] }
         
         if target_page || target_post
           other_url = potential_url
@@ -70,7 +79,8 @@ module Jekyll
             matching_post = site.posts.docs.find do |post|
               post.data['lang'] == other_lang && 
               post.data['chapter'] == current_post.data['chapter'] &&
-              post.data['order'] == current_post.data['order']
+              post.data['order'] == current_post.data['order'] &&
+              !post.data['hidden']
             end
             
             if matching_post
@@ -78,21 +88,23 @@ module Jekyll
             else
               # Fallback về trang chapter tương ứng
               chapter_num = current_post.data['chapter']
-              fallback_page = site.pages.find { |p| p.url == "/contents/#{other_lang}/chapter#{chapter_num}/" && p.data['lang'] == other_lang }
-              other_url = fallback_page ? "/contents/#{other_lang}/chapter#{chapter_num}/" : "/contents/#{other_lang}/chapter00/"
+              fallback_page = site.pages.find do |p|
+                p.url == "/contents/#{other_lang}/chapter#{chapter_num}/" &&
+                p.data['lang'] == other_lang &&
+                !p.data['hidden']
+              end
+              other_url = fallback_page ? "/contents/#{other_lang}/chapter#{chapter_num}/" : first_visible_chapter_url(site, other_lang)
             end
           else
-            # Fallback về trang chapter00
-            fallback_page = site.pages.find { |p| p.url == "/contents/#{other_lang}/chapter00/" && p.data['lang'] == other_lang }
-            other_url = fallback_page ? "/contents/#{other_lang}/chapter00/" : "/"
+            other_url = first_visible_chapter_url(site, other_lang)
           end
         end
       elsif current_url.start_with?("/contents/")
         # Nếu URL hiện tại không có ngôn ngữ, thêm ngôn ngữ khác
         other_url = current_url.gsub("/contents/", "/contents/#{other_lang}/")
       else
-        # Mặc định chuyển về chapter00 của ngôn ngữ khác
-        other_url = "/contents/#{other_lang}/chapter00/"
+        # Mặc định chuyển về chapter đầu tiên đang hiển thị của ngôn ngữ khác
+        other_url = first_visible_chapter_url(site, other_lang)
       end
       
       switch_text = site.config['t'][current_lang]['switch_language']

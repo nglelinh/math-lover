@@ -1,0 +1,656 @@
+{
+  "contents/vi/chapter00/_posts/21-01-01-00_01_01_Continuity_and_Uniform_Continuity.md": {
+    "template": "number-lab",
+    "mode": "numbers",
+    "container_id": "vi-interactive-21-01-01-00-01-01-continuity-and-uniform-continuity",
+    "guidance": "Em hãy thay đổi số liệu rồi nói lại điều em quan sát được bằng lời của mình."
+  },
+  "contents/vi/chapter01/_posts/26-01-01-01_01_Kham_pha_so.md": {
+    "template": "number-lab",
+    "mode": "parity",
+    "container_id": "vi-interactive-26-01-01-01-01-kham-pha-so",
+    "guidance": "Em hãy đổi số rồi giải thích vì sao số đó ghép được thành từng cặp hay còn dư 1."
+  },
+  "contents/vi/chapter01/_posts/26-01-01-01_02_Mau_hinh.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-01-02-mau-hinh",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter01/_posts/26-01-01-01_11_Phep_tru.md": {
+    "template": "number-lab",
+    "mode": "numbers",
+    "container_id": "vi-interactive-26-01-01-01-11-phep-tru",
+    "guidance": "Em hãy thay đổi số liệu rồi nói lại điều em quan sát được bằng lời của mình."
+  },
+  "contents/vi/chapter01/_posts/26-01-01-01_12_Phep_cong.md": {
+    "template": "number-lab",
+    "mode": "numbers",
+    "container_id": "vi-interactive-26-01-01-01-12-phep-cong",
+    "guidance": "Em hãy thay đổi số liệu rồi nói lại điều em quan sát được bằng lời của mình."
+  },
+  "contents/vi/chapter01/_posts/26-01-01-01_15_Quy_luat.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-01-15-quy-luat",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_01_So_nguyen_to.md": {
+    "template": "number-lab",
+    "mode": "prime",
+    "container_id": "vi-interactive-26-01-01-02-01-so-nguyen-to",
+    "guidance": "Em hãy đổi số rồi đọc to các ước của nó để xem khi nào số chỉ còn đúng hai ước."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_02_UCLN_BCNN.md": {
+    "template": "array-lab",
+    "mode": "factors",
+    "container_id": "vi-interactive-26-01-01-02-02-ucln-bcnn",
+    "guidance": "Em hãy thử nhiều cách xếp hàng bằng nhau để tìm các ước và bội quen thuộc."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_03_Nhan_nhanh.md": {
+    "template": "array-lab",
+    "mode": "division",
+    "container_id": "vi-interactive-26-01-01-02-03-nhan-nhanh",
+    "guidance": "Em hãy đổi tổng số đồ vật và cách xếp để xem khi nào phép chia hết và khi nào còn dư."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_04_Chia_nhanh.md": {
+    "template": "array-lab",
+    "mode": "division",
+    "container_id": "vi-interactive-26-01-01-02-04-chia-nhanh",
+    "guidance": "Em hãy đổi tổng số đồ vật và cách xếp để xem khi nào phép chia hết và khi nào còn dư."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_05_Tinh_chat.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-02-05-tinh-chat",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_06_Phan_so_nang_cao.md": {
+    "template": "fraction-lab",
+    "mode": "equivalent",
+    "container_id": "vi-interactive-26-01-01-02-06-phan-so-nang-cao",
+    "guidance": "Em hãy thay đổi tử số và mẫu số rồi quan sát khi nào hai phân số biểu diễn cùng một lượng."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-02_10_On_tap_Kiem_tra.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-02-10-on-tap-kiem-tra",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-33_toan_hoc_the_thao.md": {
+    "template": "measurement-lab",
+    "mode": "ratio",
+    "container_id": "vi-interactive-2026-03-11-03-33-toan-hoc-the-thao",
+    "guidance": "Em hãy đổi hai lượng rồi quan sát tỉ số rút gọn thay đổi ra sao."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-34_toan_hoc_am_nhac.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-2026-03-11-03-34-toan-hoc-am-nhac",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-35_toan_hoc_kien_truc.md": {
+    "template": "geometry-lab",
+    "mode": "plane",
+    "container_id": "vi-interactive-2026-03-11-03-35-toan-hoc-kien-truc",
+    "guidance": "Em hãy thay đổi chiều dài và chiều rộng rồi đoán trước chu vi và diện tích."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-36_cuoc_song_khong_toan.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-2026-03-11-03-36-cuoc-song-khong-toan",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-37_toan_hoc_y_te.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-2026-03-11-03-37-toan-hoc-y-te",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-38_toan_hoc_khong_gian.md": {
+    "template": "geometry-lab",
+    "mode": "solid",
+    "container_id": "vi-interactive-2026-03-11-03-38-toan-hoc-khong-gian",
+    "guidance": "Em hãy thay đổi kích thước khối hình để quan sát thể tích tăng hay giảm như thế nào."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-39_toan_hoc_lap_trinh.md": {
+    "template": "sequence-lab",
+    "mode": "binary",
+    "container_id": "vi-interactive-2026-03-11-03-39-toan-hoc-lap-trinh",
+    "guidance": "Em hãy đổi số thập phân rồi xem mã nhị phân thay đổi ra sao."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-40_toan_hoc_nau_an.md": {
+    "template": "measurement-lab",
+    "mode": "ratio",
+    "container_id": "vi-interactive-2026-03-11-03-40-toan-hoc-nau-an",
+    "guidance": "Em hãy đổi hai lượng rồi quan sát tỉ số rút gọn thay đổi ra sao."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-41_toan_hoc_mua_sam.md": {
+    "template": "measurement-lab",
+    "mode": "money",
+    "container_id": "vi-interactive-2026-03-11-03-41-toan-hoc-mua-sam",
+    "guidance": "Em hãy thay đổi số tiền và đoán xem có thể ghép thành những tờ tiền nào."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-42_tong_ket_chuong_3.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-2026-03-11-03-42-tong-ket-chuong-3",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-43_toan_hoc_giao_thong.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-2026-03-11-03-43-toan-hoc-giao-thong",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-44_toan_hoc_nong_nghiep.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-2026-03-11-03-44-toan-hoc-nong-nghiep",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-45_toan_hoc_thoi_tiet.md": {
+    "template": "data-lab",
+    "mode": "statistics",
+    "container_id": "vi-interactive-2026-03-11-03-45-toan-hoc-thoi-tiet",
+    "guidance": "Em hãy thay đổi số liệu của từng nhóm rồi đọc tổng, trung bình và nhóm lớn nhất."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-46_toan_hoc_du_lich.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-2026-03-11-03-46-toan-hoc-du-lich",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-47_toan_hoc_tro_choi.md": {
+    "template": "data-lab",
+    "mode": "probability",
+    "container_id": "vi-interactive-2026-03-11-03-47-toan-hoc-tro-choi",
+    "guidance": "Em hãy dự đoán trước kết quả rồi bấm mô phỏng nhiều lần để so sánh với dự đoán của mình."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-48_toan_hoc_tai_chinh.md": {
+    "template": "measurement-lab",
+    "mode": "money",
+    "container_id": "vi-interactive-2026-03-11-03-48-toan-hoc-tai-chinh",
+    "guidance": "Em hãy thay đổi số tiền và đoán xem có thể ghép thành những tờ tiền nào."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-49_toan_hoc_phim_anh.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-2026-03-11-03-49-toan-hoc-phim-anh",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-50_toan_hoc_thoi_gian.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-2026-03-11-03-50-toan-hoc-thoi-gian",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-51_ky_nang_giai_toan.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-2026-03-11-03-51-ky-nang-giai-toan",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-52_toan_hoc_y_te.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-2026-03-11-03-52-toan-hoc-y-te",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-53_toan_hoc_khoa_hoc.md": {
+    "template": "data-lab",
+    "mode": "statistics",
+    "container_id": "vi-interactive-2026-03-11-03-53-toan-hoc-khoa-hoc",
+    "guidance": "Em hãy thay đổi số liệu của từng nhóm rồi đọc tổng, trung bình và nhóm lớn nhất."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-54_bai_hoc_cuoi_cung.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-2026-03-11-03-54-bai-hoc-cuoi-cung",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-55_toan_hoc_the_thao.md": {
+    "template": "measurement-lab",
+    "mode": "ratio",
+    "container_id": "vi-interactive-2026-03-11-03-55-toan-hoc-the-thao",
+    "guidance": "Em hãy đổi hai lượng rồi quan sát tỉ số rút gọn thay đổi ra sao."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-56_toan_hoc_nghe_thuat.md": {
+    "template": "geometry-lab",
+    "mode": "plane",
+    "container_id": "vi-interactive-2026-03-11-03-56-toan-hoc-nghe-thuat",
+    "guidance": "Em hãy thay đổi chiều dài và chiều rộng rồi đoán trước chu vi và diện tích."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-57_toan_hoc_khoa_hoc_may_tinh.md": {
+    "template": "sequence-lab",
+    "mode": "binary",
+    "container_id": "vi-interactive-2026-03-11-03-57-toan-hoc-khoa-hoc-may-tinh",
+    "guidance": "Em hãy đổi số thập phân rồi xem mã nhị phân thay đổi ra sao."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-58_toan_hoc_am_nhac.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-2026-03-11-03-58-toan-hoc-am-nhac",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-59_toan_hoc_thien_van.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-2026-03-11-03-59-toan-hoc-thien-van",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter03/_posts/2026-03-11-03-60_toan_hoc_trong_kho.md": {
+    "template": "array-lab",
+    "mode": "factors",
+    "container_id": "vi-interactive-2026-03-11-03-60-toan-hoc-trong-kho",
+    "guidance": "Em hãy thử nhiều cách xếp hàng bằng nhau để tìm các ước và bội quen thuộc."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_01_Toan_tu_duy.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-03-01-toan-tu-duy",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_04_Bai_toan_do.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-03-04-bai-toan-do",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_05_Tam_giac_Pascal.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-03-05-tam-giac-pascal",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_06_Luoi_so.md": {
+    "template": "challenge-lab",
+    "mode": "logic",
+    "container_id": "vi-interactive-26-01-01-03-06-luoi-so",
+    "guidance": "Em hãy đọc kỹ câu hỏi, đoán trước kết quả rồi mới kiểm tra đáp án."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_07_Tim_quy_luat.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-03-07-tim-quy-luat",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_08_Toan_vui.md": {
+    "template": "data-lab",
+    "mode": "probability",
+    "container_id": "vi-interactive-26-01-01-03-08-toan-vui",
+    "guidance": "Em hãy dự đoán trước kết quả rồi bấm mô phỏng nhiều lần để so sánh với dự đoán của mình."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_09_Fibonacci.md": {
+    "template": "sequence-lab",
+    "mode": "fibonacci",
+    "container_id": "vi-interactive-26-01-01-03-09-fibonacci",
+    "guidance": "Em hãy đổi hai số đầu rồi quan sát dãy Fibonacci mới được tạo ra như thế nào."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-03_10_On_tap.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-03-10-on-tap",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter04/_posts/2024-04-01-mot-nua-va-mot-phan-tu.md": {
+    "template": "fraction-lab",
+    "mode": "fractions",
+    "container_id": "vi-interactive-2024-04-01-mot-nua-va-mot-phan-tu",
+    "guidance": "Em hãy đổi số phần được tô rồi so sánh phần đang chọn với cả hình ban đầu."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-04_01_Dai_so_bien_so.md": {
+    "template": "balance-lab",
+    "mode": "equation",
+    "container_id": "vi-interactive-26-01-01-04-01-dai-so-bien-so",
+    "guidance": "Em hãy thay đổi số bí mật cho đến khi hai vế cân bằng rồi giải thích cách làm của em."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-04_04_Ty_le_thuan_nghich.md": {
+    "template": "measurement-lab",
+    "mode": "ratio",
+    "container_id": "vi-interactive-26-01-01-04-04-ty-le-thuan-nghich",
+    "guidance": "Em hãy đổi hai lượng rồi quan sát tỉ số rút gọn thay đổi ra sao."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-04_10_On_tap_Tong_ket_chuong_4.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-04-10-on-tap-tong-ket-chuong-4",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter05/_posts/26-01-01-05_01_So_chinh_phuong_nhung_con_so_dac_biet.md": {
+    "template": "number-lab",
+    "mode": "square",
+    "container_id": "vi-interactive-26-01-01-05-01-so-chinh-phuong-nhung-con-so-dac-biet",
+    "guidance": "Em hãy thử nhiều số rồi tìm xem số nào có thể ghép thành hình vuông đều nhau."
+  },
+  "contents/vi/chapter05/_posts/26-01-01-05_02_Uoc_so_va_Boi_so_tim_hieu_moi_quan_he.md": {
+    "template": "array-lab",
+    "mode": "factors",
+    "container_id": "vi-interactive-26-01-01-05-02-uoc-so-va-boi-so-tim-hieu-moi-quan-he",
+    "guidance": "Em hãy thử nhiều cách xếp hàng bằng nhau để tìm các ước và bội quen thuộc."
+  },
+  "contents/vi/chapter05/_posts/26-01-01-05_03_So_nguyen_to_nhung_vien_gach_co_ban_cua_toan_hoc.md": {
+    "template": "number-lab",
+    "mode": "prime",
+    "container_id": "vi-interactive-26-01-01-05-03-so-nguyen-to-nhung-vien-gach-co-ban-cua-toan-hoc",
+    "guidance": "Em hãy đổi số rồi đọc to các ước của nó để xem khi nào số chỉ còn đúng hai ước."
+  },
+  "contents/vi/chapter05/_posts/26-01-01-05_04_Uoc_chung_lon_nhat_tim_so_lon_nhat_chia_het_cho_ca_hai.md": {
+    "template": "array-lab",
+    "mode": "factors",
+    "container_id": "vi-interactive-26-01-01-05-04-uoc-chung-lon-nhat-tim-so-lon-nhat-chia-het-cho-ca-hai",
+    "guidance": "Em hãy thử nhiều cách xếp hàng bằng nhau để tìm các ước và bội quen thuộc."
+  },
+  "contents/vi/chapter05/_posts/26-01-01-05_05_Boi_chung_nho_nhat_tim_so_nho_nhat_chia_het_cho_ca_hai.md": {
+    "template": "array-lab",
+    "mode": "factors",
+    "container_id": "vi-interactive-26-01-01-05-05-boi-chung-nho-nhat-tim-so-nho-nhat-chia-het-cho-ca-hai",
+    "guidance": "Em hãy thử nhiều cách xếp hàng bằng nhau để tìm các ước và bội quen thuộc."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-06_01_So_thap_phan_nhung_con_so_co_phan_thap_phan.md": {
+    "template": "fraction-lab",
+    "mode": "decimal",
+    "container_id": "vi-interactive-26-01-01-06-01-so-thap-phan-nhung-con-so-co-phan-thap-phan",
+    "guidance": "Em hãy đổi số phần được tô rồi so sánh cách viết bằng phân số và số thập phân."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-06_02_Cong_tru_so_thap_phan_Cong_va_tru_cac_so_co_phay.md": {
+    "template": "fraction-lab",
+    "mode": "decimal",
+    "container_id": "vi-interactive-26-01-01-06-02-cong-tru-so-thap-phan-cong-va-tru-cac-so-co-phay",
+    "guidance": "Em hãy đổi số phần được tô rồi so sánh cách viết bằng phân số và số thập phân."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-06_03_Nhan_chia_so_thap_phan_Nhan_va_chia_cac_so_co_phay.md": {
+    "template": "fraction-lab",
+    "mode": "decimal",
+    "container_id": "vi-interactive-26-01-01-06-03-nhan-chia-so-thap-phan-nhan-va-chia-cac-so-co-phay",
+    "guidance": "Em hãy đổi số phần được tô rồi so sánh cách viết bằng phân số và số thập phân."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-06_04_Ti_so_va_ti_le_So_sanh_hai_dai_luong.md": {
+    "template": "measurement-lab",
+    "mode": "ratio",
+    "container_id": "vi-interactive-26-01-01-06-04-ti-so-va-ti-le-so-sanh-hai-dai-luong",
+    "guidance": "Em hãy đổi hai lượng rồi quan sát tỉ số rút gọn thay đổi ra sao."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-06_05_Ti_le_thuan_va_ti_le_nghich_Khi_hai_dai_luong_thay_doi_cung_nhau.md": {
+    "template": "measurement-lab",
+    "mode": "ratio",
+    "container_id": "vi-interactive-26-01-01-06-05-ti-le-thuan-va-ti-le-nghich-khi-hai-dai-luong-thay-doi-cung-nhau",
+    "guidance": "Em hãy đổi hai lượng rồi quan sát tỉ số rút gọn thay đổi ra sao."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-06_10_On_tap_Tong_ket_chuong_6.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-06-10-on-tap-tong-ket-chuong-6",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-07_01_Xac_suat_Kha_nang_xay_ra_cua_su_kien.md": {
+    "template": "data-lab",
+    "mode": "probability",
+    "container_id": "vi-interactive-26-01-01-07-01-xac-suat-kha-nang-xay-ra-cua-su-kien",
+    "guidance": "Em hãy dự đoán trước kết quả rồi bấm mô phỏng nhiều lần để so sánh với dự đoán của mình."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-07_02_Thong_ke_Thu_thap_va_phan_tich_du_lieu.md": {
+    "template": "data-lab",
+    "mode": "statistics",
+    "container_id": "vi-interactive-26-01-01-07-02-thong-ke-thu-thap-va-phan-tich-du-lieu",
+    "guidance": "Em hãy thay đổi số liệu của từng nhóm rồi đọc tổng, trung bình và nhóm lớn nhất."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-07_03_Bieu_do_Trinh_bay_du_lieu_truc_quan.md": {
+    "template": "data-lab",
+    "mode": "statistics",
+    "container_id": "vi-interactive-26-01-01-07-03-bieu-do-trinh-bay-du-lieu-truc-quan",
+    "guidance": "Em hãy thay đổi số liệu của từng nhóm rồi đọc tổng, trung bình và nhóm lớn nhất."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-07_09_Toan_hoc_trong_tin_hoc_Ma_nhi_phan.md": {
+    "template": "sequence-lab",
+    "mode": "binary",
+    "container_id": "vi-interactive-26-01-01-07-09-toan-hoc-trong-tin-hoc-ma-nhi-phan",
+    "guidance": "Em hãy đổi số thập phân rồi xem mã nhị phân thay đổi ra sao."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-07_10_On_tap_Tong_ket_chuong_7.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-07-10-on-tap-tong-ket-chuong-7",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter01/_posts/26-01-01-03_03_So_lon.md": {
+    "template": "number-lab",
+    "mode": "numbers",
+    "container_id": "vi-interactive-26-01-01-03-03-so-lon",
+    "guidance": "Em hãy thay đổi số liệu rồi nói lại điều em quan sát được bằng lời của mình."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-01_03_Phep_nhan.md": {
+    "template": "array-lab",
+    "mode": "multiplication",
+    "container_id": "vi-interactive-26-01-01-01-03-phep-nhan",
+    "guidance": "Em hãy kéo số hàng và số cột để nhìn phép nhân như một sơ đồ đồ vật theo hàng và cột."
+  },
+  "contents/vi/chapter02/_posts/26-01-01-01_06_Phep_chia.md": {
+    "template": "array-lab",
+    "mode": "division",
+    "container_id": "vi-interactive-26-01-01-01-06-phep-chia",
+    "guidance": "Em hãy đổi tổng số đồ vật và cách xếp để xem khi nào phép chia hết và khi nào còn dư."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-01_07_Phan_so.md": {
+    "template": "fraction-lab",
+    "mode": "equivalent",
+    "container_id": "vi-interactive-26-01-01-01-07-phan-so",
+    "guidance": "Em hãy thay đổi tử số và mẫu số rồi quan sát khi nào hai phân số biểu diễn cùng một lượng."
+  },
+  "contents/vi/chapter05/_posts/26-01-01-01_13_So_am.md": {
+    "template": "number-lab",
+    "mode": "signed",
+    "container_id": "vi-interactive-26-01-01-01-13-so-am",
+    "guidance": "Em hãy kéo thanh trượt sang trái và sang phải để quan sát số âm, số dương và mốc 0."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-02_07_So_thap_phan.md": {
+    "template": "fraction-lab",
+    "mode": "decimal",
+    "container_id": "vi-interactive-26-01-01-02-07-so-thap-phan",
+    "guidance": "Em hãy đổi số phần được tô rồi so sánh cách viết bằng phân số và số thập phân."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-04_03_Phan_so_thap_phan.md": {
+    "template": "fraction-lab",
+    "mode": "decimal",
+    "container_id": "vi-interactive-26-01-01-04-03-phan-so-thap-phan",
+    "guidance": "Em hãy đổi số phần được tô rồi so sánh cách viết bằng phân số và số thập phân."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-01_19_Ty_le.md": {
+    "template": "array-lab",
+    "mode": "division",
+    "container_id": "vi-interactive-26-01-01-01-19-ty-le",
+    "guidance": "Em hãy đổi tổng số đồ vật và cách xếp để xem khi nào phép chia hết và khi nào còn dư."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-02_08_Ti_le_phan_tram.md": {
+    "template": "fraction-lab",
+    "mode": "percent",
+    "container_id": "vi-interactive-26-01-01-02-08-ti-le-phan-tram",
+    "guidance": "Em hãy thử nhiều phần được tô rồi đọc kết quả dưới dạng phần trăm."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-04_05_Phan_tram_ung_dung.md": {
+    "template": "fraction-lab",
+    "mode": "percent",
+    "container_id": "vi-interactive-26-01-01-04-05-phan-tram-ung-dung",
+    "guidance": "Em hãy thử nhiều phần được tô rồi đọc kết quả dưới dạng phần trăm."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-07_05_Ti_le_phan_tram_nang_cao_Ung_dung_trong_cuoc_song.md": {
+    "template": "fraction-lab",
+    "mode": "percent",
+    "container_id": "vi-interactive-26-01-01-07-05-ti-le-phan-tram-nang-cao-ung-dung-trong-cuoc-song",
+    "guidance": "Em hãy thử nhiều phần được tô rồi đọc kết quả dưới dạng phần trăm."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-01_10_Do_luong.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-26-01-01-01-10-do-luong",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-04_07_Do_luong_don_vi_do_dai_khoi_luong.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-26-01-01-04-07-do-luong-don-vi-do-dai-khoi-luong",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-01_08_Thoi_gian.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-26-01-01-01-08-thoi-gian",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-04_08_Thoi_gian_xem_dong_ho_va_lich.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-26-01-01-04-08-thoi-gian-xem-dong-ho-va-lich",
+    "guidance": "Em hãy đổi giờ và phút rồi tự đọc lại kết quả bằng các đơn vị khác nhau."
+  },
+  "contents/vi/chapter06/_posts/26-01-01-01_09_Tien.md": {
+    "template": "measurement-lab",
+    "mode": "money",
+    "container_id": "vi-interactive-26-01-01-01-09-tien",
+    "guidance": "Em hãy thay đổi số tiền và đoán xem có thể ghép thành những tờ tiền nào."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-01_04_Suy_luan.md": {
+    "template": "challenge-lab",
+    "mode": "logic",
+    "container_id": "vi-interactive-26-01-01-01-04-suy-luan",
+    "guidance": "Em hãy đọc kỹ câu hỏi, đoán trước kết quả rồi mới kiểm tra đáp án."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-04_02_Phuong_trinh.md": {
+    "template": "balance-lab",
+    "mode": "equation",
+    "container_id": "vi-interactive-26-01-01-04-02-phuong-trinh",
+    "guidance": "Em hãy thay đổi số bí mật cho đến khi hai vế cân bằng rồi giải thích cách làm của em."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-07_04_Phuong_trinh_nang_cao_Giai_toan_co_an_so.md": {
+    "template": "balance-lab",
+    "mode": "equation",
+    "container_id": "vi-interactive-26-01-01-07-04-phuong-trinh-nang-cao-giai-toan-co-an-so",
+    "guidance": "Em hãy thay đổi số bí mật cho đến khi hai vế cân bằng rồi giải thích cách làm của em."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-07_08_Day_so_Tim_quy_luat_va_so_tiep_theo.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-07-08-day-so-tim-quy-luat-va-so-tiep-theo",
+    "guidance": "Em hãy thử nhiều bước nhảy khác nhau rồi nói số tiếp theo trong dãy."
+  },
+  "contents/vi/chapter03/_posts/26-01-01-01_20_Game_Puzzle.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-01-20-game-puzzle",
+    "guidance": "Em hãy suy nghĩ trước, chọn đáp án rồi tự giải thích vì sao đáp án đó hợp lý."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-01_14_Xac_suat.md": {
+    "template": "data-lab",
+    "mode": "probability",
+    "container_id": "vi-interactive-26-01-01-01-14-xac-suat",
+    "guidance": "Em hãy dự đoán trước kết quả rồi bấm mô phỏng nhiều lần để so sánh với dự đoán của mình."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-04_09_Du_lieu_thu_thap_va_bieu_dien_thong_tin.md": {
+    "template": "data-lab",
+    "mode": "statistics",
+    "container_id": "vi-interactive-26-01-01-04-09-du-lieu-thu-thap-va-bieu-dien-thong-tin",
+    "guidance": "Em hãy thay đổi số liệu của từng nhóm rồi đọc tổng, trung bình và nhóm lớn nhất."
+  },
+  "contents/vi/chapter07/_posts/26-01-01-01_17_Bieu_do.md": {
+    "template": "data-lab",
+    "mode": "charts",
+    "container_id": "vi-interactive-26-01-01-01-17-bieu-do",
+    "guidance": "Em hãy đổi độ cao các cột rồi luyện cách đọc biểu đồ bằng lời."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-05_06_Phan_so_bang_nhau_khi_nao_hai_phan_so_bang_nhau.md": {
+    "template": "fraction-lab",
+    "mode": "equivalent",
+    "container_id": "vi-interactive-26-01-01-05-06-phan-so-bang-nhau-khi-nao-hai-phan-so-bang-nhau",
+    "guidance": "Em hãy thay đổi tử số và mẫu số rồi quan sát khi nào hai phân số biểu diễn cùng một lượng."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-05_07_So_sanh_phan_so_ai_lon_hon_ai_nho_hon.md": {
+    "template": "fraction-lab",
+    "mode": "equivalent",
+    "container_id": "vi-interactive-26-01-01-05-07-so-sanh-phan-so-ai-lon-hon-ai-nho-hon",
+    "guidance": "Em hãy thay đổi tử số và mẫu số rồi quan sát khi nào hai phân số biểu diễn cùng một lượng."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-05_08_Cong_tru_phan_so_ket_hop_cac_phan.md": {
+    "template": "fraction-lab",
+    "mode": "equivalent",
+    "container_id": "vi-interactive-26-01-01-05-08-cong-tru-phan-so-ket-hop-cac-phan",
+    "guidance": "Em hãy thay đổi tử số và mẫu số rồi quan sát khi nào hai phân số biểu diễn cùng một lượng."
+  },
+  "contents/vi/chapter04/_posts/26-01-01-05_09_Hon_so_khi_phan_so_lon_hon_1.md": {
+    "template": "fraction-lab",
+    "mode": "equivalent",
+    "container_id": "vi-interactive-26-01-01-05-09-hon-so-khi-phan-so-lon-hon-1",
+    "guidance": "Em hãy thay đổi tử số và mẫu số rồi quan sát khi nào hai phân số biểu diễn cùng một lượng."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-01_05_Hinh_hoc.md": {
+    "template": "geometry-lab",
+    "mode": "plane",
+    "container_id": "vi-interactive-26-01-01-01-05-hinh-hoc",
+    "guidance": "Em hãy thay đổi chiều dài và chiều rộng rồi đoán trước chu vi và diện tích."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-02_09_Goc_Duong_thang.md": {
+    "template": "geometry-lab",
+    "mode": "angle",
+    "container_id": "vi-interactive-26-01-01-02-09-goc-duong-thang",
+    "guidance": "Em hãy kéo thanh trượt từ 0° đến 360° rồi nói xem đó là góc không, góc nhọn, góc vuông, góc tù, góc bẹt, góc phản hay góc tròn."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-04_06_Hinh_hoc_hinh_tam_giac_hinh_vuong.md": {
+    "template": "geometry-lab",
+    "mode": "triangle",
+    "container_id": "vi-interactive-26-01-01-04-06-hinh-hoc-hinh-tam-giac-hinh-vuong",
+    "guidance": "Em hãy đổi đáy và chiều cao rồi kiểm tra lại công thức diện tích tam giác."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-06_06_Hinh_hoc_Hinh_chu_nhat_va_hinh_binh_hanh.md": {
+    "template": "geometry-lab",
+    "mode": "plane",
+    "container_id": "vi-interactive-26-01-01-06-06-hinh-hoc-hinh-chu-nhat-va-hinh-binh-hanh",
+    "guidance": "Em hãy thay đổi chiều dài và chiều rộng rồi đoán trước chu vi và diện tích."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-06_07_Hinh_hoc_Hinh_thoi_va_hinh_thang.md": {
+    "template": "geometry-lab",
+    "mode": "plane",
+    "container_id": "vi-interactive-26-01-01-06-07-hinh-hoc-hinh-thoi-va-hinh-thang",
+    "guidance": "Em hãy thay đổi chiều dài và chiều rộng rồi đoán trước chu vi và diện tích."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-01_18_Chu_vi_Dien_tich.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-26-01-01-01-18-chu-vi-dien-tich",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-03_02_Dien_tich_Nang_cao.md": {
+    "template": "geometry-lab",
+    "mode": "plane",
+    "container_id": "vi-interactive-26-01-01-03-02-dien-tich-nang-cao",
+    "guidance": "Em hãy thay đổi chiều dài và chiều rộng rồi đoán trước chu vi và diện tích."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-06_08_Dien_tich_hinh_tam_giac_va_hinh_tron.md": {
+    "template": "geometry-lab",
+    "mode": "circle",
+    "container_id": "vi-interactive-26-01-01-06-08-dien-tich-hinh-tam-giac-va-hinh-tron",
+    "guidance": "Em hãy đổi bán kính rồi đoán trước chu vi và diện tích của hình tròn."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-01_16_Hinh_khoi.md": {
+    "template": "geometry-lab",
+    "mode": "solid",
+    "container_id": "vi-interactive-26-01-01-01-16-hinh-khoi",
+    "guidance": "Em hãy thay đổi kích thước khối hình để quan sát thể tích tăng hay giảm như thế nào."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-06_09_The_tich_hinh_hop_chu_nhat_va_hinh_lap_phuong.md": {
+    "template": "geometry-lab",
+    "mode": "solid",
+    "container_id": "vi-interactive-26-01-01-06-09-the-tich-hinh-hop-chu-nhat-va-hinh-lap-phuong",
+    "guidance": "Em hãy thay đổi kích thước khối hình để quan sát thể tích tăng hay giảm như thế nào."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-07_06_Hinh_hoc_khong_gian_Hinh_cau_va_hinh_non.md": {
+    "template": "geometry-lab",
+    "mode": "solid",
+    "container_id": "vi-interactive-26-01-01-07-06-hinh-hoc-khong-gian-hinh-cau-va-hinh-non",
+    "guidance": "Em hãy thay đổi kích thước khối hình để quan sát thể tích tăng hay giảm như thế nào."
+  },
+  "contents/vi/chapter08/_posts/26-01-01-07_07_Hinh_tru_Do_luong_va_Ung_dung.md": {
+    "template": "measurement-lab",
+    "mode": "length",
+    "container_id": "vi-interactive-26-01-01-07-07-hinh-tru-do-luong-va-ung-dung",
+    "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  }
+}
