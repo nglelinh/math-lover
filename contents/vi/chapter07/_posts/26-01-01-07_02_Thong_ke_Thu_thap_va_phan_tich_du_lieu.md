@@ -9,10 +9,13 @@ categories:
 - chapter07
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách thu thập và phân tích dữ liệu như các nhà khoa học!
-
 ![Thong ke]({{ site.baseurl }}/img/chapter_img/chapter07/02_statistics.svg)
+
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về biểu đồ và số liệu. Hôm nay, chúng ta sẽ học sâu hơn về thống kê nhé!
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -66,11 +74,15 @@ Trung bình = Tổng / Số lượng
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Thu thập dữ liệu
-
 Khảo sát chiều cao (cm) của 10 bạn trong lớp:
 145, 150, 142, 155, 148, 151, 147, 153, 149, 146
+
+
+
+![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính trung bình
 

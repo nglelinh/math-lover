@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá sâu hơn về góc và đường thẳng!
-
 ![Goc Duong thang]({{ site.baseurl }}/img/chapter_img/chapter02/02_09_goc_duong_thang.svg)
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -30,17 +33,26 @@ Trong bài học này, em sẽ:
 
 Em đã biết góc nhọn, góc vuông, góc tù. Hôm nay, chúng ta sẽ học sâu hơn nhé!
 
+![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
+
 ---
 
 ## Toán học qua các thời đại
 
 ### 🕰️ Ai phát minh ra độ (°) ?
-
 **Độ (°)** được phát minh bởi người **Babylon** cách đây **hơn 4.000 năm**!
-
 Họ chọn **360°** cho một vòng tròn vì:
 - 360 = 1 × 2 × 3 × 4 × 5 × 6 (rất nhiều ước!)
 - 360 gần bằng số ngày trong năm (365 ngày)
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 **Câu chuyện thú vị:** Người Babylon thích số 60 vì nó chia hết cho nhiều số. Vì thế:
 - 1 giờ = 60 phút

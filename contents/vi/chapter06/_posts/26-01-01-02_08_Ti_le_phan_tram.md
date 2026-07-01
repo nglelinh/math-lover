@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học về tỷ số và cách tính phần trăm trong cuộc sống!
-
 ![Ti le phan tram]({{ site.baseurl }}/img/chapter_img/chapter02/02_08_ti_le_phan_tram.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -30,15 +33,24 @@ Trong bài học này, em sẽ:
 
 Em đã biết về tỷ lệ. Hôm nay, chúng ta sẽ học sâu hơn nhé!
 
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
+
 ---
 
 ## Toán học qua các thời đại
 
 ### 🕰️ Ai phát minh ra phần trăm?
-
 **Phần trăm (%)** được sử dụng lần đầu bởi nhà toán học người Ý **Leonardo Fibonacci** vào năm **1202**.
-
 **Câu chuyện thú vị:** Fibonacci đi khắp nơi học toán và mang kiến thức toán học của người Ả Rập về châu Âu. Ông cũng nổi tiếng với **dãy Fibonacci** mà chúng ta đã học ở bài trước!
+
+
+
+![Xoắn ốc Fibonacci](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fibonacci_spiral_2019.svg/960px-Fibonacci_spiral_2019.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### 📜 Tại sao lại là "%" ?
 

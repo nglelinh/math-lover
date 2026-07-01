@@ -10,10 +10,19 @@ categories:
 lesson_type: required
 hidden: true
 ---
-
 Bài học này giới thiệu các khái niệm cơ bản về tính liên tục và tính liên tục đều, những khái niệm quan trọng để hiểu hành vi của các hàm số trong tối ưu hóa.
-
 ---
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ## Tính liên tục và Tính liên tục đều
 

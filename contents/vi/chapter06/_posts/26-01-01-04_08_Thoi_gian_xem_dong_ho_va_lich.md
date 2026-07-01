@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách xem giờ và lịch như một người thông thái!
-
 ![Thoi gian xem dong ho va lich]({{ site.baseurl }}/img/chapter_img/chapter04/04_08_thoi_gian_xem_dong_ho_va_lich.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết các buổi trong ngày (sáng, trưa, chiều, tối). Hôm nay, chúng ta sẽ học xem giờ chính xác nhé!
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -69,13 +77,17 @@ Em đã biết các buổi trong ngày (sáng, trưa, chiều, tối). Hôm nay,
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Xem giờ
-
 Em hãy nhìn đồng hồ và cho biết:
 - Bây giờ là mấy giờ?
 - Kim ngắn chỉ số nào?
 - Kim dài chỉ số nào?
+
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính khoảng thời gian
 

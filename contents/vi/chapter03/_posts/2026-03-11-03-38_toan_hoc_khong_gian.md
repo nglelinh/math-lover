@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong việc khám phá không gian vũ trụ, hiểu được tầm quan trọng của toán học trong thiên văn học, và nhận ra những kỳ công của toán học trong việc đưa con người lên Mặt Trăng.
@@ -19,18 +18,27 @@ Trong bài học này, các em sẽ khám phá toán học trong việc khám ph
 ## Giới thiệu
 
 Các em có nhìn lên bầu trời đêm không?
-
 Những ngôi sao, Mặt Trăng, các hành tinh...
-
 **Toán học giúp chúng ta khám phá vũ trụ!**
+
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Đo Khoảng Cách Đến Các Vì Sao
-
 ### Năm ánh sáng
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Khoảng cách trong vũ trụ đo bằng **năm ánh sáng**!
 

@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá thêm hai hình học thú vị - hình thoi và hình thang!
-
 ![Hinh thoi hinh thang]({{ site.baseurl }}/img/chapter_img/chapter06/07_rhombus_trapezoid.svg)
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về hình chữ nhật và hình bình hành. Hôm nay, chúng ta sẽ học thêm về các hình mới nhé!
+
+![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -75,10 +83,14 @@ Em đã biết về hình chữ nhật và hình bình hành. Hôm nay, chúng t
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Nhận biết hình
-
 Trong các hình sau, hình nào là hình thoi, hình nào là hình thang?
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính diện tích hình thoi
 

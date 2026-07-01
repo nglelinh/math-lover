@@ -8,10 +8,14 @@ lang: en
 categories: [chapter03]
 lesson_type: required
 ---
-
 ## Objectives
 
 In this lesson, children will discover patterns in number sequences, learn to identify the "rule" that generates a pattern, understand the relationship between input and output in patterns, and use patterns to predict future numbers.
+
+![Arithmetic progression diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 
@@ -22,6 +26,11 @@ Before starting this lesson, children should be comfortable with:
 - Multiplication as repeated addition
 - Understanding variables from previous lessons
 - Skip counting (by 2s, 5s, 10s)
+
+![Number line showing even and odd numbers](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/EvenOddNumberLine.svg/960px-EvenOddNumberLine.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

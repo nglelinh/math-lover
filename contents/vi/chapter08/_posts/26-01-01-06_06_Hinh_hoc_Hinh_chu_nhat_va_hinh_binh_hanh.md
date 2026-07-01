@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá hai hình học đặc biệt - hình chữ nhật và hình bình hành!
-
 ![Hinh chu nhat hinh binh hanh]({{ site.baseurl }}/img/chapter_img/chapter06/06_rectangle_parallelogram.svg)
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về hình vuông và hình tam giác. Hôm nay, chúng ta sẽ học thêm về các hình mới nhé!
+
+![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -69,10 +77,14 @@ Em đã biết về hình vuông và hình tam giác. Hôm nay, chúng ta sẽ h
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Nhận biết hình
-
 Trong các hình sau, hình nào là hình chữ nhật, hình nào là hình bình hành?
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính chu vi và diện tích
 

@@ -9,10 +9,13 @@ categories:
 - chapter05
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá những con số rất đặc biệt - số chính phương!
-
 ![So chinh phuong]({{ site.baseurl }}/img/chapter_img/chapter05/01_square_numbers.svg)
+
+
+![Số chính phương 1, 4, 9, 16…](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Square_number_16_as_sum_of_two_triangular_numbers.svg/960px-Square_number_16_as_sum_of_two_triangular_numbers.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết nhân các số từ 1 đến 10. Hôm nay, chúng ta sẽ khám phá một loại số rất thú vị nhé!
+
+![Bảng lũy thừa — nhân đôi từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Powers_chart.png/960px-Powers_chart.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -64,14 +72,18 @@ Vì khi ta vẽ các chấm tròn thành hình vuông, số chấm tạo thành 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm số chính phương
-
 Em hãy tính:
 - 6² = ?
 - 7² = ?
 - 8² = ?
 - 10² = ?
+
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Vẽ hình vuông
 

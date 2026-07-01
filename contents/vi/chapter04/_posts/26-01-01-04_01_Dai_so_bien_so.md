@@ -10,10 +10,13 @@ categories:
 lesson_type: required
 hidden: true
 ---
-
 Trong bài học này, chúng ta sẽ làm quen với đại số - cách dùng chữ cái để thay cho số!
-
 ![Dai so bien so]({{ site.baseurl }}/img/chapter_img/chapter04/04_01_dai_so_bien_so.svg)
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -30,6 +33,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết cộng, trừ, nhân, chia. Hôm nay, chúng ta sẽ dùng chữ cái để đại diện cho số nhé!
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -58,13 +66,17 @@ Em đã biết cộng, trừ, nhân, chia. Hôm nay, chúng ta sẽ dùng chữ 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm x
-
 Tìm x:
 - x + 7 = 15
 - x - 3 = 12
 - x × 6 = 30
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Viết biểu thức
 

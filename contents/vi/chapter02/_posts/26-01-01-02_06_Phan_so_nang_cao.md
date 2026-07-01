@@ -10,10 +10,13 @@ categories:
 lesson_type: required
 hidden: true
 ---
-
 Trong bài học này, chúng ta sẽ học cách so sánh và cộng trừ phân số nâng cao!
-
 ![Phan so nang cao]({{ site.baseurl }}/img/chapter_img/chapter02/02_06_phan_so_nang_cao.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -32,18 +35,27 @@ Trong bài học này, em sẽ:
 
 Em đã biết cộng trừ phân số cùng mẫu. Hôm nay, chúng ta sẽ học nâng cao hơn nhé!
 
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
+
 ---
 
 ## Toán học qua các thời đại
 
 ### 🕰️ Ai phát minh ra phân số?
-
 **Phân số** được phát minh bởi người **Ai Cập cổ đại** cách đây **hơn 3.000 năm**!
-
 Họ dùng phân số để:
 - Chia bánh, chia lúa
 - Đo đất đai
 - Xây dựng kim tự tháp
+
+
+
+![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 **Câu chuyện thú vị:** Người Ai Cập chỉ dùng **phân số có tử số là 1** (gọi là phân số Ẻ) như 1/2, 1/3, 1/4... Họ phải cộng nhiều phân số để tạo ra các phân số khác!
 

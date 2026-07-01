@@ -9,7 +9,6 @@ categories: [chapter04]
 lesson_type: required
 story_arc: The Fair Share Kingdom
 ---
-
 ## Hook
 
 Imagine you have one delicious chocolate bar and you want to share it fairly with your best friend. How do you cut it so both of you get exactly the same amount? What if you want to share with 3 friends instead? Welcome to the wonderful world of fractions!
@@ -20,6 +19,11 @@ Imagine you have one delicious chocolate bar and you want to share it fairly wit
 
 In this lesson, children will discover what fractions are by exploring halves (1/2) and quarters (1/4). They'll learn to recognize equal parts, understand fair sharing, and see that fractions represent parts of a whole. This builds spatial reasoning, equality concepts, and foundational number sense.
 
+![Pie chart for percentages](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
+
 ---
 
 ## Prerequisites
@@ -29,6 +33,11 @@ Before starting this lesson, children should be comfortable with:
 - Basic division concepts (sharing equally)
 - Recognizing shapes and their parts
 - Counting to 10
+
+![Balance scale for equations](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

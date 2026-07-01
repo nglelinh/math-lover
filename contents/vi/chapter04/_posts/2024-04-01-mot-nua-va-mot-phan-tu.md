@@ -10,10 +10,15 @@ categories:
 lesson_type: required
 story_arc: Vương Quốc Chia Sẻ Công Bằng
 ---
-
 ## Mở Đầu
 
 Hãy tưởng tượng bạn có một thanh socola ngon và muốn chia đều cho người bạn thân nhất. Làm thế nào để cắt sao cho cả hai đều nhận được lượng bằng nhau? Còn nếu muốn chia cho 3 người bạn thì sao? Chào mừng đến với thế giới tuyệt vời của **phân số**!
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -30,6 +35,12 @@ Trước khi bắt đầu bài học này, các em cần:
 - Biết khái niệm chia cơ bản (chia đều)
 - Nhận biết các hình và các phần của chúng
 - Đếm đến 10
+
+
+![Trò chơi board game — chiến lược và xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Board_games.jpg/960px-Board_games.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
@@ -123,6 +134,12 @@ Càng cắt nhiều phần, mỗi phần càng nhỏ!
 ---
 
 ## Hoạt Động Khám Phá Có Hướng Dẫn
+
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 
 <!-- vi-interactive:start -->

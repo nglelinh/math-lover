@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong nghệ thuật.
@@ -22,16 +21,25 @@ Trong bài học này, các em sẽ khám phá toán học trong nghệ thuật.
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Nghệ thuật và toán học có mối liên hệ đặc biệt!
-
 Hãy cùng khám phá!
+
+
+![Tòa nhà — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Building.jpg/960px-Building.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
 ## 1. Tỷ Lệ Vàng
-
 ### Trong hội họa
+
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Tỷ lệ 1:1.618 được dùng trong nhiều tác phẩm nghệ thuật!
 

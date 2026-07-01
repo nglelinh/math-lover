@@ -9,10 +9,13 @@ categories:
 - chapter05
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách tìm số lớn nhất có thể chia hết cho cả hai số cùng lúc!
-
 ![UCLN]({{ site.baseurl }}/img/chapter_img/chapter05/04_gcf.svg)
+
+
+![Sàng Eratosthenes — lọc số nguyên tố](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sieve_of_Eratosthenes.gif)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết tìm ước số của một số. Hôm nay, chúng ta sẽ học cách tìm ước chung nhé!
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -68,13 +76,17 @@ Em đã biết tìm ước số của một số. Hôm nay, chúng ta sẽ học
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm UCLN
-
 Tìm UCLN của:
 - 6 và 9 → UCLN = 3
 - 10 và 15 → UCLN = 5
 - 8 và 12 → UCLN = 4
+
+
+
+![Trái đất — số lớn trong vũ trụ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Ứng dụng
 

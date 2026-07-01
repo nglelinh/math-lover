@@ -10,7 +10,6 @@ lesson_type: required
 story_arc: The Fair Share Kingdom
 puzzle_difficulty: medium
 ---
-
 ## Hook
 
 The Royal Puzzle Master has arrived in the Fair Share Kingdom! "I challenge the children of the kingdom," he announces. "Solve my fraction riddles and puzzles, and you shall earn the title of **Master Fraction Detective**!" Are you ready for the challenge?
@@ -21,6 +20,11 @@ The Royal Puzzle Master has arrived in the Fair Share Kingdom! "I challenge the 
 
 In this lesson, children will apply everything they've learned about fractions through engaging puzzles, riddles, and creative challenges. They'll develop problem-solving strategies, recognize patterns, think flexibly about fractions, and build confidence in their mathematical reasoning. This is where all their fraction knowledge comes together!
 
+![Pie chart for percentages](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
+
 ---
 
 ## Prerequisites
@@ -30,6 +34,11 @@ Before starting this lesson, children should be comfortable with:
 - Comparing fractions
 - Recognizing equivalent fractions (like 1/2 = 2/4)
 - Basic fraction operations in context
+
+![Balance scale for equations](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

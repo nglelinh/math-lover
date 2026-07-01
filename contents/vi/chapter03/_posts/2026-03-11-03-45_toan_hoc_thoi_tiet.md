@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong dự báo thời tiết, hiểu được tầm quan trọng của toán học trong việc dự đoán thời tiết, và nhận ra ứng dụng của toán học trong cuộc sống hàng ngày.
@@ -19,16 +18,25 @@ Trong bài học này, các em sẽ khám phá toán học trong dự báo thờ
 ## Giới thiệu
 
 Các em xem dự báo thời tiết mỗi ngày không?
-
 Dự báo thời tiết dựa hoàn toàn vào toán học!
-
 Hãy cùng khám phá!
+
+
+![Mây trời — dự báo thời tiết](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloud.jpg/960px-Cloud.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
 ## 1. Nhiệt Độ
-
 ### Đo nhiệt độ
+
+
+
+![Nhiệt kế — đo nhiệt độ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Thermometer.jpg/960px-Thermometer.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 - Celsius (°C): Nước đóng băng 0°C, sôi 100°C
 - Fahrenheit (°F): Nước đóng băng 32°F, sôi 212°F

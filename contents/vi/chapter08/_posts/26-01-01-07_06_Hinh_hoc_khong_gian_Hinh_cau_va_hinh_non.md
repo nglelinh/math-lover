@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá hai hình không gian thú vị - hình cầu và hình nón!
-
 ![Hinh cau hinh non]({{ site.baseurl }}/img/chapter_img/chapter07/06_sphere_cone.svg)
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về hình hộp chữ nhật và hình lập phương. Hôm nay, chúng ta sẽ học thêm về các hình mới nhé!
+
+![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -79,10 +87,14 @@ V = (1/3) × 3.14 × 2² × 6
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Nhận biết hình
-
 Tìm các đồ vật có dạng hình cầu và hình nón trong nhà.
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính thể tích hình cầu
 

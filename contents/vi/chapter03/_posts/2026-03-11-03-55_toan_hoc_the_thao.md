@@ -9,7 +9,6 @@ categories: [chapter03]
 lesson_type: optional
 hidden: true
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong thể thao.
@@ -22,16 +21,25 @@ Trong bài học này, các em sẽ khám phá toán học trong thể thao.
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Thể thao cần nhiều toán học!
-
 Hãy cùng khám phá!
+
+
+![Quả bóng đá — toán trong thể thao](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/960px-Soccer_ball.svg.png)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
 ## 1. Bóng Đá
-
 ### Tính điểm
+
+
+
+![Bóng rổ — tính điểm và tỷ số](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kent_Benson_attempts_a_hook_shot_over_Ken_Ferdinand.jpg/960px-Kent_Benson_attempts_a_hook_shot_over_Ken_Ferdinand.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 - Thắng: 3 điểm
 - Hòa: 1 điểm

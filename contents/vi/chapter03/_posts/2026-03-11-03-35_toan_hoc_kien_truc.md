@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong kiến trúc, hiểu được tại sao các công trình lại có hình dạng đặc biệt, và nhận ra tầm quan trọng của toán học trong xây dựng.
@@ -19,21 +18,30 @@ Trong bài học này, các em sẽ khám phá toán học trong kiến trúc, h
 ## Giới thiệu
 
 Các em đã nhìn thấy những công trình kiến trúc đẹp chưa?
-
 - Tháp Eiffel
 - Kim tự tháp Giza
 - Cầu Golden Gate
 - Nhà thờ Notre Dame
-
 **Tất cả đều có toán học!**
+
+
+
+![Tòa nhà — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Building.jpg/960px-Building.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Kim Tự Tháp Ai Cập
-
 ### Hình dạng
+
+
+
+![Cây cầu — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg/960px-Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Kim tự tháp có:
 - Đáy hình vuông

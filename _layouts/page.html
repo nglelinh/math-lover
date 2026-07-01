@@ -29,26 +29,48 @@ layout: default
 <div class="page">
   <h1>{{ display_chapter }}. {{ page.title }}</h1>
 
-  <div class="chapter-overview" style="margin-bottom: 2rem;">
+  <div class="chapter-overview">
     {{ content }}
   </div>
 
-  <div class="chapter-status" style="margin-bottom: 2rem; padding: 1rem 1.25rem; background: #f8f9fa; border-left: 4px solid #268bd2;">
-    <strong>{% if current_lang == "vi" %}Trạng thái song ngữ{% else %}Translation status{% endif %}:</strong>
-    {% if current_lang == "vi" %}
-      Tiếng Anh hiện có {{ other_required_posts.size }}/{{ required_posts.size }} bài cốt lõi tương ứng cho chương này.
-    {% else %}
-      English currently includes {{ required_posts.size }}/{{ other_required_posts.size }} core lessons for this chapter.
-    {% endif %}
+  {% if required_posts.size > 0 %}
+    {% assign translation_percent = other_required_posts.size | times: 100 | divided_by: required_posts.size %}
+  {% else %}
+    {% assign translation_percent = 0 %}
+  {% endif %}
+
+  <div class="chapter-progress-card">
+    <div class="chapter-progress-card__head">
+      <h2>{% if current_lang == "vi" %}Tiến độ chương{% else %}Chapter progress{% endif %}</h2>
+      <span class="chapter-progress-card__badge">{{ translation_percent }}%</span>
+    </div>
+    <p>
+      <strong>{% if current_lang == "vi" %}Trạng thái song ngữ{% else %}Translation status{% endif %}:</strong>
+      {% if current_lang == "vi" %}
+        Tiếng Anh hiện có {{ other_required_posts.size }}/{{ required_posts.size }} bài cốt lõi tương ứng cho chương này.
+      {% else %}
+        English currently includes {{ required_posts.size }}/{{ other_required_posts.size }} core lessons for this chapter.
+      {% endif %}
+    </p>
+    <div class="chapter-progress-track" role="img" aria-label="{% if current_lang == 'vi' %}Tien do song ngu {{ translation_percent }} phan tram{% else %}Bilingual progress {{ translation_percent }} percent{% endif %}">
+      <span class="chapter-progress-fill" style="width: {{ translation_percent }}%;"></span>
+    </div>
+    <p class="chapter-progress-note">
+      {% if current_lang == "vi" %}
+        ⭐ Hoàn thành cốt lõi: {{ required_posts.size }} bài | Mở rộng: {{ optional_posts.size }} bài
+      {% else %}
+        ⭐ Core lessons: {{ required_posts.size }} | Enrichment lessons: {{ optional_posts.size }}
+      {% endif %}
+    </p>
   </div>
 
-  <h2>{% if current_lang == "vi" %}Lộ trình cốt lõi{% else %}Core learning path{% endif %}</h2>
+  <h2>{% if current_lang == "vi" %}🎯 Lộ trình cốt lõi{% else %}🎯 Core learning path{% endif %}</h2>
 
   {% if required_posts.size > 0 %}
-    <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
+    <ul class="chapter-lesson-list">
       {% for post in required_posts %}
-        <li style="margin: 0 0 0.85rem 0;">
-          <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        <li>
+          <a href="{{ post.url | absolute_url }}"><span aria-hidden="true">⭐</span> {{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>
@@ -72,10 +94,10 @@ layout: default
     {% endfor %}
 
     {% if missing_orders.size > 0 %}
-      <h2>Coming Soon</h2>
-      <ul style="list-style: none; padding-left: 0; margin-bottom: 2rem;">
+      <h2>🚧 Coming Soon</h2>
+      <ul class="chapter-lesson-list">
         {% for post in missing_orders %}
-          <li style="margin: 0 0 0.85rem 0;">
+          <li>
             <span>{{ post.order }}. {{ post.title }}</span>
             <span class="lesson-badge optional">Coming soon</span>
           </li>
@@ -85,11 +107,11 @@ layout: default
   {% endif %}
 
   {% if optional_posts.size > 0 %}
-    <h2>{% if current_lang == "vi" %}Mở rộng và khám phá thêm{% else %}Enrichment and exploration{% endif %}</h2>
-    <ul style="list-style: none; padding-left: 0;">
+    <h2>{% if current_lang == "vi" %}✨ Mở rộng và khám phá thêm{% else %}✨ Enrichment and exploration{% endif %}</h2>
+    <ul class="chapter-lesson-list">
       {% for post in optional_posts %}
-        <li style="margin: 0 0 0.85rem 0;">
-          <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        <li>
+          <a href="{{ post.url | absolute_url }}"><span aria-hidden="true">✨</span> {{ post.title }}</a>
         </li>
       {% endfor %}
     </ul>

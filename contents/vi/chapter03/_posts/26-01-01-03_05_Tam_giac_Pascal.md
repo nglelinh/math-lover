@@ -9,9 +9,7 @@ categories:
 - chapter03
 lesson_type: required
 ---
-
 ## Mở đầu gợi tò mò
-
 Viết các hàng số sau:
 
 ```text
@@ -32,6 +30,11 @@ Hôm nay, chúng ta sẽ làm quen với một trong những bức tranh số n�
 
 ![Tam giac Pascal]({{ site.baseurl }}/img/chapter_img/chapter03/03_05_tam_giac_pascal.svg)
 
+
+![Tam giác Pascal — mẫu hình số](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pascal_triangle.svg/960px-Pascal_triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 ---
 
 ## Mục tiêu
@@ -48,11 +51,15 @@ Sau bài học này, em có thể:
 ## Kiến thức đã biết
 
 Em đã biết cộng số và đã học về quy luật.
-
 Tam giác Pascal là nơi hai kỹ năng đó gặp nhau:
-
 - cộng để tạo hàng mới
 - quan sát để phát hiện mẫu hình
+
+
+![Số tam giác — xếp chấm thành tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Triangular_number_10_with_triangle.svg/960px-Triangular_number_10_with_triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -160,10 +167,14 @@ Nó giống như một khu vườn số học, nơi mỗi hàng lại mở ra m�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động A: Xây tam giác bằng hạt đậu
-
 Chuẩn bị:
+
+
+
+![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - hạt đậu hoặc viên sỏi nhỏ
 - giấy

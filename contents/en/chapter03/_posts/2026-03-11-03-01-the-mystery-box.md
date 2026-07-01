@@ -8,10 +8,14 @@ lang: en
 categories: [chapter03]
 lesson_type: required
 ---
-
 ## Objectives
 
 In this lesson, children will discover that letters can represent mystery numbers, understand the concept of a variable as an unknown value, and develop algebraic thinking by learning to think about "what number makes this true?"
+
+![Balance scale for equations](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 
@@ -21,6 +25,11 @@ Before starting this lesson, children should be comfortable with:
 - Basic addition and subtraction within 20
 - Understanding of equality (knowing that 5 + 3 = 8)
 - Simple patterns and sequences
+
+![Number line diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

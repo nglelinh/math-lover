@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá mối liên hệ giữa toán học và lập trình, hiểu được tầm quan trọng của toán học trong việc viết chương trình máy tính, và bắt đầu tư duy lập trình.
@@ -19,19 +18,28 @@ Trong bài học này, các em sẽ khám phá mối liên hệ giữa toán h�
 ## Giới thiệu
 
 Các em có biết **máy tính** hoạt động như thế nào không?
-
 Máy tính dùng toán học để:
 - Tính toán
 - Xử lý dữ liệu
 - Tạo ra mọi thứ từ game đến internet!
-
 Hãy cùng khám phá!
+
+
+![Phân rã nhị phân — toán trong máy tính](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Binary_decomposition.png/960px-Binary_decomposition.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
 ## 1. Ngôn Ngữ Lập Trình
-
 ### Máy tính hiểu gì?
+
+
+
+![Mã lập trình — toán trong tin học](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/960px-Programming_code.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Máy tính chỉ hiểu **0 và 1**!
 

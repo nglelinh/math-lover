@@ -77,6 +77,30 @@ layout: default
   {% endif %}
 {% endif %}
 
+{% if page.chapter %}
+<div class="lesson-action-card">
+  <p class="lesson-action-card__title">
+    {% if page.lang == 'vi' %}🚀 Tiếp theo em muốn làm gì?{% else %}🚀 What would you like to do next?{% endif %}
+  </p>
+  <div class="lesson-action-card__buttons">
+    {% if next_post %}
+      <a class="lesson-action-btn lesson-action-btn--primary" href="{{ site.baseurl }}{{ next_post.url }}">
+        {% if page.lang == 'vi' %}👉 Tiếp tục học bài kế tiếp{% else %}👉 Continue to next lesson{% endif %}
+      </a>
+    {% else %}
+      {% assign chapter_path = page.lang | default: site.default_lang | append: "/chapter" | append: page.chapter | append: "/" %}
+      {% assign chapter_url = "/contents/" | append: chapter_path %}
+      <a class="lesson-action-btn lesson-action-btn--primary" href="{{ site.baseurl }}{{ chapter_url }}">
+        {% if page.lang == 'vi' %}⭐ Xem tiến độ của cả chương{% else %}⭐ View chapter progress{% endif %}
+      </a>
+    {% endif %}
+    <a class="lesson-action-btn lesson-action-btn--secondary" href="{{ site.baseurl }}{{ page.url }}">
+      {% if page.lang == 'vi' %}🔁 Đọc lại bài này{% else %}🔁 Review this lesson{% endif %}
+    </a>
+  </div>
+</div>
+{% endif %}
+
 {% if page.lang == 'vi' %}
 <script src="{{ site.baseurl }}/public/js/interactive-vi-lessons.js"></script>
 {% elsif page.chapter == '01' %}

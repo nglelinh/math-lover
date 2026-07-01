@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách tính diện tích của hai hình quan trọng - hình tam giác và hình tròn!
-
 ![Dien tich hinh tron]({{ site.baseurl }}/img/chapter_img/chapter06/08_area_circle_triangle.svg)
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết tính diện tích hình chữ nhật và hình vuông. Hôm nay, chúng ta sẽ học thêm về các hình mới nhé!
+
+![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -71,11 +79,15 @@ Trong đó d = 2r là đường kính
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tính diện tích tam giác
-
 Tính diện tích tam giác có:
 - Đáy 10cm, chiều cao 6cm → S = (10×6)/2 = 30cm²
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính diện tích hình tròn
 

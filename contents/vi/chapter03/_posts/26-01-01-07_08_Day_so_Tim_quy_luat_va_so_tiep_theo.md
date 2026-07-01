@@ -9,10 +9,13 @@ categories:
 - chapter03
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách tìm quy luật của các dãy số thú vị!
-
 ![Day so]({{ site.baseurl }}/img/chapter_img/chapter07/08_sequences.svg)
+
+
+![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về số tự nhiên và phép cộng, nhân. Hôm nay, chúng ta sẽ học về các dãy số thú vị nhé!
+
+![Trục số — số chẵn và số lẻ](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/EvenOddNumberLine.svg/960px-EvenOddNumberLine.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -71,12 +79,16 @@ Em đã biết về số tự nhiên và phép cộng, nhân. Hôm nay, chúng t
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm quy luật
-
 Tìm quy luật và số tiếp theo:
 a) 7, 12, 17, 22, ... (+5) → 27
 b) 3, 9, 27, 81, ... (×3) → 243
+
+
+
+![Bảng lũy thừa — nhân đôi từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Powers_chart.png/960px-Powers_chart.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Dãy số Fibonacci
 

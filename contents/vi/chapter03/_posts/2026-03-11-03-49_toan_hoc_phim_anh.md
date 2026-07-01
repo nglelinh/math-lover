@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong làm phim, hiểu được cách toán học tạo ra hiệu ứng đặc biệt.
@@ -22,18 +21,27 @@ Trong bài học này, các em sẽ khám phá toán học trong làm phim, hi�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Các em thích xem phim không?
-
 Phim ảnh dùng rất nhiều toán học!
+
+
+
+![Máy ảnh — toán trong phim ảnh](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Camera.jpg/960px-Camera.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Quay Phim
-
 ### Tốc độ khung hình
+
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - Phim thường: 24 khung/giây
 - Phim chậm: 60 khung/giây

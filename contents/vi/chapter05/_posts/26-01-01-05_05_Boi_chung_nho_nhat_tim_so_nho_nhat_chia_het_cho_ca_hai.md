@@ -9,10 +9,13 @@ categories:
 - chapter05
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách tìm số nhỏ nhất có thể chia hết cho cả hai số cùng lúc!
-
 ![BCNN]({{ site.baseurl }}/img/chapter_img/chapter05/05_lcm.svg)
+
+
+![Sàng Eratosthenes — lọc số nguyên tố](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sieve_of_Eratosthenes.gif)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết tìm bội số và UCLN. Hôm nay, chúng ta sẽ học về BCNN nhé!
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -68,13 +76,17 @@ Em đã biết tìm bội số và UCLN. Hôm nay, chúng ta sẽ học về BCN
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm BCNN
-
 Tìm BCNN của:
 - 3 và 5 → BCNN = 15
 - 4 và 7 → BCNN = 28
 - 6 và 8 → BCNN = 24
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Ứng dụng
 

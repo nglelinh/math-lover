@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong nông nghiệp, hiểu được tầm quan trọng của toán học trong trồng trọt và chăn nuôi, và nhận ra ứng dụng của toán học trong sản xuất lương thực.
@@ -19,16 +18,25 @@ Trong bài học này, các em sẽ khám phá toán học trong nông nghiệp,
 ## Giới thiệu
 
 Các em đã bao giờ thấy ruộng lúa, đồng lúa chín, hoặc gà vịt chưa?
-
 Nông nghiệp cần rất nhiều toán học!
-
 Hãy cùng khám phá!
+
+
+![Cánh đồng — toán trong nông nghiệp](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Agriculture_field.jpg/960px-Agriculture_field.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
 ## 1. Tính Diện Tích Ruộng
-
 ### Công thức
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Diện tích = chiều dài × chiều rộng
 

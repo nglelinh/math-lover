@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ học các kỹ năng quan trọng để giải toán giỏi hơn.
@@ -22,16 +21,25 @@ Trong bài học này, các em sẽ học các kỹ năng quan trọng để gi�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Giỏi toán cần kỹ năng!
-
 Hãy học các kỹ năng quan trọng!
+
+
+![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
 ## 1. Đọc Kỹ Đề Bài
-
 ### Bước 1
+
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - Đọc chậm
 - Hiểu từng câu

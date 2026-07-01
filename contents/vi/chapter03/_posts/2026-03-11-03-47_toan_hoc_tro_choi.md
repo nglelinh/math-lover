@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong các trò chơi, hiểu được cách toán học giúp trò chơi thú vị.
@@ -22,18 +21,27 @@ Trong bài học này, các em sẽ khám phá toán học trong các trò chơi
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Các em thích chơi trò chơi không?
-
 Mọi trò chơi đều có toán học!
+
+
+
+![Trò chơi board game — chiến lược và xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Board_games.jpg/960px-Board_games.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Xúc Xắc
-
 ### Xác suất
+
+
+
+![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Xúc xắc 6 mặt:
 - Xác suất ra 1: 1/6

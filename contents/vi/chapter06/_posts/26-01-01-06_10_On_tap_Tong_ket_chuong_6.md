@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ ôn lại những gì đã học trong chương 5: số thập phân, tỉ số, phần trăm, đo lường, thời gian và tiền.
-
 ![On tap chuong 6]({{ site.baseurl }}/img/chapter_img/chapter06/10_chapter6_review.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -104,10 +107,14 @@ $$6.000 \times 5 = 30.000$$
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Giải toán tổng hợp
-
 **Bài toán 1:** Tính
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 $$12{,}6 + 8{,}35$$
 
@@ -125,11 +132,15 @@ $$12{,}6 + 8{,}35$$
 ---
 
 ## Bài tập luyện tập
-
 ### Bài 1: Số thập phân
-
 a) 12,5 + 7,8
 b) 9,5 - 4,25
+
+
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Bài 2: Đo lường
 

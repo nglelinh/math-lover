@@ -9,9 +9,7 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 ## Mở đầu gợi tò mò
-
 Một bạn nhỏ muốn làm hàng rào quanh bồn hoa và cũng muốn phủ cỏ kín phần đất bên trong.
 
 Bạn ấy phải trả lời hai câu hỏi khác nhau:
@@ -27,6 +25,11 @@ Hai câu hỏi này nghe giống nhau, nhưng thật ra là hai ý khác nhau:
 Hôm nay, chúng ta sẽ khám phá điều đó với tam giác và hình thang.
 
 ![Dien tich Nang cao]({{ site.baseurl }}/img/chapter_img/chapter03/03_02_dien_tich_nang_cao.svg)
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -44,11 +47,15 @@ Sau bài học này, em có thể:
 ## Kiến thức đã biết
 
 Em đã biết tính:
-
 - chu vi hình vuông, hình chữ nhật
 - diện tích hình chữ nhật
-
 Kiến thức đó rất quan trọng, vì hôm nay ta sẽ dùng hình chữ nhật để hiểu các hình mới.
+
+
+
+![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Ý tưởng lớn của bài này là:
 
@@ -146,10 +153,14 @@ Biết tự kiểm tra như vậy giúp em ít nhầm công thức hơn.
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động A: Cắt đôi hình chữ nhật
-
 Chuẩn bị:
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - giấy kẻ ô vuông
 - kéo

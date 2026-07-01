@@ -10,10 +10,19 @@ categories:
 lesson_type: required
 hidden: true
 ---
-
 This lesson introduces the fundamental concepts of continuity and uniform continuity, which are essential for understanding the behavior of functions in optimization.
-
 ---
+
+
+
+![Number line diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
+![Number line diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ## Continuity and Uniform Continuity
 

@@ -10,11 +10,9 @@ categories:
 lesson_type: required
 hidden: true
 ---
-
 ## Mở đầu
 
 Chương 2 giống như một chiếc hộp dụng cụ mới của nhà toán học:
-
 - biết nhận ra số nguyên tố
 - biết tìm ước và bội
 - biết tính nhanh hơn
@@ -24,6 +22,17 @@ Chương 2 giống như một chiếc hộp dụng cụ mới của nhà toán h
 Hôm nay, ta không học kiến thức mới. Ta sẽ kiểm tra xem **khi nào nên dùng công cụ nào**.
 
 ![On tap Kiem tra]({{ site.baseurl }}/img/chapter_img/chapter02/02_10_on_tap_kiem_tra.svg)
+
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -360,10 +369,14 @@ Những mục nên tự đánh giá:
 ---
 
 ## Câu hỏi suy nghĩ
-
 1. Khi nào nên dùng liệt kê, khi nào nên dùng mẹo tính nhanh?
 2. Vì sao phần trăm lại rất tiện trong đời sống?
 3. UCLN và BCNN giống nhau ở điểm nào, khác nhau ở điểm nào?
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 

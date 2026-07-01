@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách đo không gian bên trong của các vật - thể tích!
-
 ![The tich]({{ site.baseurl }}/img/chapter_img/chapter06/09_volume.svg)
+
+
+![Hình lập phương — khối 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cube.svg/960px-Cube.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết tính diện tích. Hôm nay, chúng ta sẽ học cách đo không gian 3 chiều nhé!
+
+![Hình cầu](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sphere.svg/960px-Sphere.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -72,12 +80,16 @@ Em đã biết tính diện tích. Hôm nay, chúng ta sẽ học cách đo khô
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tính thể tích hình hộp
-
 Tính thể tích hình hộp chữ nhật:
 - Chiều dài 10cm, rộng 6cm, cao 5cm
 - V = 10 × 6 × 5 = 300cm³
+
+
+
+![Hình nón](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cone_%28geometry%29.svg/960px-Cone_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính thể tích hình lập phương
 

@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách cộng và trừ các số thập phân với nhau!
-
 ![Cong tru so thap phan]({{ site.baseurl }}/img/chapter_img/chapter06/02_add_subtract_decimals.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về số thập phân và cộng trừ số tự nhiên. Hôm nay, chúng ta sẽ kết hợp cả hai nhé!
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -78,12 +86,16 @@ Em đã biết về số thập phân và cộng trừ số tự nhiên. Hôm na
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Cộng số thập phân
-
 Tính:
 - 3,2 + 5,6 = 8,8
 - 12,5 + 7,8 = 20,3
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Trừ số thập phân
 

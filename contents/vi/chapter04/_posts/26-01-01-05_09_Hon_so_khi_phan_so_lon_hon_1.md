@@ -9,10 +9,13 @@ categories:
 - chapter04
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá cách biểu diễn những phân số lớn hơn 1 một cách thú vị!
-
 ![Hon so]({{ site.baseurl }}/img/chapter_img/chapter05/09_mixed_numbers.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết cộng trừ phân số. Hôm nay, chúng ta sẽ học về những phân số lớn hơn 1 nhé!
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -72,13 +80,17 @@ a b/c = (a × c + b) / c
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Phân số sang hỗn số
-
 Chuyển các phân số thành hỗn số:
 - 9/4 = 2¼
 - 11/5 = 2⅕
 - 17/6 = 2⅚
+
+
+
+![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Hỗn số sang phân số
 

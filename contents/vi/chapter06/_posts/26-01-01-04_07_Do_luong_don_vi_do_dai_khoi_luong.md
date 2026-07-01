@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách đo lường chính xác như các nhà khoa học!
-
 ![Do luong don vi do dai khoi luong]({{ site.baseurl }}/img/chapter_img/chapter04/04_07_do_luong_don_vi_do_dai_khoi_luong.svg)
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết dùng thước để đo chiều dài. Hôm nay, chúng ta sẽ học thêm về các đơn vị đo khác nhé!
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -69,10 +77,14 @@ Em đã biết dùng thước để đo chiều dài. Hôm nay, chúng ta sẽ h
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Đo chiều dài bàn học
-
 Dùng thước đo chiều dài bàn học của em. Kết quả là bao nhiêu cm? Bao nhiêu m?
+
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Cân nặng
 

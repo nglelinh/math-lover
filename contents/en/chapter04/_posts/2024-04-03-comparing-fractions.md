@@ -9,7 +9,6 @@ categories: [chapter04]
 lesson_type: required
 story_arc: The Fair Share Kingdom
 ---
-
 ## Hook
 
 In the Fair Share Kingdom, two children are arguing! One has 1/3 of a pie and says "Mine is bigger!" The other has 2/6 of a pie and says "No, mine is bigger!" Queen Balance smiles—she knows a mathematical secret. Can you help solve this mystery?
@@ -20,6 +19,11 @@ In the Fair Share Kingdom, two children are arguing! One has 1/3 of a pie and sa
 
 In this lesson, children will learn strategies for comparing fractions to determine which is larger or if they're equal. They'll discover visual methods, use benchmark fractions (like 1/2), understand that equal denominators make comparison easy, and develop intuition for fraction size. This builds critical thinking and proportional reasoning skills.
 
+![Pie chart for percentages](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
+
 ---
 
 ## Prerequisites
@@ -29,6 +33,11 @@ Before starting this lesson, children should be comfortable with:
 - Recognizing equal parts
 - Basic fraction notation (numerator and denominator)
 - Visual representation of fractions
+
+![Balance scale for equations](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

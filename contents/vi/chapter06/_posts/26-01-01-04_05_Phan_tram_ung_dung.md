@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách dùng phần trăm trong cuộc sống!
-
 ![Phan tram ung dung]({{ site.baseurl }}/img/chapter_img/chapter04/04_05_phan_tram_ung_dung.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về phần trăm. Hôm nay, chúng ta sẽ học cách dùng phần trăm trong cuộc sống nhé!
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -54,10 +62,14 @@ Em đã biết về phần trăm. Hôm nay, chúng ta sẽ học cách dùng ph�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tính giảm giá
-
 Áo giá 150.000 đ, giảm 30%. Giá mới?
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Giải: 150.000 × 30% = 45.000
 150.000 - 45.000 = 105.000 đ

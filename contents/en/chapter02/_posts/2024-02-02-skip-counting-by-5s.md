@@ -8,10 +8,14 @@ lang: en
 categories: [chapter02]
 lesson_type: required
 ---
-
 ## Objectives
 
 In this lesson, children will discover skip counting by 5s - one of the most useful patterns in mathematics! They'll learn that counting by 5s helps us count money, tell time on analog clocks, and makes multiplication much easier. This lesson builds on skip counting by 2s and extends pattern recognition skills.
+
+![Number line showing even and odd numbers](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/EvenOddNumberLine.svg/960px-EvenOddNumberLine.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 
@@ -21,6 +25,11 @@ Before starting this lesson, children should be comfortable with:
 - Skip counting by 2s (Lesson 02-01)
 - Counting from 1 to 100
 - Basic understanding of groups and sets
+
+![Pair of socks](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BLW_Pair_of_socks.jpg/960px-BLW_Pair_of_socks.jpg)
+
+*Image: Wikimedia Commons*
+
 
 ---
 

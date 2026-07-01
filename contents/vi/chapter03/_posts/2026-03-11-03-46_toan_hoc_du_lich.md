@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong du lịch, hiểu được cách tính chi phí và lập kế hoạch cho chuyến đi.
@@ -22,18 +21,27 @@ Trong bài học này, các em sẽ khám phá toán học trong du lịch, hi�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Các em thích đi du lịch không?
-
 Du lịch cần rất nhiều toán học để lập kế hoạch!
+
+
+
+![Trái đất — số lớn trong vũ trụ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Tính Chi Phí Đi Lại
-
 ### Ví dụ
+
+
+
+![Cây cầu — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg/960px-Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 - Vé máy bay: 1.500.000 đ
 - Taxi sân bay: 200.000 đ

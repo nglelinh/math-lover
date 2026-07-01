@@ -9,10 +9,13 @@ categories:
 - chapter05
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá những con số đặc biệt nhất trong toán học - số nguyên tố!
-
 ![So nguyen to]({{ site.baseurl }}/img/chapter_img/chapter05/03_prime_numbers.svg)
+
+
+![Sàng Eratosthenes — lọc số nguyên tố](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sieve_of_Eratosthenes.gif)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về ước số. Hôm nay, chúng ta sẽ học về một loại số đặc biệt nhé!
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -68,13 +76,17 @@ Số nguyên tố giống như **viên gạch cơ bản** - mọi số đều c�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Kiểm tra số nguyên tố
-
 Kiểm tra xem các số sau có phải là số nguyên tố không?
 - 7: Có ước là 1 và 7 → Nguyên tố
 - 9: Có ước là 1, 3, 9 → Không nguyên tố
 - 11: Có ước là 1 và 11 → Nguyên tố
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Phân tích thành thừa số
 

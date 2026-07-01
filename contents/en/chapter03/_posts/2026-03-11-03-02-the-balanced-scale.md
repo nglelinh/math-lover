@@ -8,10 +8,14 @@ lang: en
 categories: [chapter03]
 lesson_type: required
 ---
-
 ## Objectives
 
 In this lesson, children will understand that equations are like balance scales—both sides must have the same value, explore the concept of equality as a relationship (not just an operation), and learn to keep equations balanced by doing the same operation on both sides.
+
+![Balance scale for equations](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 
@@ -21,6 +25,11 @@ Before starting this lesson, children should be comfortable with:
 - Basic addition and subtraction
 - Understanding the concept of a variable from Lesson 3-01
 - Simple number sense within 20
+
+![Number line diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

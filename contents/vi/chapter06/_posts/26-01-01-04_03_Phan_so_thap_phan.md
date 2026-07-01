@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách đổi giữa phân số và số thập phân!
-
 ![Phan so thap phan]({{ site.baseurl }}/img/chapter_img/chapter04/04_03_phan_so_thap_phan.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết phân số và số thập phân. Hôm nay, chúng ta sẽ học cách đổi giữa hai cách viết nhé!
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -61,13 +69,17 @@ Em đã biết phân số và số thập phân. Hôm nay, chúng ta sẽ học 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Đổi phân số
-
 Đổi ra số thập phân:
 - 2/5 = ?
 - 4/10 = ?
 - 3/4 = ?
+
+
+
+![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Đổi số thập phân
 

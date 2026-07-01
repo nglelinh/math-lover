@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong các môn khoa học.
@@ -22,16 +21,25 @@ Trong bài học này, các em sẽ khám phá toán học trong các môn khoa 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Khoa học và toán học đi cùng nhau!
-
 Hãy cùng khám phá!
+
+
+![Trái đất — số lớn trong vũ trụ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
 ## 1. Vật Lý
-
 ### Vận tốc
+
+
+
+![Mặt trăng — khoảng cách và số lớn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/A_New_View_of_the_Moon.jpg/960px-A_New_View_of_the_Moon.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 v = s / t
 

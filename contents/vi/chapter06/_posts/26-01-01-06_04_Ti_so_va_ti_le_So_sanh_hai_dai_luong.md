@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách so sánh hai đại lượng một cách đặc biệt - qua tỉ số và tỉ lệ!
-
 ![Ti so ti le]({{ site.baseurl }}/img/chapter_img/chapter06/04_ratios_proportions.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết so sánh hai số bằng phép trừ. Hôm nay, chúng ta sẽ học cách so sánh bằng phép chia nhé!
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -66,12 +74,16 @@ Nếu a/b = c/d thì a × d = b × c
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Viết tỉ số
-
 Viết tỉ số của:
 - 6 quả cam và 9 quả quýt: 6:9 = 2:3
 - 15 bạn trai và 10 bạn gái: 15:10 = 3:2
+
+
+
+![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Kiểm tra tỉ lệ
 

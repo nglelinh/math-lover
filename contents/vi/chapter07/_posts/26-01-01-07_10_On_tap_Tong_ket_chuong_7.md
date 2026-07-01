@@ -10,10 +10,13 @@ categories:
 lesson_type: required
 hidden: true
 ---
-
 Trong bài học này, chúng ta sẽ ôn tập tất cả những gì đã học trong chương 8!
-
 ![On tap chuong 7]({{ site.baseurl }}/img/chapter_img/chapter07/10_chapter7_review.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -30,6 +33,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Chúng ta đã học rất nhiều điều thú vị trong chương 8. Hôm nay, hãy cùng ôn tập nhé!
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -82,11 +90,15 @@ Chúng ta đã học rất nhiều điều thú vị trong chương 8. Hôm nay,
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Giải toán tổng hợp
-
 **Bài 1:** Tung đồng xu 3 lần. Xác suất ra mặt Sấp cả 3 lần?
 = (1/2)³ = 1/8
+
+
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 **Bài 2:** Giải phương trình 4x + 12 = 36
 4x = 36 - 12 = 24

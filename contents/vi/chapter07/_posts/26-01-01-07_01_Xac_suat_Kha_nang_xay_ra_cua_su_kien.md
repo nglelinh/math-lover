@@ -9,10 +9,13 @@ categories:
 - chapter07
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá thế giới của xác suất - cách đo lường khả năng xảy ra của các sự kiện!
-
 ![Xac suat]({{ site.baseurl }}/img/chapter_img/chapter07/01_probability.svg)
+
+
+![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về phân số và tỉ số. Hôm nay, chúng ta sẽ học cách đo lường khả năng xảy ra nhé!
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -64,12 +72,16 @@ Xác suất = Số kết quả thuận lợi / Tổng số kết quả có thể
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tung đồng xu
-
 Tung đồng xu 10 lần và ghi lại kết quả:
 - Mặt Sấp: ... lần
 - Mặt Ngửa: ... lần
+
+
+
+![Tam giác Pascal — mẫu hình số](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pascal_triangle.svg/960px-Pascal_triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Gieo xúc xắc
 

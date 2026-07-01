@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá mối liên hệ giữa toán học và âm nhạc, hiểu được tại sao âm nhạc lại có thể mô tả bằng toán học, và cảm nhận vẻ đẹp của âm thanh qua con mắt toán học.
@@ -19,18 +18,27 @@ Trong bài học này, các em sẽ khám phá mối liên hệ giữa toán h�
 ## Giới thiệu
 
 Các em có thích nghe nhạc không?
-
 Âm nhạc là một loại nghệ thuật có **nhịp điệu**, **giai điệu**, và **hòa âm**.
-
 **Tất cả đều có toán học!**
+
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Hãy cùng khám phá thế giới âm thanh qua con mắt toán học!
 
 ---
 
 ## 1. Nhịp Điệu
-
 ### Nhịp là gì?
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 **Nhịp** là cách chia thời gian thành các đơn vị bằng nhau!
 

@@ -9,10 +9,15 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Chúc mừng các em đã hoàn thành Chương 7!
+
+
+![Tam giác Pascal — mẫu hình số](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pascal_triangle.svg/960px-Pascal_triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -22,16 +27,26 @@ Chúc mừng các em đã hoàn thành Chương 7!
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 **Xin chúc mừng các em!**
-
 Các em đã hoàn thành Chương 7 - Logic và Giải Quyết Vấn Đề!
+
+
+![Tam giác Pascal — mẫu hình số](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pascal_triangle.svg/960px-Pascal_triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
 ## Tổng Kết
 
 ### Đã học những gì?
+
+
+
+![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - ✅ Suy luận logic và câu đố
 - ✅ Phương trình và số bí mật

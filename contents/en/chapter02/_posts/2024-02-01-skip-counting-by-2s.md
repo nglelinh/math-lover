@@ -8,10 +8,14 @@ lang: en
 categories: [chapter02]
 lesson_type: required
 ---
-
 ## Objectives
 
 In this lesson, children will discover the magic of skip counting by 2s. Building on what they learned about even numbers, they'll see how counting by 2s is like taking "big steps" through the number line. This skill is the foundation for multiplication and helps children see patterns in numbers.
+
+![Arithmetic progression diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 
@@ -21,6 +25,11 @@ Before starting this lesson, children should be comfortable with:
 - Counting from 1 to 20
 - Understanding even numbers (from Chapter 01)
 - Basic addition
+
+![Number line showing even and odd numbers](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/EvenOddNumberLine.svg/960px-EvenOddNumberLine.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

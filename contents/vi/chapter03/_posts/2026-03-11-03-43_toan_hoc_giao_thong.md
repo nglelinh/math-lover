@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong giao thông vận tải, hiểu được tầm quan trọng của toán học trong thiết kế đường xá và phương tiện, và nhận ra ứng dụng của toán học trong đi lại an toàn.
@@ -19,16 +18,25 @@ Trong bài học này, các em sẽ khám phá toán học trong giao thông v�
 ## Giới thiệu
 
 Các em đã bao giờ đi ô tô, xe buýt, hoặc máy bay chưa?
-
 Tất cả phương tiện giao thông đều cần toán học!
-
 Hãy cùng khám phá!
+
+
+![Đèn giao thông — toán trong giao thông](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Traffic_light.jpg/960px-Traffic_light.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
 ## 1. Tính Vận Tốc
-
 ### Vận tốc
+
+
+
+![Con đường — khoảng cách và tốc độ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Road_in_Pyongyang.jpg/960px-Road_in_Pyongyang.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 $$v = \frac{s}{t}$$
 

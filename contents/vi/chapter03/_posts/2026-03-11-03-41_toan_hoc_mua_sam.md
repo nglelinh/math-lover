@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong mua sắm, hiểu được cách tính tiền, giảm giá, và trở thành người mua sắm thông minh.
@@ -19,21 +18,30 @@ Trong bài học này, các em sẽ khám phá toán học trong mua sắm, hi�
 ## Giới thiệu
 
 Các em đã đi mua sắm chưa?
-
 Khi mua hàng, chúng ta cần:
 - Tính tiền
 - So sánh giá
 - Tính giảm giá
-
 **Tất cả đều cần toán học!**
+
+
+
+![Giỏ hàng — toán khi mua sắm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Shopping_cart.jpg/960px-Shopping_cart.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Tính Tiền
-
 ### Cộng giá tiền
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Ví dụ:
 - Mua 2 quyển vở: 10.000 × 2 = 20.000

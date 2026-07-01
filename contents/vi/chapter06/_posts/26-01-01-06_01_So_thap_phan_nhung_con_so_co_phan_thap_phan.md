@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá những con số thú vị hơn số nguyên - số thập phân!
-
 ![So thap phan]({{ site.baseurl }}/img/chapter_img/chapter06/01_decimal_numbers.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về phân số và số tự nhiên. Hôm nay, chúng ta sẽ học về cách viết gọn của phân số có mẫu 10, 100, 1000 nhé!
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -73,13 +81,17 @@ So sánh phần nguyên trước. Nếu bằng nhau, so sánh phần thập phâ
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Viết phân số thành số thập phân
-
 Viết các phân số thành số thập phân:
 - 3/10 = 0,3
 - 7/100 = 0,07
 - 25/100 = 0,25
+
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Đọc số thập phân
 

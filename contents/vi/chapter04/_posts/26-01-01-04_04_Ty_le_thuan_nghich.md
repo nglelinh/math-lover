@@ -10,10 +10,13 @@ categories:
 lesson_type: optional
 hidden: true
 ---
-
 Trong bài học này, chúng ta sẽ học về mối quan hệ giữa các đại lượng!
-
 ![Ty le thuan nghich]({{ site.baseurl }}/img/chapter_img/chapter04/04_04_ty_le_thuan_nghich.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -30,6 +33,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về tỷ lệ. Hôm nay, chúng ta sẽ học về hai loại tỷ lệ nhé!
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -63,10 +71,14 @@ Em đã biết về tỷ lệ. Hôm nay, chúng ta sẽ học về hai loại t�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tỷ lệ thuận
-
 Mua 2 cái bút giá 10.000 đ. Hỏi mua 5 cái giá bao nhiêu?
+
+
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Giải: 5 × 10.000 / 2 = 25.000 đ
 

@@ -9,10 +9,13 @@ categories:
 - chapter04
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách cộng và trừ các phân số với nhau!
-
 ![Cong tru phan so]({{ site.baseurl }}/img/chapter_img/chapter05/08_add_subtract_fractions.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết so sánh phân số. Hôm nay, chúng ta sẽ học cách cộng và trừ chúng nhé!
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -75,12 +83,16 @@ Tương tự cộng, trừ tử số khi đã cùng mẫu!
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Cộng cùng mẫu
-
 Tính:
 - 1/6 + 2/6 = 3/6 = 1/2
 - 2/9 + 4/9 = 6/9 = 2/3
+
+
+
+![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Cộng khác mẫu
 

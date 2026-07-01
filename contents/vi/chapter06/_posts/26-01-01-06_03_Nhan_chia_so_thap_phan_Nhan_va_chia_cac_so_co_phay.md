@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách nhân và chia các số thập phân với nhau!
-
 ![Nhan chia so thap phan]({{ site.baseurl }}/img/chapter_img/chapter06/03_multiply_divide_decimals.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết cộng trừ số thập phân. Hôm nay, chúng ta sẽ học nhân và chia nhé!
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -78,13 +86,17 @@ Em đã biết cộng trừ số thập phân. Hôm nay, chúng ta sẽ học nh
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Nhân số thập phân
-
 Tính:
 - 2,5 × 4 = 10
 - 1,25 × 8 = 10
 - 3,2 × 5 = 16
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Chia số thập phân
 

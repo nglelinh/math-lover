@@ -9,10 +9,13 @@ categories:
 - chapter05
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá mối quan hệ thú vị giữa các con số - ước số và bội số!
-
 ![Uoc so va Boi so]({{ site.baseurl }}/img/chapter_img/chapter05/02_factors_multiples.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết nhân và chia các số. Hôm nay, chúng ta sẽ học về mối quan hệ giữa các phép tính này nhé!
+
+![Sàng Eratosthenes — lọc số nguyên tố](https://upload.wikimedia.org/wikipedia/commons/e/eb/Sieve_of_Eratosthenes.gif)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -69,13 +77,17 @@ Em đã biết nhân và chia các số. Hôm nay, chúng ta sẽ học về m�
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm ước số
-
 Tìm tất cả ước số của:
 - 6: 1, 2, 3, 6
 - 8: 1, 2, 4, 8
 - 10: 1, 2, 5, 10
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tìm bội số
 

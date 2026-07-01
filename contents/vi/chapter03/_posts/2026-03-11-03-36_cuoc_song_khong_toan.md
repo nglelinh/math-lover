@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ tưởng tượng thế giới không có toán học, hiểu được tầm quan trọng của toán học trong cuộc sống, và trân trọng hơn những gì toán học mang lại.
@@ -19,18 +18,27 @@ Trong bài học này, các em sẽ tưởng tượng thế giới không có to
 ## Giới thiệu
 
 Các em hãy tưởng tượng:
-
 **Nếu không có toán học...**
-
 Thế giới sẽ như thế nào?
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Hãy cùng khám phá thế giới viễn tưởng này!
 
 ---
 
 ## 1. Không Có Số Đếm
-
 ### Khi không có số
+
+
+
+![Trò chơi board game — chiến lược và xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Board_games.jpg/960px-Board_games.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 - Không đếm được có bao nhiêu người
 - Không biết tuổi của mình

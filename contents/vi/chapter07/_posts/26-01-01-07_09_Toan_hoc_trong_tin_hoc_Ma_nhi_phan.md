@@ -9,10 +9,13 @@ categories:
 - chapter07
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá cách máy tính "nghĩ" và làm việc với các con số!
-
 ![Ma nhi phan]({{ site.baseurl }}/img/chapter_img/chapter07/09_binary.svg)
+
+
+![Phân rã nhị phân — toán trong máy tính](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Binary_decomposition.png/960px-Binary_decomposition.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về số thập phân và hệ thập phân. Hôm nay, chúng ta sẽ học về hệ nhị phân nhé!
+
+![Mã lập trình — toán trong tin học](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/960px-Programming_code.jpg)
+
+*Ảnh: Wikimedia Commons*
+
 
 ---
 
@@ -85,12 +93,16 @@ Máy tính chỉ hiểu 2 trạng thái:
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Đổi số
-
 Đổi các số sau sang nhị phân:
 a) 7 → 111
 b) 10 → 1010
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Đổi ngược
 

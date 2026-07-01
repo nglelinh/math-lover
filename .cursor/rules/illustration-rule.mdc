@@ -6,8 +6,9 @@ alwaysApply: true
 
 To improve conceptual understanding and engagement, lessons should include **visual illustrations** and **interactive exploration tools**. Whenever possible, mathematical ideas should be **visualized or explored dynamically**, allowing learners to observe patterns, test hypotheses, and develop intuition through experimentation.
 
-Two complementary tools should be used:
+Three complementary tools should be used:
 
+- **Web-sourced images** — math diagrams *or* real-world photos, chosen by topic.
 - **Python** for generating static mathematical illustrations and visualizations.
 - **JavaScript** for creating interactive lesson components.
 
@@ -15,16 +16,142 @@ These tools transform lessons from passive reading into **active exploration**.
 
 ---
 
-# 1. Python-Generated Illustrations
+# 1. Web-Sourced Illustrations (Internet Images)
 
-Use **Python code** to generate illustrations whenever a visual explanation improves understanding.
+When creating or updating a lesson, **search the internet for images** and place URLs directly in the lesson markdown. Every image must **match the exact mathematical idea** in the surrounding text — not just the general chapter theme.
+
+## Math Diagrams vs Real-World Photos
+
+Choose the image type based on what the lesson section teaches:
+
+| Lesson teaches… | Use this image type | Do NOT use |
+|---|---|---|
+| Number patterns, sequences, rules (+2, ×2, Fibonacci) | **Math diagrams** — number lines, dot arrays, charts, spirals | Nature photos (sunflowers, pinecones) that only *hint* at the pattern |
+| Even/odd, pairing, sharing equally | Real-world photo **or** number-line diagram | Generic clipart unrelated to pairs |
+| Word problems with objects (eggs, grapes, market) | **Real-world photo** of that object | Abstract diagrams with no story connection |
+| Geometry, fractions, measurement | Math diagram **or** real object showing the shape/measure | Decorative stock photos |
+| Large numbers, space, population | NASA/space photos, city-light maps | Random big-number clipart |
+| Math rules, mental math, abacus | Math tools, abacus diagrams, distribution charts | Unrelated classroom stock photos |
+
+**Key rule:** If the text explains a **quy luật / pattern / công thức**, the image must be a **sơ đồ toán học** (diagram). Use real-world photos only when the text tells a **concrete story or activity** with physical objects.
+
+### Anti-patterns (learned from Chapter 01)
+
+- Do **not** put a sunflower photo next to "cộng thêm 2" — use a number line or even-number diagram instead.
+- Do **not** put a pinecone photo next to "dãy Fibonacci" when teaching the addition rule — use `Fibonacci_spiral_2019.svg` or `Fibonacci_Rabbits_mk.svg`.
+- Do **not** reuse one generic nature image across multiple sections — each placement needs its own matching visual.
+- Do **not** pick small, blurry, or ambiguous photos (e.g. a tiny grape bunch) when a clearer alternative exists.
+
+## When to Search for Web Images
+
+| Lesson section | Image purpose | Math diagram examples | Real-world photo examples |
+|---|---|---|---|
+| **Hook / story** | Relatable opening scene | — | children sharing crayons, paired socks |
+| **Core pattern / rule** | Show the math structure | number line, powers chart, triangular dots | balance scale (equality stories only) |
+| **Worked examples** | Match each problem's objects | arithmetic progression diagram for +n patterns | cherries, grapes, eggs for sharing problems |
+| **Discovery activities** | Materials or math setup | dot arrays, sequence charts | buttons, blocks, market stall |
+| **Exercises / challenges** | Visual hint for the pattern type | square-number grid for 1,4,9,16… | object from the word problem |
+| **Modern applications** | Connect to tech/science | binary diagram, abacus | NASA earth photo for large numbers |
+
+## Math Diagram Search Guide (Wikimedia Commons)
+
+Search [Wikimedia Commons](https://commons.wikimedia.org) with **math-specific queries**:
+
+| Topic in lesson | Search terms | Example files |
+|---|---|---|
+| Even numbers, +2 pattern | `even odd number line`, `arithmetic sequence` | `EvenOddNumberLine.svg` |
+| Multiply by 2, powers | `powers chart`, `binary decomposition` | `Powers_chart.png` |
+| Triangular numbers | `triangular number dots` | `Triangular_number_10_with_triangle.svg` |
+| Square numbers 1,4,9,16 | `square number triangular` | `Square_number_16_as_sum_of_two_triangular_numbers.svg` |
+| Arithmetic progression (+n) | `arithmetic progression` | `Academ_Arithmetic_progressions_along_a_knotted_loop.svg` |
+| Fibonacci sequence | `Fibonacci spiral diagram`, `Fibonacci rabbits` | `Fibonacci_spiral_2019.svg`, `Fibonacci_Rabbits_mk.svg` |
+| Addition / subtraction tricks | `abacus`, `Panzhu Suanfa` | `Abacus.svg`, `Panzhu_Suanfa_addition_diagrams.png` |
+| Large numbers, billions | `earth apollo`, `city lights NASA` | `The_Earth_seen_from_Apollo_17.jpg` |
+
+Prefer `.svg` and `.png` educational diagrams — they scale cleanly and label the math clearly.
+
+## Real-World Photo Search Guide
+
+Use real-world photos when the lesson text names **specific objects or places**:
+
+| Scenario in text | Search terms |
+|---|---|
+| Share stickers/crayons fairly | `children sharing crayons`, `colorful crayons` |
+| Pair socks | `pair of socks` |
+| Count buttons for pairing | `plastic buttons colorful` |
+| Share cherries/grapes | `cherries basket`, `red grapes bunch` |
+| Market addition word problem | `vegetables market Vietnam`, `vegetables shop` |
+| Egg subtraction problem | `basket brown eggs` |
+| House numbers even/odd | `street house numbers` |
+
+Good photo sources: Wikimedia Commons, NASA (public domain), Unsplash, Pexels.
+
+## How to Search (Agent Workflow)
+
+1. **Read the full lesson** and label each section: `math-pattern` or `real-world-story`.
+2. For `math-pattern` sections → search Wikimedia Commons math diagrams (table above).
+3. For `real-world-story` sections → search for the named object or scene.
+4. **Verify the image loads** (`curl -L` → HTTP 200) before embedding.
+5. **Place inline** next to the matching paragraph, example, or exercise — never dump all images at the top.
+6. Write alt-text in the lesson language (Vietnamese for `vi` posts, English for `en` posts).
+
+## Image Selection Criteria
+
+Chosen images must:
+
+- **match the exact topic, example, or exercise** — a Fibonacci *sequence rule* needs a Fibonacci *diagram*, not a flower photo
+- be **visually clear** — bold, good contrast, not tiny or blurry
+- be **child-appropriate** (ages 8–10)
+- prefer **Creative Commons / public domain** on Wikimedia Commons
+- avoid watermarked stock previews
+
+## How to Embed URLs in Lessons
+
+```markdown
+![Mô tả ngắn bằng tiếng Việt](https://upload.wikimedia.org/wikipedia/commons/thumb/.../filename.svg/960px-filename.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+```
+
+For real-world photos:
+
+```markdown
+![Chùm nho đỏ tươi để chia đều cho hai bạn](https://upload.wikimedia.org/.../grapes.jpg)
+
+*Ảnh: Wikimedia Commons*
+```
+
+Use `960px` thumb URLs from Wikimedia for reasonable page load. Keep existing local SVGs:
+
+```markdown
+![Mau hinh cong them 2]({{ site.baseurl }}/img/chapter_img/chapter01/01_02_mau_hinh.svg)
+```
+
+**Combine local + web:** keep repo SVGs/PNGs for chapter-specific art; add web images to fill gaps (examples, activities, math diagrams not yet generated).
+
+## Placement Checklist per Lesson
+
+Aim for **2–4 web images** spread through the lesson:
+
+1. **Hook** — real-world photo (if story-based) or skip if hook is purely mathematical
+2. **Each core pattern / rule** — one math diagram per pattern type (+2, ×2, triangular, Fibonacci…)
+3. **Each worked example** — diagram or photo matching that example's objects
+4. **At least one activity or exercise** — setup photo or pattern diagram
+
+Do **not** rely on a single image block at the top.
+
+---
+
+# 2. Python-Generated Illustrations
+
+Use **Python code** to generate illustrations whenever a visual explanation improves understanding and no suitable Wikimedia diagram exists yet.
 
 ## Recommended Libraries
 
-- `matplotlib` — plotting graphs and geometric diagrams  
-- `numpy` — numerical computation  
-- `sympy` — symbolic mathematics visualization  
-- `networkx` — graphs and combinatorics structures  
+- `matplotlib` — plotting graphs and geometric diagrams
+- `numpy` — numerical computation
+- `sympy` — symbolic mathematics visualization
+- `networkx` — graphs and combinatorics structures
 
 ## Illustration Guidelines
 
@@ -34,16 +161,12 @@ Python visualizations should:
 - remain visually simple and uncluttered
 - include titles and axis labels when appropriate
 - highlight the pattern or relationship being studied
-- be clear and bold for children, with one main idea per picture
-- avoid overcrowding a single picture with too many objects, labels, or concepts
+- pictures for children must be clear, bold; do not try to put many things in one picture
+- sometimes add funny cartoons to lessons to make them alive
 
-The code must be:
+Save to `img/chapter_img/chapterXX/` and reference with `{{ site.baseurl }}/img/chapter_img/chapterXX/filename.svg`.
 
-- **complete and executable**
-- **short and readable**
-- **well-commented for educational clarity**
-
----
+Scripts live in `scripts/illustrations/` (e.g. `generate_even_numbers.py`, `generate_chapter03.py`).
 
 ## Example: Visualizing an Even Number Pattern
 
@@ -60,172 +183,106 @@ plt.title("Even Numbers: y = 2n")
 plt.xlabel("n")
 plt.ylabel("Value")
 plt.grid(True)
+plt.savefig("../../img/chapter_img/chapter01/01_even_number_pattern.png")
+plt.close()
+```
 
-plt.show()
+---
 
+# 3. Visual Discovery Principle
 
-This visualization helps learners see the pattern:
+Replace purely verbal explanations with visual discovery.
 
-𝑦
-=
-2
-𝑛
-y=2n
+**Instead of stating:** "Even numbers increase by 2."
 
-Typical Uses of Python Visualizations
+**Provide:** a number-line diagram (`EvenOddNumberLine.svg`) **and** a photo of paired socks for the sharing story.
 
-Python should be used to illustrate:
+**Instead of stating:** "Fibonacci: add the two previous numbers."
 
-number sequences
+**Provide:** `Fibonacci_spiral_2019.svg` or the rabbit-family diagram — not a decorative nature photo.
 
-geometric shapes
+---
 
-coordinate geometry
+# 4. Interactive Lessons with JavaScript
 
-probability experiments
+JavaScript creates exploration tools where learners manipulate variables and observe behavior in real time.
 
-function behavior
+## Recommended Technologies
 
-algorithm behavior
+- Vanilla JavaScript + HTML
+- p5.js for visual math exploration
+- D3.js for data-driven visualizations
 
-mathematical patterns
+Vietnamese lessons: wrap interactives with `<!-- vi-interactive:start -->` / `{% include vi-interactive-lesson.html %}` / `<!-- vi-interactive:end -->` and keep `_data/vi_interactive_lessons.json` in sync.
 
-2. Visual Discovery Principle
+---
 
-Whenever possible, replace purely verbal explanations with visual discovery.
-
-Example:
-
-Instead of stating:
-
-Even numbers increase by 2.
-
-Provide a visualization showing evenly spaced points on a number line.
-
-The goal is for learners to see the pattern themselves.
-
-3. Interactive Lessons with JavaScript
-
-JavaScript should be used to create interactive exploration tools where learners manipulate variables and observe mathematical behavior in real time.
-
-Recommended Technologies
-
-Vanilla JavaScript + HTML
-
-p5.js for visual math exploration
-
-D3.js for data-driven visualizations
-
-Interactive tools should allow learners to:
-
-modify parameters
-
-test predictions
-
-observe emerging patterns
-
-explore mathematical relationships
-
-4. Structure of Interactive Components
+# 5. Structure of Interactive Components
 
 Each interactive component should include:
 
-Concept
+**Concept** — Brief explanation of the mathematical idea.
 
-Brief explanation of the mathematical idea.
+**Interactive Exploration** — A small JavaScript program that allows learners to manipulate values.
 
-Interactive Exploration
+**Guided Questions** — e.g. "What happens if you increase this value?", "Can you predict the next result?"
 
-A small JavaScript program that allows learners to manipulate values.
+---
 
-Guided Questions
+# 6. Pedagogical Principles
 
-Questions encouraging exploration, such as:
+- **Exploration before explanation**
+- **Visual intuition over abstraction**
+- **Immediate feedback**
+- **Encouragement of curiosity**
+- **Topic-accurate visuals** — diagram for rules, photo for stories
+- **Real-world connection** where the lesson uses concrete scenarios
 
-What happens if you increase this value?
+---
 
-Can you predict the next result?
+# 7. When to Use Each Tool
 
-Do you notice a pattern?
+| Need | Tool | Example |
+|---|---|---|
+| Math pattern, sequence, formula, geometry diagram | **Web math diagram** (Wikimedia) or **Python SVG/PNG** | number line, Fibonacci spiral, powers chart |
+| Word problem object, hook story, daily-life scene | **Web real-world photo** | socks, grapes, market, eggs |
+| Learner manipulates variables | **JavaScript interactive** | even-number explorer, sequence lab |
+| Chapter-branded art not on the web yet | **Python** → `img/chapter_img/` | `01_02_mau_hinh.svg` |
 
-5. Example Interactive Lesson
-<!DOCTYPE html>
-<html>
-<body>
+Use **all three categories** in a lesson when the topic allows.
 
-<h3>Explore Even Numbers</h3>
+---
 
-<input type="range" min="1" max="20" value="1" id="slider">
-
-<p>Result: <span id="value"></span></p>
-
-<script>
-
-const slider = document.getElementById("slider");
-const output = document.getElementById("value");
-
-function update() {
-    let n = slider.value;
-    output.innerText = 2 * n;
-}
-
-slider.addEventListener("input", update);
-
-update();
-
-</script>
-
-</body>
-</html>
-
-This interactive example allows learners to explore:
-
-2
-𝑛
-2n
-
-and observe how it generates even numbers.
-
-6. Pedagogical Principles
-
-All illustrations and interactive elements must follow these principles:
-
-Exploration before explanation
-
-Visual intuition over abstraction
-
-Immediate feedback
-
-Encouragement of curiosity
-
-Learners should feel that they are discovering mathematics, not simply memorizing rules.
-
-7. When to Use Each Tool
-
-Use Python visualizations when:
-
-demonstrating mathematical graphs
-
-illustrating geometry
-
-visualizing numerical patterns
-
-showing algorithm behavior
-
-Use JavaScript interactive tools when:
-
-learners should manipulate variables
-
-exploring dynamic mathematical relationships
-
-building intuition through experimentation
-
-8. Integration with Lessons
+# 8. Integration with Lessons
 
 When appropriate, each lesson should include:
 
-one Python-generated illustration
+- **2–4 web images** — math diagrams for patterns/rules; photos for stories/examples
+- **one Python-generated or local SVG** illustration for the core math pattern
+- **one interactive JavaScript exploration**
 
-one interactive JavaScript exploration
+### Chapter 01 reference (applied successfully)
 
-These elements should support the lesson's main concept and help learners develop mathematical intuition through visualization and experimentation.
+| Lesson | Math diagrams used | Real-world photos used |
+|---|---|---|
+| 01-01 Số chẵn | — | crayons, socks, buttons, grapes, street numbers |
+| 01-02 Mẫu hình | number line, powers chart, triangular dots, Fibonacci spiral/rabbits, square numbers | — |
+| 01-03 Phép cộng | abacus | Vietnam market, vegetable shop |
+| 01-04 Phép trừ | abacus subtraction animation | eggs, market |
+| 01-05 Số lớn | — | Earth, Moon, city lights (NASA) |
+| 01-06 Quy luật | abacus, distributive diagram, Fibonacci spiral | — |
+
+Follow this split for future chapters: **patterns → diagrams; stories → photos**.
+
+---
+
+# 9. Agent Checklist Before Finishing
+
+1. Draft lesson text.
+2. Tag each section: math-pattern or real-world-story.
+3. Search and embed 2–4 verified URLs (HTTP 200).
+4. Confirm no nature/decorative image stands in for a math rule.
+5. Keep or add local `img/chapter_img/` SVG where the repo already has them.
+6. Add/keep one JavaScript interactive.
+7. Run `python3 scripts/check_vi_interactive_coverage.py` for Vietnamese posts.
+8. Run `JEKYLL_ENV=production bundle exec jekyll build --baseurl "/math-lover"`.

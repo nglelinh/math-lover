@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học các ứng dụng nâng cao của tỉ lệ phần trăm trong cuộc sống!
-
 ![Ti le phan tram]({{ site.baseurl }}/img/chapter_img/chapter07/05_percent.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết tính phần trăm cơ bản. Hôm nay, chúng ta sẽ học các ứng dụng nâng cao nhé!
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -68,11 +76,15 @@ Tiền lãi = 10.000.000 × 7 × 1 / 100 = 700.000 đ
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tính giá mới
-
 a) Giá xe đạp 2.500.000 đ, giảm 20%
 b) Giá điện thoại 8.000.000 đ, tăng 15%
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: Tính lãi suất
 

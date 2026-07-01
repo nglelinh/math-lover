@@ -9,10 +9,13 @@ categories:
 - chapter03
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách giải các phương trình phức tạp hơn!
-
 ![Phuong trinh]({{ site.baseurl }}/img/chapter_img/chapter07/04_equations.svg)
+
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết giải phương trình đơn giản. Hôm nay, chúng ta sẽ học các phương trình khó hơn nhé!
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -72,13 +80,17 @@ x = 15 : 5 = 3
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Giải phương trình
-
 Giải các phương trình:
 a) 2x + 8 = 20
 b) 4x - 5 = 15
 c) 3x + 9 = 18
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Giải toán có lời văn
 

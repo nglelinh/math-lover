@@ -9,7 +9,6 @@ categories: [chapter04]
 lesson_type: required
 story_arc: The Fair Share Kingdom
 ---
-
 ## Hook
 
 The Fair Share Kingdom has a new challenge! Three friends arrive at the castle asking for an equal share of one royal pie. The baker knows about halves and quarters, but how do you share fairly among THREE people? Let's discover thirds and sixths!
@@ -20,6 +19,11 @@ The Fair Share Kingdom has a new challenge! Three friends arrive at the castle a
 
 In this lesson, children will explore thirds (1/3) and sixths (1/6), learning how to divide objects into 3 and 6 equal parts. They'll discover the relationship between thirds and sixths, practice fair sharing with different numbers of people, and develop deeper understanding of fractions as equal parts of a whole.
 
+![Balance scale for equations](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
+
 ---
 
 ## Prerequisites
@@ -29,6 +33,11 @@ Before starting this lesson, children should be comfortable with:
 - Recognizing equal parts
 - Dividing objects into equal groups
 - Counting to 12
+
+![Pie chart for percentages](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 

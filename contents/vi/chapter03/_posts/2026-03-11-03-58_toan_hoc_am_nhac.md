@@ -9,7 +9,6 @@ categories: [chapter03]
 lesson_type: optional
 hidden: true
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong âm nhạc.
@@ -22,16 +21,25 @@ Trong bài học này, các em sẽ khám phá toán học trong âm nhạc.
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Âm nhạc có nhịp điệu và giai điệu!
-
 Hãy cùng khám phá!
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
 ## 1. Nhịp
-
 ### Các loại nhịp
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - 4/4
 - 3/4

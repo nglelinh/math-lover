@@ -8,10 +8,14 @@ lang: en
 categories: [chapter02]
 lesson_type: required
 ---
-
 ## Objectives
 
 In this lesson, children will discover the easiest and most magical skip counting pattern of all - counting by 10s! They'll learn that every number ending in 0 is part of this special pattern, and how this connects to place value. This is the foundation for understanding our decimal number system.
+
+![Number line showing even and odd numbers](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/EvenOddNumberLine.svg/960px-EvenOddNumberLine.svg.png)
+
+*Image: Wikimedia Commons — math diagram*
+
 
 ---
 
@@ -21,6 +25,11 @@ Before starting this lesson, children should be comfortable with:
 - Skip counting by 2s and 5s
 - Recognizing numbers from 1 to 100
 - Understanding that numbers can be broken into tens and ones
+
+![Pair of socks](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BLW_Pair_of_socks.jpg/960px-BLW_Pair_of_socks.jpg)
+
+*Image: Wikimedia Commons*
+
 
 ---
 

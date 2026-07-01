@@ -9,10 +9,13 @@ categories:
 - chapter04
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách so sánh các phân số để biết phân số nào lớn hơn!
-
 ![So sanh phan so]({{ site.baseurl }}/img/chapter_img/chapter05/07_comparing_fractions.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết đọc và viết phân số. Hôm nay, chúng ta sẽ học cách so sánh chúng nhé!
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -67,12 +75,16 @@ Khi mẫu số giống nhau, phân số nào có **tử số lớn hơn** thì l
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: So sánh cùng mẫu
-
 So sánh:
 - 3/8 và 5/8 → 3/8 < 5/8
 - 7/10 và 4/10 → 7/10 > 4/10
+
+
+
+![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 ### Hoạt động 2: So sánh khác mẫu
 

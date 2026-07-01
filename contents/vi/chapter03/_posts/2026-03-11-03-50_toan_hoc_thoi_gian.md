@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong việc đo và quản lý thời gian.
@@ -22,18 +21,27 @@ Trong bài học này, các em sẽ khám phá toán học trong việc đo và 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Thời gian rất quan trọng!
-
 Toán học giúp chúng ta đo và quản lý thời gian!
+
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Đơn Vị Thời Gian
-
 ### Các đơn vị
+
+
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 - 1 phút = 60 giây
 - 1 giờ = 60 phút = 3600 giây

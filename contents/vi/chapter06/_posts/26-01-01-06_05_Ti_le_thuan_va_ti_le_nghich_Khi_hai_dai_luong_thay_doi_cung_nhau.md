@@ -9,10 +9,13 @@ categories:
 - chapter06
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá mối quan hệ đặc biệt giữa hai đại lượng khi chúng thay đổi cùng nhau!
-
 ![Ti le thuan nghich]({{ site.baseurl }}/img/chapter_img/chapter06/05_direct_inverse_proportion.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về tỉ số và tỉ lệ. Hôm nay, chúng ta sẽ học về hai loại tỉ lệ đặc biệt nhé!
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -71,12 +79,16 @@ Em đã biết về tỉ số và tỉ lệ. Hôm nay, chúng ta sẽ học về
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Nhận biết tỉ lệ
-
 Xác định loại tỉ lệ:
 - Số bạn và số kẹo chia → Tỉ lệ thuận
 - Số người làm và thời gian → Tỉ lệ nghịch
+
+
+
+![Hình chữ nhật](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rectangle.svg/960px-Rectangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Giải toán tỉ lệ thuận
 

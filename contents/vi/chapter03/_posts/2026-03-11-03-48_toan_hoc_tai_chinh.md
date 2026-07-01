@@ -9,7 +9,6 @@ categories:
 - chapter03
 lesson_type: optional
 ---
-
 ## Mục tiêu
 
 Trong bài học này, các em sẽ khám phá toán học trong tài chính, hiểu được cách tính lãi suất và quản lý tiền.
@@ -22,18 +21,27 @@ Trong bài học này, các em sẽ khám phá toán học trong tài chính, hi
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 Tiền rất quan trọng trong cuộc sống!
-
 Tài chính cần nhiều toán học!
+
+
+
+![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Hãy cùng khám phá!
 
 ---
 
 ## 1. Tiết Kiệm
-
 ### Lãi suất
+
+
+
+![Giỏ hàng — toán khi mua sắm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Shopping_cart.jpg/960px-Shopping_cart.jpg)
+
+*Ảnh: Wikimedia Commons*
 
 Gửi tiết kiệm 1.000.000 đ, lãi 10%/năm:
 - Lãi = 1.000.000 × 10% = 100.000 đ/năm

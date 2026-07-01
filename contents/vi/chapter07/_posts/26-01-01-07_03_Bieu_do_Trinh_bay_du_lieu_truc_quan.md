@@ -9,10 +9,13 @@ categories:
 - chapter07
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách trình bày dữ liệu một cách trực quan và dễ hiểu!
-
 ![Bieu do]({{ site.baseurl }}/img/chapter_img/chapter07/03_charts.svg)
+
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về biểu đồ cột. Hôm nay, chúng ta sẽ học thêm nhiều loại biểu đồ nhé!
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -69,15 +77,19 @@ Số học sinh yêu thích các môn thể thao:
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Đọc biểu đồ
-
 Cho biểu đồ nhiệt độ trong tuần:
 - Thứ Hai: 25°C
 - Thứ Ba: 27°C
 - Thứ Tư: 24°C
 - Thứ Năm: 26°C
 - Thứ Sáu: 28°C
+
+
+
+![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 Trả lời: Ngày nào nóng nhất?
 

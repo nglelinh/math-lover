@@ -9,10 +9,13 @@ categories:
 - chapter04
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá khi nào hai phân số có giá trị bằng nhau!
-
 ![Phan so bang nhau]({{ site.baseurl }}/img/chapter_img/chapter05/06_equivalent_fractions.svg)
+
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết đọc và viết phân số. Hôm nay, chúng ta sẽ học về tính chất đặc biệt của phân số nhé!
+
+![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -75,13 +83,17 @@ Chúng đều bằng một nửa!
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tìm phân số bằng nhau
-
 Tìm 3 phân số bằng với:
 - 1/3 → 2/6, 3/9, 4/12
 - 2/5 → 4/10, 6/15, 8/20
 - 3/4 → 6/8, 9/12, 15/20
+
+
+
+![Biểu đồ tròn — 1/2 và 2/4 là cùng một phần](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Rút gọn phân số
 

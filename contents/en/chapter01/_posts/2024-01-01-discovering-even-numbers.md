@@ -18,6 +18,10 @@ If they have 9 stickers, one sticker has no partner.
 
 That tiny leftover is today’s mystery.
 
+![Two children learning and sharing together](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Children_Learning_Together.jpg/960px-Children_Learning_Together.jpg)
+
+*Image: Wikimedia Commons*
+
 ---
 
 ## Objectives
@@ -50,6 +54,10 @@ Imagine each number is the number of socks in a basket. You must make pairs of s
 - Which numbers leave one sock alone?
 
 Do not memorize. Build and check.
+
+![A pair of socks ready to be matched](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BLW_Pair_of_socks.jpg/960px-BLW_Pair_of_socks.jpg)
+
+*Image: Wikimedia Commons, CC BY-SA 2.0 UK*
 
 ---
 
@@ -103,6 +111,10 @@ The last-digit clue is fast, but the pair test explains why.
 
 Materials: 20 small objects (buttons, blocks, seeds, coins).
 
+![Colorful buttons for pairing into equal groups](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Plastic_buttons_20190306.jpg/960px-Plastic_buttons_20190306.jpg)
+
+*Image: Wikimedia Commons*
+
 1. Pick a number from 1 to 12.
 2. Try making two equal groups.
 3. Record result in a table: number, equal groups, leftover.
@@ -131,6 +143,10 @@ Ask learners to predict all even numbers from 1 to 20 before pressing reveal.
 ## Example Walkthrough
 
 Scenario: 14 cherries shared equally by 2 children.
+
+![Fresh cherries to share equally between two children](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
+
+*Image: Wikimedia Commons*
 
 Step 1: Pair cherries into two groups.
 
@@ -200,6 +216,10 @@ Today we still use the same core idea: check how numbers split.
 - house numbers on opposite sides of a street
 - tournament rounds (best of 3, best of 5)
 - pairing shoes, gloves, and teammates
+
+![House numbers along a street — even and odd sides](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Coltman_Street%2C_Hull_-_geograph.org.uk_-_1194325.jpg/960px-Coltman_Street%2C_Hull_-_geograph.org.uk_-_1194325.jpg)
+
+*Image: Wikimedia Commons, CC BY-SA 2.0*
 
 Math starts with noticing patterns in ordinary life.
 

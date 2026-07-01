@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ khám phá hình trụ và các ứng dụng của nó trong cuộc sống!
-
 ![Hinh tru]({{ site.baseurl }}/img/chapter_img/chapter07/07_cylinder.svg)
+
+
+![Hình lập phương — khối 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cube.svg/960px-Cube.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết về hình cầu và hình nón. Hôm nay, chúng ta sẽ học về hình trụ nhé!
+
+![Hình cầu](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sphere.svg/960px-Sphere.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -74,13 +82,17 @@ Sxq = 2 × π × r × h
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Nhận biết hình trụ
-
 Tìm các đồ vật có dạng hình trụ trong nhà:
 - Lon nước ngọt
 - Ống nước
 - Bình đựng nước
+
+
+
+![Hình nón](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cone_%28geometry%29.svg/960px-Cone_%28geometry%29.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Tính thể tích
 

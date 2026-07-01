@@ -9,10 +9,13 @@ categories:
 - chapter07
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách thu thập và biểu diễn thông tin như các nhà khoa học!
-
 ![Du lieu thu thap va bieu dien thong tin]({{ site.baseurl }}/img/chapter_img/chapter04/04_09_du_lieu_thu_thap_va_bieu_dien_thong_tin.svg)
+
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -29,6 +32,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết đếm và gom nhóm các đồ vật. Hôm nay, chúng ta sẽ học cách tổ chức thông tin nhé!
+
+![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -70,14 +78,18 @@ Cầu lông:   █████ (5)
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Khảo sát màu sắc
-
 Em hãy hỏi 10 bạn xem bạn thích màu gì và ghi lại:
 - Đỏ: ... bạn
 - Xanh: ... bạn
 - Vàng: ... bạn
 - Tím: ... bạn
+
+
+
+![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ### Hoạt động 2: Vẽ biểu đồ
 

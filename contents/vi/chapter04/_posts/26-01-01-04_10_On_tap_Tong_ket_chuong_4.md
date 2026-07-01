@@ -10,10 +10,13 @@ categories:
 lesson_type: optional
 hidden: true
 ---
-
 Trong bài học này, chúng ta sẽ ôn tập tất cả những gì đã học trong chương 4!
-
 ![On tap Tong ket chuong 4]({{ site.baseurl }}/img/chapter_img/chapter04/04_10_on_tap_tong_ket_chuong_4.svg)
+
+
+![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 ---
 
@@ -30,6 +33,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Chúng ta đã học rất nhiều điều thú vị trong chương 4. Hôm nay, hãy cùng ôn tập nhé!
+
+![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -71,10 +79,14 @@ Chúng ta đã học rất nhiều điều thú vị trong chương 4. Hôm nay,
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Giải toán tổng hợp
-
 **Bài toán:** Một cửa hàng có 100 sản phẩm. Ngày đầu bán được 30% sản phẩm. Hỏi còn lại bao nhiêu?
+
+
+
+![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 **Giải:**
 - Số sản phẩm đã bán: 100 × 30% = 30 (sản phẩm)

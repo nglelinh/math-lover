@@ -9,10 +9,13 @@ categories:
 - chapter08
 lesson_type: required
 ---
-
 Trong bài học này, chúng ta sẽ học cách đo lường các hình phẳng - chu vi và diện tích!
-
 ---
+
+![Hình chữ nhật](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rectangle.svg/960px-Rectangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ## Mục tiêu
 
@@ -28,6 +31,11 @@ Trong bài học này, em sẽ:
 ## Kiến thức đã biết
 
 Em đã biết đo chiều dài và biết các hình cơ bản. Hôm nay, chúng ta sẽ học cách tính toán với các hình nhé!
+
+![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
+
 
 ---
 
@@ -88,10 +96,14 @@ Em đã biết đo chiều dài và biết các hình cơ bản. Hôm nay, chún
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
-
 ### Hoạt động 1: Tính chu vi
-
 **Tính chu vi hình vuông cạnh 5 cm:**
+
+
+
+![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
+
+*Ảnh: Wikimedia Commons — sơ đồ toán học*
 
 **Giải:** P = 5 × 4 = 20 cm
 

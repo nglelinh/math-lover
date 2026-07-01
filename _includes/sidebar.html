@@ -36,12 +36,35 @@
             {% assign submenu_id = "sidebar-submenu-" | append: current_lang | append: "-" | append: node.chapter %}
             {% assign is_current_lesson = page.layout == "post" and page.chapter == node.chapter %}
             {% assign display_chapter = node.sequence | default: node.chapter %}
+            {% assign chapter_required_posts = chapter_posts | where: "lesson_type", "required" %}
+            {% assign chapter_required_total = chapter_required_posts.size %}
+            {% assign chapter_completed = 0 %}
+            {% if is_current_lesson and page.order %}
+              {% for chapter_post in chapter_required_posts %}
+                {% if chapter_post.order <= page.order %}
+                  {% assign chapter_completed = chapter_completed | plus: 1 %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+            {% if chapter_required_total > 0 %}
+              {% assign chapter_progress_percent = chapter_completed | times: 100 | divided_by: chapter_required_total %}
+            {% else %}
+              {% assign chapter_progress_percent = 0 %}
+            {% endif %}
 
             {% if chapter_posts.size > 0 %}
               <div class="sidebar-nav-group{% if is_current_lesson %} is-open{% endif %}">
                 <div class="sidebar-nav-group-heading">
                   <a class="sidebar-nav-item sidebar-nav-chapter{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">
-                    {{ display_chapter }}. {{ node.title }}
+                    <span class="sidebar-nav-title-row">
+                      <span class="sidebar-nav-chapter-label">{{ display_chapter }}. {{ node.title }}</span>
+                    </span>
+                    {% if chapter_required_total > 0 %}
+                      <span class="sidebar-nav-progress" aria-hidden="true">{{ chapter_completed }}/{{ chapter_required_total }} ⭐</span>
+                      <span class="sidebar-nav-progress-track" aria-hidden="true">
+                        <span class="sidebar-nav-progress-fill" style="width: {{ chapter_progress_percent }}%;"></span>
+                      </span>
+                    {% endif %}
                   </a>
                   <button
                     class="sidebar-submenu-toggle"
@@ -63,6 +86,7 @@
                   {% for post in chapter_posts %}
                     <a class="sidebar-nav-item sidebar-nav-subitem{% if page.url == post.url %} active{% endif %}" href="{{ post.url | absolute_url }}" title="{{ post.title | escape }}">
                       <span class="sidebar-nav-subitem-inner">
+                        <span class="sidebar-nav-subitem-icon" aria-hidden="true">{% if post.lesson_type == "required" %}🎯{% else %}✨{% endif %}</span>
                         <span class="sidebar-nav-subitem-title">{{ post.title }}</span>
                       </span>
                     </a>
