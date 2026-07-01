@@ -90,7 +90,6 @@ Tìm 3 phân số bằng với:
 - 3/4 → 6/8, 9/12, 15/20
 
 
-
 ![Biểu đồ tròn — 1/2 và 2/4 là cùng một phần](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -147,7 +146,19 @@ c) 12/15
 Phân số nào bằng 1/2?
    A. 2/3   B. 3/6   C. 4/5
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Rút gọn phân số — Math Antics](https://www.youtube.com/watch?v=AtBUQH8Tkqc) — Math Antics
+2. [Rút gọn phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=c0thGlyVsqA) — VietJack Tiểu học
+3. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

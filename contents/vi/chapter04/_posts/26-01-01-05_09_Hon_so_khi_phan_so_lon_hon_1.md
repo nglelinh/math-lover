@@ -87,7 +87,6 @@ Chuyển các phân số thành hỗn số:
 - 17/6 = 2⅚
 
 
-
 ![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -148,7 +147,19 @@ c) 4⅘
 5/2 = ?
    A. 2½   B. 3½   C. 4½
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phân số là gì? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+2. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+3. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

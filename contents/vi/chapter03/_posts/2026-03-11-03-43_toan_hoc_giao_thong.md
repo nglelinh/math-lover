@@ -33,7 +33,6 @@ Hãy cùng khám phá!
 ### Vận tốc
 
 
-
 ![Con đường — khoảng cách và tốc độ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Road_in_Pyongyang.jpg/960px-Road_in_Pyongyang.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -190,3 +189,18 @@ Tính thời gian đi từ nhà đến trường với vận tốc đi bộ!
 ---
 
 **Nhớ rằng:** Giao thông an toàn cần toán học! 🚗🚌✈️🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
+2. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+3. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

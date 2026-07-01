@@ -22,7 +22,6 @@ Những ngôi sao, Mặt Trăng, các hành tinh...
 **Toán học giúp chúng ta khám phá vũ trụ!**
 
 
-
 ![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -33,7 +32,6 @@ Hãy cùng khám phá!
 
 ## 1. Đo Khoảng Cách Đến Các Vì Sao
 ### Năm ánh sáng
-
 
 
 ![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
@@ -222,7 +220,19 @@ Dải Ngân Hà có khoảng **100-400 tỷ** ngôi sao!
 - **Mars rover** dùng toán học để điều hướng!
 - **SpaceX** dùng toán học để hạ cánh tên lửa!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Thể tích — Math Antics](https://www.youtube.com/watch?v=qJwecTgce6c) — Math Antics
+2. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+3. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 

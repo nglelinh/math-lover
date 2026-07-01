@@ -14,7 +14,6 @@ Bài học này giới thiệu các khái niệm cơ bản về tính liên tụ
 ---
 
 
-
 ![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -123,3 +122,18 @@ Ba loại tính liên tục tạo thành một thứ bậc của các điều ki
 **Ví dụ 4: $$f(x) = \sqrt{x}$$**
 - **Trên $$[0,1]$$**: Liên tục và liên tục đều, nhưng không phải Lipschitz (đạo hàm không bị chặn gần $$x = 0$$)
 - **Trên $$[a,1]$$ với $$a > 0$$**: Lipschitz với $$L = 1/(2\sqrt{a})$$
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+2. [Trục số — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

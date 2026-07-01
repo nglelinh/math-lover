@@ -79,7 +79,6 @@ Khảo sát chiều cao (cm) của 10 bạn trong lớp:
 145, 150, 142, 155, 148, 151, 147, 153, 149, 146
 
 
-
 ![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -128,7 +127,19 @@ Tính trung bình cộng?
 Số liệu: 12, 15, 14, 18, 16, 14
 Tìm trung vị?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+2. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

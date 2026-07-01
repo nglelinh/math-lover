@@ -8,7 +8,6 @@ lang: en
 categories: [chapter01]
 lesson_type: required
 ---
-
 ## Hook
 
 Two children share stickers.
@@ -182,7 +181,19 @@ Level 4 (Creative):
 
 - Find two odd numbers that add to an even number. Test three examples.
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Introduction to even and odd numbers — Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4) — Khan Academy
+2. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+3. [Even and Odd Numbers — Math for Kids](https://www.youtube.com/watch?v=eF_FxSW8QwY) — Math for Kids
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Corner
 

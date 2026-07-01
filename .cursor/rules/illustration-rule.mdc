@@ -6,9 +6,10 @@ alwaysApply: true
 
 To improve conceptual understanding and engagement, lessons should include **visual illustrations** and **interactive exploration tools**. Whenever possible, mathematical ideas should be **visualized or explored dynamically**, allowing learners to observe patterns, test hypotheses, and develop intuition through experimentation.
 
-Three complementary tools should be used:
+Four complementary tools should be used:
 
 - **Web-sourced images** — math diagrams *or* real-world photos, chosen by topic.
+- **YouTube educational videos** — 2–3 popular, topic-matched links per lesson.
 - **Python** for generating static mathematical illustrations and visualizations.
 - **JavaScript** for creating interactive lesson components.
 
@@ -142,6 +143,107 @@ Do **not** rely on a single image block at the top.
 
 ---
 
+# 1b. YouTube Educational Videos
+
+Each lesson should link to **2–3 YouTube videos** that reinforce the exact topic. Videos complement images and interactives — they do not replace them.
+
+## Selection Criteria (popularity + quality)
+
+Prefer videos that are:
+
+- **Topic-accurate** — the title and content match the lesson section (not just the chapter theme)
+- **Popular** — high view count (typically 100k+ for EN channels; 50k+ for VI channels)
+- **Engaging** — clear explanations, good pacing for ages 8–10
+- **From trusted edu channels** — not random re-uploads or clickbait
+
+### Trusted channels (English)
+
+| Channel | Best for |
+|---|---|
+| **Khan Academy** | Arithmetic, fractions, geometry, probability, algebra basics |
+| **Math Antics** | Visual intuition: fractions, decimals, negatives, area, volume, patterns |
+| **Numberphile** | Enrichment: Fibonacci, Pascal, number curiosity (use sparingly) |
+
+### Trusted channels (Vietnamese)
+
+| Channel | Best for |
+|---|---|
+| **VietJack Tiểu học** | Phân số, hình học, ôn tập theo SGK lớp 3–5 |
+| **VioEdu TV** | Bài giảng tiểu học có cấu trúc |
+| **Khan Academy** (vi subs) | Khi chưa có bài VI phù hợp |
+| **Thầy Nguyễn Văn Quyền / Cô Giáo Nga** | Phép tính, chia có dư, lớp 3–4 |
+
+Do **not** pick: toy unboxing, generic “ học toán ” compilations, videos with misleading titles, or content above grade level without a simpler alternative.
+
+## Math Video vs Story Video
+
+| Lesson teaches… | Link to… | Do NOT link to… |
+|---|---|---|
+| Quy luật, công thức, mẫu hình | Explainer that shows the **rule visually** | Vlog or exam tips unrelated to the rule |
+| Phép tính (+ − × ÷) | Step-by-step operation video | Calculator tricks for university |
+| Phân số, thập phân, % | Fraction/decimal/percent intuition | Cooking video unless lesson is about cooking math |
+| Hình học | Shape, area, perimeter, volume demos | Architecture documentary |
+| Xác suất, thống kê | Dice, charts, mean/median | Gambling promotion |
+| Bài “toán đời sống” (thể thao, chợ…) | Real-world application **in that domain** | Generic arithmetic not tied to the story |
+
+## How to Verify Before Embedding
+
+1. Open the YouTube URL — confirm it plays and matches the lesson topic.
+2. Check **view count** and **channel** (sidebar or `yt-dlp --print view_count`).
+3. Prefer videos with many comments and long-standing presence (not brand-new uploads with no traction).
+4. Use canonical watch URLs: `https://www.youtube.com/watch?v=VIDEO_ID`
+
+## How to Embed in Lessons
+
+Place a dedicated section **after core content** (Khám phá / Hoạt động) and **before** Bài tập or Góc cha mẹ:
+
+**Vietnamese:**
+
+```markdown
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giới thiệu số chẵn số lẻ — Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4)
+2. [Trục số — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA)
+3. [Bảng nhân 3 — Dâu Tây TV](https://www.youtube.com/watch?v=8yoMIulmEsQ)
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+```
+
+**English:**
+
+```markdown
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Introduction to even and odd numbers — Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4)
+2. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA)
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+```
+
+### Placement checklist per lesson
+
+Aim for **2–3 links** in one `## Video tham khảo` / `## Watch and Learn` block:
+
+1. **Primary** — best topic match (often Khan Academy or Math Antics)
+2. **Secondary** — different angle (visual intuition, number line, real-world)
+3. **Optional third** — Vietnamese channel for `vi` posts when available; enrichment for `en`
+
+Do **not** scatter video links across the lesson — keep them in one section.
+
+### Anti-patterns (learned from automation)
+
+- Do **not** attach a cherry-basket or unrelated viral clip to a fractions **rule** lesson.
+- Do **not** reuse the same three videos for every lesson in a chapter — match each lesson title.
+- Do **not** link private, deleted, or age-restricted videos.
+
+Automation: `python3 scripts/add_lesson_videos.py` (curated IDs + topic keywords). Re-run with `--reapply` after updating the video map.
+
+---
+
 # 2. Python-Generated Illustrations
 
 Use **Python code** to generate illustrations whenever a visual explanation improves understanding and no suitable Wikimedia diagram exists yet.
@@ -246,10 +348,11 @@ Each interactive component should include:
 |---|---|---|
 | Math pattern, sequence, formula, geometry diagram | **Web math diagram** (Wikimedia) or **Python SVG/PNG** | number line, Fibonacci spiral, powers chart |
 | Word problem object, hook story, daily-life scene | **Web real-world photo** | socks, grapes, market, eggs |
+| Hear/visual explanation from a popular teacher | **YouTube link** (2–3 per lesson) | Khan Academy, Math Antics, VietJack |
 | Learner manipulates variables | **JavaScript interactive** | even-number explorer, sequence lab |
 | Chapter-branded art not on the web yet | **Python** → `img/chapter_img/` | `01_02_mau_hinh.svg` |
 
-Use **all three categories** in a lesson when the topic allows.
+Use **all four categories** in a lesson when the topic allows.
 
 ---
 
@@ -258,6 +361,7 @@ Use **all three categories** in a lesson when the topic allows.
 When appropriate, each lesson should include:
 
 - **2–4 web images** — math diagrams for patterns/rules; photos for stories/examples
+- **2–3 YouTube links** — popular educational videos matching the lesson topic
 - **one Python-generated or local SVG** illustration for the core math pattern
 - **one interactive JavaScript exploration**
 
@@ -280,9 +384,10 @@ Follow this split for future chapters: **patterns → diagrams; stories → phot
 
 1. Draft lesson text.
 2. Tag each section: math-pattern or real-world-story.
-3. Search and embed 2–4 verified URLs (HTTP 200).
-4. Confirm no nature/decorative image stands in for a math rule.
-5. Keep or add local `img/chapter_img/` SVG where the repo already has them.
-6. Add/keep one JavaScript interactive.
-7. Run `python3 scripts/check_vi_interactive_coverage.py` for Vietnamese posts.
-8. Run `JEKYLL_ENV=production bundle exec jekyll build --baseurl "/math-lover"`.
+3. Search and embed 2–4 verified image URLs (HTTP 200).
+4. Add 2–3 verified YouTube links in `## Video tham khảo` / `## Watch and Learn`.
+5. Confirm no nature/decorative image stands in for a math rule.
+6. Keep or add local `img/chapter_img/` SVG where the repo already has them.
+7. Add/keep one JavaScript interactive.
+8. Run `python3 scripts/check_vi_interactive_coverage.py` for Vietnamese posts.
+9. Run `JEKYLL_ENV=production bundle exec jekyll build --baseurl "/math-lover"`.

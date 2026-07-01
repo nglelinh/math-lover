@@ -81,7 +81,6 @@ So sánh:
 - 7/10 và 4/10 → 7/10 > 4/10
 
 
-
 ![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -143,7 +142,19 @@ b) 2/5, 1/3, 3/10
 Phân số nào lớn hơn 1/2?
    A. 3/8   B. 4/9   C. 2/5
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phân số là gì? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+2. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+3. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

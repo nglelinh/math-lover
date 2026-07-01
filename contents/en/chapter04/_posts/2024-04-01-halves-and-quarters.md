@@ -305,7 +305,19 @@ Now get creative!
     - How much pizza does each friend get?
     - Draw your answer using fractions!
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Fractions Are Parts — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
+2. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+3. [Fractions grade 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

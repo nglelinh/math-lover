@@ -80,7 +80,6 @@ Viết tỉ số của:
 - 15 bạn trai và 10 bạn gái: 15:10 = 3:2
 
 
-
 ![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -139,7 +138,19 @@ b) 3:5 = 6:10
 Tỉ số 4:8 = ?
    A. 1:4   B. 1:2   C. 2:1
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+2. [Tỷ lệ thuận — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
+3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

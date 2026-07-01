@@ -78,7 +78,6 @@ Tung đồng xu 10 lần và ghi lại kết quả:
 - Mặt Ngửa: ... lần
 
 
-
 ![Tam giác Pascal — mẫu hình số](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pascal_triangle.svg/960px-Pascal_triangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -128,7 +127,19 @@ b) Rút bài, xác suất rút được lá J?
 Trong hộp có 4 bóng đỏ, 6 bóng xanh. Xác suất rút được bóng đỏ?
    A. 4/10   B. 6/10   C. 2/10
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+2. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

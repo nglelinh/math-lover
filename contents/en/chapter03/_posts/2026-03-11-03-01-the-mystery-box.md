@@ -160,7 +160,19 @@ Step 4: So ? = 7
 
 **Check:** 2 × 7 = 14 ✓
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Solving Basic Equations Part 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
+2. [What Is Algebra? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

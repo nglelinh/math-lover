@@ -81,7 +81,6 @@ b) x - 6 = 14
 c) x × 3 = 21
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -130,7 +129,19 @@ a) x + 10 = 25, x = ?
 b) 3x = 21, x = ?
    A. 6   B. 7   C. 8
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
+2. [Giải phương trình hai bước — Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — Math Antics
+3. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

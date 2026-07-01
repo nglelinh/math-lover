@@ -25,7 +25,6 @@ Thời gian rất quan trọng!
 Toán học giúp chúng ta đo và quản lý thời gian!
 
 
-
 ![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -36,7 +35,6 @@ Hãy cùng khám phá!
 
 ## 1. Đơn Vị Thời Gian
 ### Các đơn vị
-
 
 
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
@@ -115,3 +113,18 @@ Sinh năm 2015, năm 2026:
 ---
 
 **Nhớ rằng:** Quản lý thời gian cần toán học! ⏰📅🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+2. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

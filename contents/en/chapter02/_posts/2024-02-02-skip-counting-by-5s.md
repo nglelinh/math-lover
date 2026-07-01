@@ -147,7 +147,19 @@ We skip counted by 5s eight times to get 40. That's the same as saying "8 times 
 
 See how useful skip counting by 5s is in real life?
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+2. [Intro to multiplication — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy
+3. [Multiply and Divide by Powers of 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

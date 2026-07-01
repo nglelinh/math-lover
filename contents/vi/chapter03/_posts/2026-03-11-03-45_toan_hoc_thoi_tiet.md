@@ -33,7 +33,6 @@ Hãy cùng khám phá!
 ### Đo nhiệt độ
 
 
-
 ![Nhiệt kế — đo nhiệt độ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Thermometer.jpg/960px-Thermometer.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -178,3 +177,18 @@ Theo dõi nhiệt độ mỗi ngày trong một tuần và tính trung bình!
 ---
 
 **Nhớ rằng:** Dự báo thời tiết cần toán học để bảo vệ chúng ta! 🌤️🌧️❄️🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

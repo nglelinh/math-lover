@@ -100,7 +100,6 @@ Em đã biết đo chiều dài và biết các hình cơ bản. Hôm nay, chún
 **Tính chu vi hình vuông cạnh 5 cm:**
 
 
-
 ![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -198,7 +197,19 @@ b) Một mảnh vườn hình vuông có cạnh 20 m. Người ta rào xung quan
 
 c) Tính diện tích phòng học biết dài 8 m, rộng 6 m.
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+2. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
+3. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

@@ -95,7 +95,6 @@ Chúng ta đã học rất nhiều điều thú vị trong chương 8. Hôm nay,
 = (1/2)³ = 1/8
 
 
-
 ![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -152,7 +151,19 @@ Tính thể tích hình cầu r = 6cm
 
 Tìm số tiếp theo: 1, 4, 13, 40, ...
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+2. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+3. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

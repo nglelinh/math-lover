@@ -36,7 +36,6 @@ Hãy cùng khám phá!
 ### Hệ nhị phân
 
 
-
 ![Mặt trăng — khoảng cách và số lớn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/A_New_View_of_the_Moon.jpg/960px-A_New_View_of_the_Moon.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -72,3 +71,18 @@ Dùng toán học để mã hóa dữ liệu!
 ---
 
 **Nhớ rằng:** Máy tính hoạt động nhờ toán học! 💻🔢🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+3. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

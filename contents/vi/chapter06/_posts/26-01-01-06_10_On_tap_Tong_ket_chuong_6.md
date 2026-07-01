@@ -111,7 +111,6 @@ $$6.000 \times 5 = 30.000$$
 **Bài toán 1:** Tính
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -137,7 +136,6 @@ a) 12,5 + 7,8
 b) 9,5 - 4,25
 
 
-
 ![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -157,7 +155,19 @@ b) 4 quyển sách giá 120.000 đồng. 1 quyển giá bao nhiêu?
 a) 5 kg táo giá 50.000 đồng. 8 kg táo giá bao nhiêu?
 b) Một áo giá 200.000 đồng, giảm 15%. Em phải trả bao nhiêu?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
+2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+3. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

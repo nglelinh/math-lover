@@ -88,7 +88,6 @@ Viết các phân số thành số thập phân:
 - 25/100 = 0,25
 
 
-
 ![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -146,7 +145,19 @@ c) 0,5 và 0,50
 0,75 = ?
    A. 75/10   B. 75/100   C. 75/1000
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
+2. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
+3. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

@@ -171,7 +171,6 @@ Nó giống như một khu vườn số học, nơi mỗi hàng lại mở ra m�
 Chuẩn bị:
 
 
-
 ![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -290,7 +289,19 @@ Mức 4:
 2. Em thấy quy luật nào đẹp nhất: đối xứng, tổng mỗi hàng hay các đường chéo?
 3. Nếu tiếp tục viết thêm 10 hàng nữa, em đoán sẽ còn phát hiện ra điều gì?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tam giác Pascal — Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo) — Numberphile
+2. [Bí ẩn dãy Fibonacci — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

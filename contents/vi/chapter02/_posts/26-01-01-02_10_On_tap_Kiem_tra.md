@@ -24,8 +24,6 @@ Hôm nay, ta không học kiến thức mới. Ta sẽ kiểm tra xem **khi nào
 ![On tap Kiem tra]({{ site.baseurl }}/img/chapter_img/chapter02/02_10_on_tap_kiem_tra.svg)
 
 
-
-
 ![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -379,6 +377,17 @@ Những mục nên tự đánh giá:
 
 
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+2. [Phép chia cơ bản — Math Antics](https://www.youtube.com/watch?v=KGMf314LUc0) — Math Antics
+3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

@@ -87,7 +87,6 @@ b) 4x - 5 = 15
 c) 3x + 9 = 18
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -131,7 +130,19 @@ c) 4x + 12 = 28
 
 Một số nhân 3 rồi cộng 7 được 25. Tìm số đó?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giải phương trình hai bước — Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — Math Antics
+2. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
+3. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

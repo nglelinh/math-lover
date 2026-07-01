@@ -84,7 +84,6 @@ Tính diện tích tam giác có:
 - Đáy 10cm, chiều cao 6cm → S = (10×6)/2 = 30cm²
 
 
-
 ![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -135,7 +134,19 @@ b) r = 6cm
 Diện tích hình tròn có r = 2cm là:
    A. 12,56cm²   B. 6,28cm²   C. 3,14cm²
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+2. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
+3. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

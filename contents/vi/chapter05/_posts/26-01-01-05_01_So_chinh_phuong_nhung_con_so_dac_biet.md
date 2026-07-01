@@ -80,7 +80,6 @@ Em hãy tính:
 - 10² = ?
 
 
-
 ![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -136,7 +135,19 @@ c) 81 là số chính phương
 Số nào là số chính phương?
    A. 18   B. 25   C. 32
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Lũy thừa và căn bậc hai — Math Antics](https://www.youtube.com/watch?v=B4zejSI8zho) — Math Antics
+2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

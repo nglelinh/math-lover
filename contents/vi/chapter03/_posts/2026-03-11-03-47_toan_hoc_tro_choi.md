@@ -25,7 +25,6 @@ Các em thích chơi trò chơi không?
 Mọi trò chơi đều có toán học!
 
 
-
 ![Trò chơi board game — chiến lược và xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Board_games.jpg/960px-Board_games.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -36,7 +35,6 @@ Hãy cùng khám phá!
 
 ## 1. Xúc Xắc
 ### Xác suất
-
 
 
 ![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
@@ -139,3 +137,18 @@ Rubik 3×3 có:
 ---
 
 **Nhớ rằng:** Trò chơi vui hơn khi hiểu toán học! 🎲🎮🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

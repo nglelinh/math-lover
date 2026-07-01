@@ -76,7 +76,6 @@ Em đã biết phân số và số thập phân. Hôm nay, chúng ta sẽ học 
 - 3/4 = ?
 
 
-
 ![Chùm cherry để chia đều](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sweet_cherries_in_basket_2018_G1.jpg/960px-Sweet_cherries_in_basket_2018_G1.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -127,7 +126,19 @@ a) 1/4 = ?
 b) 0.5 = ?
    A. 1/2   B. 1/4   C. 3/4
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phân số là các phần — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
+2. [Phân số là gì? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+3. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

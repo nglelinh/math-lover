@@ -49,7 +49,6 @@ Họ chọn **360°** cho một vòng tròn vì:
 - 360 gần bằng số ngày trong năm (365 ngày)
 
 
-
 ![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -146,7 +145,19 @@ Tìm góc bù với góc 60°
 
 3. Đường trung trực dùng để làm gì?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tính chất tam giác — Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy
+2. [Đối xứng — Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — Math Antics
+3. [Mặt phẳng tọa độ — Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Bài tập luyện tập
 

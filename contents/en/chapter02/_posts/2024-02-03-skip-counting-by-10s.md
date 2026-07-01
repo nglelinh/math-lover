@@ -146,7 +146,19 @@ We skip counted by 10s nine times to get 90. That's the same as saying "9 times 
 
 See how easy counting by 10s is? It's just like counting 1, 2, 3, 4... but with a 0 at the end!
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Multiply and Divide by Powers of 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+2. [Place Value — Math Antics](https://www.youtube.com/watch?v=T5Qf0qSSJFI) — Math Antics
+3. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

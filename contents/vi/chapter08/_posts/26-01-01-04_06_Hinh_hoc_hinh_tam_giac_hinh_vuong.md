@@ -79,7 +79,6 @@ Chu vi = 6 × 4 = 24cm
 Em hãy vẽ một tam giác có các cạnh 3cm, 4cm, 5cm và tính chu vi nhé!
 
 
-
 ![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -129,7 +128,19 @@ c) Cạnh 25cm
 Tam giác đều có cạnh 6cm. Chu vi = ?
    A. 18cm   B. 24cm   C. 12cm
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tính chất tam giác — Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy
+2. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+3. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

@@ -211,7 +211,19 @@ So 36 = 6 × 6 ✓
 
 There are often multiple ways to see a pattern!
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+2. [Fibonacci Mystery — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
+3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

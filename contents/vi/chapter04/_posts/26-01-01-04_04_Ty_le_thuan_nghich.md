@@ -75,7 +75,6 @@ Em đã biết về tỷ lệ. Hôm nay, chúng ta sẽ học về hai loại t�
 Mua 2 cái bút giá 10.000 đ. Hỏi mua 5 cái giá bao nhiêu?
 
 
-
 ![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -127,7 +126,19 @@ b) 4 máy bơm bơm đầy bể hết 6 giờ. Hỏi 8 máy bơm đầy hết m�
 a) Mua 3 cái kẹo giá 9.000 đ. Hỏi mua 6 cái giá bao nhiêu?
    A. 18.000   B. 12.000   C. 15.000
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+2. [Tỷ lệ thuận — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
+3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

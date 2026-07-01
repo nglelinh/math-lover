@@ -86,7 +86,6 @@ Tính thể tích hình hộp chữ nhật:
 - V = 10 × 6 × 5 = 300cm³
 
 
-
 ![Hình nón](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cone_%28geometry%29.svg/960px-Cone_%28geometry%29.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -137,7 +136,19 @@ b) Cạnh 10cm
 Hình lập phương cạnh 3cm có thể tích:
    A. 9cm³   B. 27cm³   C. 6cm³
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Thể tích — Math Antics](https://www.youtube.com/watch?v=qJwecTgce6c) — Math Antics
+2. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+3. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

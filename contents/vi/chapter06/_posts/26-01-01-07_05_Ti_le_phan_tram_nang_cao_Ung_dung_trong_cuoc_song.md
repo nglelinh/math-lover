@@ -81,7 +81,6 @@ a) Giá xe đạp 2.500.000 đ, giảm 20%
 b) Giá điện thoại 8.000.000 đ, tăng 15%
 
 
-
 ![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -121,7 +120,19 @@ b) Giá 3.600.000 đ, tăng 10%
 
 Gửi 20.000.000 đ, lãi suất 6%/năm. Sau 3 năm được bao nhiêu tiền lãi?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+2. [Tiền đô-la và xu — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
+3. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

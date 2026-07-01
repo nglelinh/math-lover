@@ -47,7 +47,6 @@ Em đã biết về tỷ lệ. Hôm nay, chúng ta sẽ học sâu hơn nhé!
 **Câu chuyện thú vị:** Fibonacci đi khắp nơi học toán và mang kiến thức toán học của người Ả Rập về châu Âu. Ông cũng nổi tiếng với **dãy Fibonacci** mà chúng ta đã học ở bài trước!
 
 
-
 ![Xoắn ốc Fibonacci](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fibonacci_spiral_2019.svg/960px-Fibonacci_spiral_2019.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -162,7 +161,19 @@ Giá 100.000 đ, tăng 10%. Giá mới?
 
 3. Giảm 50% và giảm 50.000 đ khác gì?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+2. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
+3. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Bài tập luyện tập
 

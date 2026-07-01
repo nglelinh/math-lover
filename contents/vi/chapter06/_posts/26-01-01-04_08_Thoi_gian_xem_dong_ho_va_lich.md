@@ -84,7 +84,6 @@ Em hãy nhìn đồng hồ và cho biết:
 - Kim dài chỉ số nào?
 
 
-
 ![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -138,7 +137,19 @@ b) Từ 8 giờ sáng đến 2 giờ chiều là bao nhiêu giờ?
 1 ngày = ? giờ
    A. 12   B. 24   C. 36
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+2. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
+3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

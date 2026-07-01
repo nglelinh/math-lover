@@ -33,7 +33,6 @@ Hãy cùng khám phá!
 ### Công thức
 
 
-
 ![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -167,3 +166,18 @@ Tính xem cần bao nhiêu cây để trồng trong vườn nhà!
 ---
 
 **Nhớ rằng:** Nông nghiệp cần toán học để nuôi sống thế giới! 🌾🌽🥬🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+2. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

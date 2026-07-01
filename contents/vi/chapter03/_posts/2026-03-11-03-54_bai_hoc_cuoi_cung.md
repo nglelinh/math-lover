@@ -43,7 +43,6 @@ Các em đã hoàn thành Chương 7 - Logic và Giải Quyết Vấn Đề!
 ### Đã học những gì?
 
 
-
 ![Cấp số cộng — tăng đều từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Academ_Arithmetic_progressions_along_a_knotted_loop.svg/960px-Academ_Arithmetic_progressions_along_a_knotted_loop.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -99,3 +98,18 @@ Sẽ có nhiều điều thú vị đang chờ đón!
 ---
 
 **Chương 7 - HOÀN THÀNH!** 🌟
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+2. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

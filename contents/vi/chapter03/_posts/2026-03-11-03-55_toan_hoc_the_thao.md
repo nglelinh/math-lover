@@ -36,7 +36,6 @@ Hãy cùng khám phá!
 ### Tính điểm
 
 
-
 ![Bóng rổ — tính điểm và tỷ số](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kent_Benson_attempts_a_hook_shot_over_Ken_Ferdinand.jpg/960px-Kent_Benson_attempts_a_hook_shot_over_Ken_Ferdinand.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -75,3 +74,18 @@ v = s / t
 ---
 
 **Nhớ rằng:** Thể thao cần toán học! ⚽🏀🏊🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+2. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+3. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

@@ -136,7 +136,6 @@ Càng cắt nhiều phần, mỗi phần càng nhỏ!
 ## Hoạt Động Khám Phá Có Hướng Dẫn
 
 
-
 ![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -367,7 +366,19 @@ Hiểu phân số là nền tảng cho:
 
 Bài học này xây dựng những kỹ năng này qua trải nghiệm thực hành, cụ thể!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phân số là các phần — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
+2. [Phân số là gì? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+3. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 

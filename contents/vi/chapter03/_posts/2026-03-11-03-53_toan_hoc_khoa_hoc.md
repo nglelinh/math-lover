@@ -36,7 +36,6 @@ Hãy cùng khám phá!
 ### Vận tốc
 
 
-
 ![Mặt trăng — khoảng cách và số lớn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/A_New_View_of_the_Moon.jpg/960px-A_New_View_of_the_Moon.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -93,3 +92,18 @@ Thang Richter đo cường độ động đất!
 ---
 
 **Nhớ rằng:** Khoa học cần toán học! 🔬🧬🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+2. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

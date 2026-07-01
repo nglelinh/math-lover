@@ -36,7 +36,6 @@ Hãy học các kỹ năng quan trọng!
 ### Bước 1
 
 
-
 ![Cân đĩa — hai vế bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Balance_scale.svg/960px-Balance_scale.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -110,3 +109,18 @@ Hãy học các kỹ năng quan trọng!
 ---
 
 **Nhớ rằng:** Luyện tập mỗi ngày sẽ giỏi toán! 📚🧮🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
+2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

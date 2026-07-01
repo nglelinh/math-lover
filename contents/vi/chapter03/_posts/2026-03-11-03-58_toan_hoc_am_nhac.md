@@ -36,7 +36,6 @@ Hãy cùng khám phá!
 ### Các loại nhịp
 
 
-
 ![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -74,3 +73,18 @@ Quãng 8 = Tần số gấp đôi!
 ---
 
 **Nhớ rằng:** Âm nhạc là toán học của cảm xúc! 🎵🎹🎸
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+2. [Bí ẩn dãy Fibonacci — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
+3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

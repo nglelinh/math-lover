@@ -83,7 +83,6 @@ Tìm UCLN của:
 - 8 và 12 → UCLN = 4
 
 
-
 ![Trái đất — số lớn trong vũ trụ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -137,7 +136,19 @@ Có 14 cái kẹo và 21 cái bánh. Chia đều thành các túi quà. Hỏi m�
 UCLN của 10 và 15 là:
    A. 5   B. 10   C. 15
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
+2. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
+3. [Chia ba chữ số lớp 3 — Cô Giáo Nga](https://www.youtube.com/watch?v=8neRbeLtUY4) — Cô Giáo Nga Tiểu Học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

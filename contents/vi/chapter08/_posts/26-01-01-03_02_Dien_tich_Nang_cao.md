@@ -52,7 +52,6 @@ Em đã biết tính:
 Kiến thức đó rất quan trọng, vì hôm nay ta sẽ dùng hình chữ nhật để hiểu các hình mới.
 
 
-
 ![Hình vuông — bốn cạnh bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Square_%28geometry%29.svg/960px-Square_%28geometry%29.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -155,7 +154,6 @@ Biết tự kiểm tra như vậy giúp em ít nhầm công thức hơn.
 <!-- vi-interactive:end -->
 ### Hoạt động A: Cắt đôi hình chữ nhật
 Chuẩn bị:
-
 
 
 ![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
@@ -265,7 +263,19 @@ Mức 4:
 2. Nếu chiều cao tăng gấp đôi còn đáy giữ nguyên, diện tích thay đổi thế nào?
 3. Em thấy hình học dễ hiểu hơn khi học bằng công thức hay bằng cắt ghép? Vì sao?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+2. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
+3. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

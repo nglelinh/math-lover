@@ -147,7 +147,19 @@ We skip counted by 2s seven times and got 14. That's the same as saying "7 times
 
 See how skip counting by 2s is like a shortcut for multiplication?
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Introduction to even and odd numbers — Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4) — Khan Academy
+2. [Intro to multiplication — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy
+3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

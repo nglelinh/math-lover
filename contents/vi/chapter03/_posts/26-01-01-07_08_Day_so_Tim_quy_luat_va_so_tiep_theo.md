@@ -85,7 +85,6 @@ a) 7, 12, 17, 22, ... (+5) → 27
 b) 3, 9, 27, 81, ... (×3) → 243
 
 
-
 ![Bảng lũy thừa — nhân đôi từng bước](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Powers_chart.png/960px-Powers_chart.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -129,7 +128,19 @@ b) 5, 10, 20, 40, ...
 Cho dãy: 2, 4, 8, 16, ...
 Tìm quy luật và 3 số tiếp theo?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+2. [Bí ẩn dãy Fibonacci — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
+3. [Trục số — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

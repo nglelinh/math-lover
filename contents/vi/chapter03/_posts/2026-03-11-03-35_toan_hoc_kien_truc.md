@@ -25,7 +25,6 @@ Các em đã nhìn thấy những công trình kiến trúc đẹp chưa?
 **Tất cả đều có toán học!**
 
 
-
 ![Tòa nhà — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Building.jpg/960px-Building.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -36,7 +35,6 @@ Hãy cùng khám phá!
 
 ## 1. Kim Tự Tháp Ai Cập
 ### Hình dạng
-
 
 
 ![Cây cầu — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg/960px-Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg)
@@ -231,7 +229,19 @@ Nhiều công trình có **đối xứng** để cân bằng!
 - **CAD** (Computer Aided Design) dùng toán học để vẽ!
 - **3D printing** dùng tọa độ để in!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+2. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+3. [Đối xứng — Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 

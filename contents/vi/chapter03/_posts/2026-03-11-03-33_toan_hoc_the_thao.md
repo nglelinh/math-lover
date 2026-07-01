@@ -22,7 +22,6 @@ Bóng đá, bóng rổ, bơi lội, chạy...
 **Toán học có mặt ở khắp nơi trong thể thao!**
 
 
-
 ![Quả bóng đá — toán trong thể thao](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/960px-Soccer_ball.svg.png)
 
 *Ảnh: Wikimedia Commons*
@@ -33,7 +32,6 @@ Hãy cùng khám phá!
 
 ## 1. Bóng Đá
 ### Tính điểm
-
 
 
 ![Bóng rổ — tính điểm và tỷ số](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kent_Benson_attempts_a_hook_shot_over_Ken_Ferdinand.jpg/960px-Kent_Benson_attempts_a_hook_shot_over_Ken_Ferdinand.jpg)
@@ -237,7 +235,19 @@ Huấn luyện viên dùng toán học để:
 - **Cầu thủ** dùng góc và vận tốc để sút bóng!
 - **Vận động viên** theo dõi thành tích bằng số!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+2. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+3. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 

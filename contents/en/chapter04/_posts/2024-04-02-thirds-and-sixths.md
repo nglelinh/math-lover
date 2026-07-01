@@ -319,7 +319,19 @@ Now get creative!
     - Label each part with its fraction
     - Can you use the fact that 1/3 = 2/6 in your design?
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Fractions Are Parts — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
+2. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+3. [Fractions on the Number Line — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

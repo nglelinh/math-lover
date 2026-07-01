@@ -83,7 +83,6 @@ Chúng ta đã học rất nhiều điều thú vị trong chương 4. Hôm nay,
 **Bài toán:** Một cửa hàng có 100 sản phẩm. Ngày đầu bán được 30% sản phẩm. Hỏi còn lại bao nhiêu?
 
 
-
 ![Biểu đồ cột — so sánh dữ liệu](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bar_chart.svg/960px-Bar_chart.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -147,7 +146,19 @@ c) 90 phút = ? giờ ? phút
 
 Một quyển sách giá 80.000 đ, giảm 15%. Giá mới?
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Phân số là các phần — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
+2. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

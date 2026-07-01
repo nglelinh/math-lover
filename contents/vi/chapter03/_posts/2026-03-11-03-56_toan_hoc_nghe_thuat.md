@@ -36,7 +36,6 @@ Hãy cùng khám phá!
 ### Trong hội họa
 
 
-
 ![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -72,3 +71,18 @@ Dùng hình tam giác, hình tròn để vẽ tranh!
 ---
 
 **Nhớ rằng:** Nghệ thuật đẹp nhờ toán học! 🎨🖼️🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Đối xứng — Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — Math Antics
+2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+3. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

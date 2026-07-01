@@ -86,7 +86,6 @@ Em hãy hỏi 10 bạn xem bạn thích màu gì và ghi lại:
 - Tím: ... bạn
 
 
-
 ![Xúc xắc — thí nghiệm xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/960px-Dice.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -148,7 +147,19 @@ A. So sánh các số liệu
 B. Chỉ có một số liệu
 C. Không thể so sánh
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+2. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

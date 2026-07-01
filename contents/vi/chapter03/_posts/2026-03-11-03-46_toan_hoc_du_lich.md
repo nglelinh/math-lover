@@ -25,7 +25,6 @@ Các em thích đi du lịch không?
 Du lịch cần rất nhiều toán học để lập kế hoạch!
 
 
-
 ![Trái đất — số lớn trong vũ trụ](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/960px-The_Earth_seen_from_Apollo_17.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -36,7 +35,6 @@ Hãy cùng khám phá!
 
 ## 1. Tính Chi Phí Đi Lại
 ### Ví dụ
-
 
 
 ![Cây cầu — toán trong kiến trúc](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg/960px-Bridge_over_the_Sukhona_River_at_Sokol%2C_June_2008.jpg)
@@ -137,3 +135,18 @@ Hãy cùng khám phá!
 ---
 
 **Nhớ rằng:** Du lịch thông minh cần biết tính toán! ✈️🌴🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
+2. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+3. [Tiền đô-la và xu — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

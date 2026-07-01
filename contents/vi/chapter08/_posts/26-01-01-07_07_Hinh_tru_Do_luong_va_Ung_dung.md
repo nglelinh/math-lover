@@ -89,7 +89,6 @@ Tìm các đồ vật có dạng hình trụ trong nhà:
 - Bình đựng nước
 
 
-
 ![Hình nón](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cone_%28geometry%29.svg/960px-Cone_%28geometry%29.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -136,7 +135,19 @@ b) r = 5cm, h = 15cm
 a) r = 3cm, h = 7cm
 b) r = 4cm, h = 10cm
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Thể tích — Math Antics](https://www.youtube.com/watch?v=qJwecTgce6c) — Math Antics
+2. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
+3. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

@@ -83,7 +83,6 @@ Kiểm tra xem các số sau có phải là số nguyên tố không?
 - 11: Có ước là 1 và 11 → Nguyên tố
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -138,7 +137,19 @@ c) 36 = ?
 Số nguyên tố chẵn duy nhất là:
    A. 0   B. 2   C. 4
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Số nguyên tố — Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M) — Khan Academy
+2. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
+3. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

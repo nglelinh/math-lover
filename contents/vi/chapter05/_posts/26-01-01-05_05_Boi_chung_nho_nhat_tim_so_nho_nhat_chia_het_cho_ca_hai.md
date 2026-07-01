@@ -83,7 +83,6 @@ Tìm BCNN của:
 - 6 và 8 → BCNN = 24
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -137,7 +136,19 @@ Hai xe buýt khởi hành cùng lúc. Xe thứ nhất quay lại sau 8 phút, xe
 BCNN của 3 và 4 là:
    A. 7   B. 12   C. 24
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
+2. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
+3. [Chia ba chữ số lớp 3 — Cô Giáo Nga](https://www.youtube.com/watch?v=8neRbeLtUY4) — Cô Giáo Nga Tiểu Học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

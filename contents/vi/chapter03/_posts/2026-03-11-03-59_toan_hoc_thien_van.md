@@ -36,7 +36,6 @@ Hãy cùng khám phá!
 ### Năm ánh sáng
 
 
-
 ![Mặt trăng — khoảng cách và số lớn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/A_New_View_of_the_Moon.jpg/960px-A_New_View_of_the_Moon.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -72,3 +71,18 @@ Dải Ngân Hà có khoảng 100-400 tỷ ngôi sao!
 ---
 
 **Nhớ rằng:** Vũ trụ rộng lớn được khám phá bằng toán học! ⭐🌌🚀
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Giá trị hàng — Math Antics](https://www.youtube.com/watch?v=T5Qf0qSSJFI) — Math Antics
+2. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+3. [Đọc và viết số lớn — Toán lớp 4](https://www.youtube.com/watch?v=2rh1hKpfxI4) — Toán Tiểu học
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

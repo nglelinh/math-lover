@@ -25,7 +25,6 @@ Khi mua hàng, chúng ta cần:
 **Tất cả đều cần toán học!**
 
 
-
 ![Giỏ hàng — toán khi mua sắm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Shopping_cart.jpg/960px-Shopping_cart.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -36,7 +35,6 @@ Hãy cùng khám phá!
 
 ## 1. Tính Tiền
 ### Cộng giá tiền
-
 
 
 ![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
@@ -192,7 +190,19 @@ Mua 3 lần:
 - **Giảm giá** là cách thu hút khách hàng!
 - **So sánh giá** giúp tiết kiệm tiền!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tiền đô-la và xu — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
+2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+3. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 

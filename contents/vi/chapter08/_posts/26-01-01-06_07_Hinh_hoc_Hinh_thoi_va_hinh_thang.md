@@ -87,7 +87,6 @@ Em đã biết về hình chữ nhật và hình bình hành. Hôm nay, chúng t
 Trong các hình sau, hình nào là hình thoi, hình nào là hình thang?
 
 
-
 ![Hình tròn — tất cả điểm cách tâm bằng nhau](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Circle.svg/960px-Circle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -141,7 +140,19 @@ Hình thoi có:
    B. 3 cạnh bằng nhau
    C. 4 cạnh bằng nhau
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+2. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+3. [Tính chất tam giác — Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

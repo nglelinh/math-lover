@@ -449,7 +449,19 @@ Now get creative!
     - Cake 2 is cut into fourths, you take 3 pieces
     - Did you get the same amount? More from one? How do you know?
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
+2. [Fractions on the Number Line — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+3. [Fractions grade 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

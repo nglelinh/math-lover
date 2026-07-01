@@ -22,7 +22,6 @@ Các em hãy tưởng tượng:
 Thế giới sẽ như thế nào?
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -33,7 +32,6 @@ Hãy cùng khám phá thế giới viễn tưởng này!
 
 ## 1. Không Có Số Đếm
 ### Khi không có số
-
 
 
 ![Trò chơi board game — chiến lược và xác suất](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Board_games.jpg/960px-Board_games.jpg)
@@ -203,7 +201,19 @@ Hãy cùng khám phá thế giới viễn tưởng này!
 - Mỗi ngày chúng ta dùng toán hàng trăm lần!
 - **Không có toán** = quay lại thời tiền sử!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+2. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 

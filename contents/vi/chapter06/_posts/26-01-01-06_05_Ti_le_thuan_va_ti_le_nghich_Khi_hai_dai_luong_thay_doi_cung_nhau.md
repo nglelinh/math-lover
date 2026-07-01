@@ -85,7 +85,6 @@ Xác định loại tỉ lệ:
 - Số người làm và thời gian → Tỉ lệ nghịch
 
 
-
 ![Hình chữ nhật](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rectangle.svg/960px-Rectangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -144,7 +143,19 @@ b) 6 người làm xong trong 10 ngày. 3 người làm xong trong bao nhiêu ng
 Tốc độ và thời gian là:
    A. Tỉ lệ thuận   B. Tỉ lệ nghịch   C. Không có tỉ lệ
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+2. [Tỷ lệ thuận — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
+3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

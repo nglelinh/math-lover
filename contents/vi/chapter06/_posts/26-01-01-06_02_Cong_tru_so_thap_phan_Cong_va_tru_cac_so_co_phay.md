@@ -92,7 +92,6 @@ Tính:
 - 12,5 + 7,8 = 20,3
 
 
-
 ![Chợ rau quả Việt Nam](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Safe_vegetables_in_Vietnam_VOA.jpg/960px-Safe_vegetables_in_Vietnam_VOA.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -146,7 +145,19 @@ c) 20 - 5,75
 5,3 + 2,75 = ?
    A. 7,05   B. 8,05   C. 8,15
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
+2. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
+3. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

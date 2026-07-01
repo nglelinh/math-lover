@@ -84,7 +84,6 @@ Tìm tất cả ước số của:
 - 10: 1, 2, 5, 10
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -142,7 +141,19 @@ c) 9
 Số nào vừa là ước của 12 vừa là ước của 18?
    A. 4   B. 6   C. 8
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
+2. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

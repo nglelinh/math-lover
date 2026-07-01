@@ -180,7 +180,19 @@ $$7 = y$$
 
 **Check:** 15 = 7 + 8 ✓
 
+
 ---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [Solving Basic Equations Part 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
+2. [What Is Algebra? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+3. [Solving 2-Step Equations — Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
 
 ## Parent Insight
 

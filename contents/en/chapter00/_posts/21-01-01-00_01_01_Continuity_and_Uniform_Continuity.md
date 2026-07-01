@@ -14,7 +14,6 @@ This lesson introduces the fundamental concepts of continuity and uniform contin
 ---
 
 
-
 ![Number line diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
 
 *Image: Wikimedia Commons — math diagram*
@@ -119,3 +118,18 @@ The three types of continuity form a hierarchy of increasingly strong conditions
 **Example 4: $$f(x) = \sqrt{x}$$**
 - **On $$[0,1]$$**: Continuous and uniformly continuous, but not Lipschitz (derivative unbounded near $$x = 0$$)
 - **On $$[a,1]$$ for $$a > 0$$**: Lipschitz with $$L = 1/(2\sqrt{a})$$
+
+
+---
+
+## Watch and Learn
+
+Popular educational videos to reinforce this lesson:
+
+1. [What Is Algebra? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+2. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Videos: YouTube — educational channels suitable for ages 8–10*
+
+

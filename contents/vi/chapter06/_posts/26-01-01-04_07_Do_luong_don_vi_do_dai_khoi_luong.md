@@ -81,7 +81,6 @@ Em đã biết dùng thước để đo chiều dài. Hôm nay, chúng ta sẽ h
 Dùng thước đo chiều dài bàn học của em. Kết quả là bao nhiêu cm? Bao nhiêu m?
 
 
-
 ![Hình tam giác](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Triangle.svg/960px-Triangle.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -139,7 +138,19 @@ c) 2t = ? kg
 1km = ? m
    A. 100m   B. 1000m   C. 10m
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
+2. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+3. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

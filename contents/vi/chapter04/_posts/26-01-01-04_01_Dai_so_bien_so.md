@@ -73,7 +73,6 @@ Tìm x:
 - x × 6 = 30
 
 
-
 ![Bàn tính — cộng trừ nhanh](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Abacus.svg/960px-Abacus.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -126,7 +125,19 @@ a) x + 8 = 15, x = ?
 b) x × 3 = 12, x = ?
    A. 3   B. 4   C. 5
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+2. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
+3. [Trục số — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Góc cha mẹ
 

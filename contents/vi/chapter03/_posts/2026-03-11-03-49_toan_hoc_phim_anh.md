@@ -25,7 +25,6 @@ Các em thích xem phim không?
 Phim ảnh dùng rất nhiều toán học!
 
 
-
 ![Máy ảnh — toán trong phim ảnh](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Camera.jpg/960px-Camera.jpg)
 
 *Ảnh: Wikimedia Commons*
@@ -36,7 +35,6 @@ Hãy cùng khám phá!
 
 ## 1. Quay Phim
 ### Tốc độ khung hình
-
 
 
 ![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
@@ -127,3 +125,18 @@ Tính tỷ lệ chiều cao/chiều rộng
 ---
 
 **Nhớ rằng:** Phim ảnh đẹp nhờ toán học! 🎬🎥🎉
+
+
+---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
+

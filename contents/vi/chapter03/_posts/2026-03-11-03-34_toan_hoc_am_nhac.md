@@ -22,7 +22,6 @@ Các em có thích nghe nhạc không?
 **Tất cả đều có toán học!**
 
 
-
 ![Biểu đồ tròn — phần trăm](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pie_chart.svg/960px-Pie_chart.svg.png)
 
 *Ảnh: Wikimedia Commons — sơ đồ toán học*
@@ -33,7 +32,6 @@ Hãy cùng khám phá thế giới âm thanh qua con mắt toán học!
 
 ## 1. Nhịp Điệu
 ### Nhịp là gì?
-
 
 
 ![Trục số — thứ tự các số](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Number_line.svg/960px-Number_line.svg.png)
@@ -226,7 +224,19 @@ Ví dụ: 120 BPM
 - **Pythagoras** phát hiện quãng âm bằng toán học!
 - **Máy synth** tạo âm thanh bằng toán học!
 
+
 ---
+
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+2. [Bí ẩn dãy Fibonacci — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
+3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+
+*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+
 
 ## Câu Hỏi Suy Nghĩ
 
