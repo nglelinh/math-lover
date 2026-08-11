@@ -118,6 +118,33 @@
                 display: grid;
                 gap: 0.75rem;
             }
+            .vi-path-graph-shell {
+                margin: 0.5rem 0 1rem;
+                padding: 0.75rem;
+                border: 1px solid #d7e6f5;
+                border-radius: 16px;
+                background: #fbfdff;
+                overflow-x: auto;
+            }
+            .vi-path-graph {
+                width: 100%;
+                min-width: 320px;
+                height: auto;
+                display: block;
+            }
+            .vi-path-line--branch {
+                opacity: 0.82;
+                transition: stroke-width 0.15s ease, opacity 0.15s ease;
+            }
+            .vi-path-line--branch:hover {
+                opacity: 1;
+                stroke-width: 6;
+            }
+            .vi-path-line--active {
+                opacity: 1;
+                stroke-width: 7;
+                filter: drop-shadow(0 0 4px rgba(15, 76, 129, 0.35));
+            }
             .vi-controls {
                 grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
                 margin-bottom: 1rem;
@@ -517,7 +544,391 @@
         });
     }
 
+    function renderPathOrCountLab(container) {
+        container.innerHTML = cardShell(
+            'Đồ thị đường đi',
+            'Chỉ đi một đường: hoặc đường A hoặc đường B. Mỗi lối nhỏ là một cách — tổng số lối bằng phép cộng.',
+            `
+                <div class="vi-controls">
+                    <label class="vi-field">
+                        <span>Đường A — số lối nhỏ</span>
+                        <input class="vi-paths-a" type="range" min="1" max="6" value="2" />
+                    </label>
+                    <label class="vi-field">
+                        <span>Đường B — số lối nhỏ</span>
+                        <input class="vi-paths-b" type="range" min="1" max="6" value="3" />
+                    </label>
+                </div>
+                <div class="vi-path-graph-shell" aria-live="polite"></div>
+                <div class="vi-output" aria-live="polite"></div>
+            `
+        );
+
+        const pathsAInput = container.querySelector('.vi-paths-a');
+        const pathsBInput = container.querySelector('.vi-paths-b');
+        const graphShell = container.querySelector('.vi-path-graph-shell');
+        const output = container.querySelector('.vi-output');
+        let activePathId = '';
+
+        function yForIndex(index, count, top, bottom) {
+            if (count === 1) {
+                return (top + bottom) / 2;
+            }
+            return top + ((bottom - top) * index) / (count - 1);
+        }
+
+        function buildGraph(countA, countB) {
+            const width = 500;
+            const height = 220;
+            const homeX = 42;
+            const forkX = 130;
+            const mergeX = 360;
+            const schoolX = 458;
+            const midY = height / 2;
+            const paths = [];
+            let svgPaths = '';
+
+            svgPaths += `<line x1="${homeX + 14}" y1="${midY}" x2="${forkX}" y2="${midY}" class="vi-path-line vi-path-line--trunk" data-path-id="trunk"></line>`;
+            svgPaths += `<circle cx="${homeX}" cy="${midY}" r="16" fill="#8dd0f5" stroke="#0f4c81" stroke-width="3"></circle>`;
+            svgPaths += `<text x="${homeX}" y="${midY + 4}" text-anchor="middle" font-size="11" fill="#17364d">Nhà</text>`;
+            svgPaths += `<circle cx="${schoolX}" cy="${midY}" r="16" fill="#ffe8d6" stroke="#0f4c81" stroke-width="3"></circle>`;
+            svgPaths += `<text x="${schoolX}" y="${midY + 4}" text-anchor="middle" font-size="11" fill="#17364d">Trường</text>`;
+            svgPaths += `<text x="${forkX + 8}" y="28" font-size="12" fill="#1d7cb8" font-weight="700">Đường A</text>`;
+            svgPaths += `<text x="${forkX + 8}" y="${height - 18}" font-size="12" fill="#ff7b54" font-weight="700">Đường B</text>`;
+
+            for (let index = 0; index < countA; index += 1) {
+                const y = yForIndex(index, countA, 42, midY - 18);
+                const pathId = `a-${index + 1}`;
+                paths.push({
+                    id: pathId,
+                    label: `A${index + 1}`,
+                    group: 'A',
+                    labelY: y,
+                    d: `M ${forkX} ${midY} L ${forkX + 24} ${y} L ${mergeX} ${y} L ${schoolX - 16} ${midY}`
+                });
+            }
+
+            for (let index = 0; index < countB; index += 1) {
+                const y = yForIndex(index, countB, midY + 18, height - 42);
+                const pathId = `b-${index + 1}`;
+                paths.push({
+                    id: pathId,
+                    label: `B${index + 1}`,
+                    group: 'B',
+                    labelY: y,
+                    d: `M ${forkX} ${midY} L ${forkX + 24} ${y} L ${mergeX} ${y} L ${schoolX - 16} ${midY}`
+                });
+            }
+
+            paths.forEach(function(path) {
+                const tone = path.group === 'A' ? '#1d7cb8' : '#ff7b54';
+                const active = activePathId === path.id ? ' vi-path-line--active' : '';
+                svgPaths += `<path d="${path.d}" class="vi-path-line vi-path-line--branch${active}" data-path-id="${path.id}" data-path-group="${path.group}" stroke="${tone}" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>`;
+                svgPaths += `<text x="${mergeX + 12}" y="${path.labelY + 4}" font-size="11" fill="#17364d">${path.label}</text>`;
+            });
+
+            graphShell.innerHTML = `
+                <svg class="vi-path-graph" viewBox="0 0 ${width} ${height}" role="img" aria-label="Đồ thị đường đi từ nhà đến trường">
+                    ${svgPaths}
+                </svg>
+            `;
+
+            graphShell.querySelectorAll('.vi-path-line--branch').forEach(function(line) {
+                line.style.cursor = 'pointer';
+                line.addEventListener('click', function() {
+                    activePathId = line.dataset.pathId;
+                    update();
+                });
+            });
+
+            return paths;
+        }
+
+        function update() {
+            const countA = parseInt(pathsAInput.value, 10);
+            const countB = parseInt(pathsBInput.value, 10);
+            const total = countA + countB;
+            const paths = buildGraph(countA, countB);
+            const active = paths.find(function(item) {
+                return item.id === activePathId;
+            });
+
+            const listHtml = paths.map(function(path) {
+                return `<span class="vi-chip" style="background:${path.group === 'A' ? '#d9ecfb' : '#ffe8d6'};">${path.label}</span>`;
+            }).join('');
+
+            output.innerHTML = `
+                <div class="vi-metrics">
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Lối đường A</span>
+                        <span class="vi-metric__value">${countA}</span>
+                    </div>
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Lối đường B</span>
+                        <span class="vi-metric__value">${countB}</span>
+                    </div>
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Tổng lối đi</span>
+                        <span class="vi-metric__value">${total}</span>
+                    </div>
+                </div>
+                <p class="vi-note">
+                    Em chọn <strong>hoặc</strong> một lối thuộc đường A <strong>hoặc</strong> một lối thuộc đường B,
+                    nên tổng số cách là <strong>${countA} + ${countB} = ${total}</strong> (nguyên lý cộng).
+                </p>
+                <div class="vi-chip-row">${listHtml}</div>
+                <p class="vi-note">${active
+                    ? `Em đang chọn lối <strong>${active.label}</strong> thuộc đường <strong>${active.group}</strong>.`
+                    : 'Em hãy bấm một đường trên sơ đồ để tô sáng lối đi đó.'}</p>
+            `;
+        }
+
+        pathsAInput.addEventListener('input', function() {
+            activePathId = '';
+            update();
+        });
+        pathsBInput.addEventListener('input', function() {
+            activePathId = '';
+            update();
+        });
+        update();
+    }
+
+    function renderPathAndCountLab(container) {
+        container.innerHTML = cardShell(
+            'Đồ thị hai bước — Nguyên lý nhân',
+            'Em chọn áo rồi chọn quần (hai bước liên tiếp). Mỗi cặp áo–quần là một đường đi — tổng số đường bằng phép nhân.',
+            `
+                <div class="vi-controls">
+                    <label class="vi-field">
+                        <span>Bước 1 — số áo</span>
+                        <input class="vi-step-a" type="range" min="1" max="5" value="3" />
+                    </label>
+                    <label class="vi-field">
+                        <span>Bước 2 — số quần</span>
+                        <input class="vi-step-b" type="range" min="1" max="5" value="2" />
+                    </label>
+                </div>
+                <div class="vi-path-graph-shell" aria-live="polite"></div>
+                <div class="vi-output" aria-live="polite"></div>
+            `
+        );
+
+        const stepAInput = container.querySelector('.vi-step-a');
+        const stepBInput = container.querySelector('.vi-step-b');
+        const graphShell = container.querySelector('.vi-path-graph-shell');
+        const output = container.querySelector('.vi-output');
+        let activePathId = '';
+
+        function yForIndex(index, count, top, bottom) {
+            if (count === 1) {
+                return (top + bottom) / 2;
+            }
+            return top + ((bottom - top) * index) / (count - 1);
+        }
+
+        function buildGraph(countA, countB) {
+            const width = 520;
+            const height = Math.max(200, 56 + countA * countB * 6);
+            const cappedHeight = Math.min(height, 280);
+            const homeX = 42;
+            const shirtX = 145;
+            const pantX = 310;
+            const schoolX = 468;
+            const midY = cappedHeight / 2;
+            const paths = [];
+            let svgPaths = '';
+
+            svgPaths += `<circle cx="${homeX}" cy="${midY}" r="16" fill="#8dd0f5" stroke="#0f4c81" stroke-width="3"></circle>`;
+            svgPaths += `<text x="${homeX}" y="${midY + 4}" text-anchor="middle" font-size="11" fill="#17364d">Nhà</text>`;
+            svgPaths += `<circle cx="${schoolX}" cy="${midY}" r="16" fill="#ffe8d6" stroke="#0f4c81" stroke-width="3"></circle>`;
+            svgPaths += `<text x="${schoolX}" y="${midY + 4}" text-anchor="middle" font-size="11" fill="#17364d">Trường</text>`;
+            svgPaths += `<text x="${shirtX - 18}" y="24" font-size="12" fill="#1d7cb8" font-weight="700">Bước 1: áo</text>`;
+            svgPaths += `<text x="${pantX - 24}" y="24" font-size="12" fill="#6b4bb8" font-weight="700">Bước 2: quần</text>`;
+            svgPaths += `<line x1="${homeX + 16}" y1="${midY}" x2="${shirtX - 20}" y2="${midY}" stroke="#94a3b8" stroke-width="3" stroke-dasharray="6 4"></line>`;
+
+            for (let shirt = 0; shirt < countA; shirt += 1) {
+                const shirtY = yForIndex(shirt, countA, 42, cappedHeight - 42);
+                svgPaths += `<circle cx="${shirtX}" cy="${shirtY}" r="10" fill="#d9ecfb" stroke="#1d7cb8" stroke-width="2"></circle>`;
+                svgPaths += `<text x="${shirtX}" y="${shirtY + 4}" text-anchor="middle" font-size="10" fill="#17364d">Á${shirt + 1}</text>`;
+
+                for (let pant = 0; pant < countB; pant += 1) {
+                    const spread = Math.min(36, 12 + countB * 4);
+                    const pantY = shirtY + (pant - (countB - 1) / 2) * (spread / Math.max(countB - 1, 1));
+                    const pathId = `s${shirt + 1}-p${pant + 1}`;
+                    const active = activePathId === pathId ? ' vi-path-line--active' : '';
+                    const tone = shirt % 2 === 0 ? '#1d7cb8' : '#4f86c6';
+                    const d = `M ${shirtX + 10} ${shirtY} L ${pantX - 14} ${pantY} L ${schoolX - 16} ${midY}`;
+                    paths.push({
+                        id: pathId,
+                        label: `Á${shirt + 1}·Q${pant + 1}`,
+                        shirt: shirt + 1,
+                        pant: pant + 1,
+                        d: d
+                    });
+                    svgPaths += `<path d="${d}" class="vi-path-line vi-path-line--branch${active}" data-path-id="${pathId}" stroke="${tone}" fill="none" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>`;
+                    svgPaths += `<circle cx="${pantX}" cy="${pantY}" r="7" fill="#ebe4ff" stroke="#6b4bb8" stroke-width="2"></circle>`;
+                }
+            }
+
+            graphShell.innerHTML = `
+                <svg class="vi-path-graph" viewBox="0 0 ${width} ${cappedHeight}" role="img" aria-label="Đồ thị hai bước chọn áo rồi chọn quần">
+                    ${svgPaths}
+                </svg>
+            `;
+
+            graphShell.querySelectorAll('.vi-path-line--branch').forEach(function(line) {
+                line.style.cursor = 'pointer';
+                line.addEventListener('click', function() {
+                    activePathId = line.dataset.pathId;
+                    update();
+                });
+            });
+
+            return paths;
+        }
+
+        function update() {
+            const countA = parseInt(stepAInput.value, 10);
+            const countB = parseInt(stepBInput.value, 10);
+            const total = countA * countB;
+            const paths = buildGraph(countA, countB);
+            const active = paths.find(function(item) {
+                return item.id === activePathId;
+            });
+
+            const listHtml = paths.map(function(path) {
+                return `<span class="vi-chip" style="background:#eef6fd;">${path.label}</span>`;
+            }).join('');
+
+            output.innerHTML = `
+                <div class="vi-metrics">
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Số áo (bước 1)</span>
+                        <span class="vi-metric__value">${countA}</span>
+                    </div>
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Số quần (bước 2)</span>
+                        <span class="vi-metric__value">${countB}</span>
+                    </div>
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Tổng bộ đồ</span>
+                        <span class="vi-metric__value">${total}</span>
+                    </div>
+                </div>
+                <p class="vi-note">
+                    Em chọn <strong>một áo</strong> rồi <strong>một quần</strong> — hai bước nối tiếp.
+                    Mỗi áo ghép với mọi quần nên có <strong>${countA} × ${countB} = ${total}</strong> đường đi (nguyên lý nhân).
+                </p>
+                <div class="vi-chip-row">${listHtml}</div>
+                <p class="vi-note">${active
+                    ? `Em đang xem đường <strong>${active.label}</strong> (áo ${active.shirt}, quần ${active.pant}).`
+                    : 'Em hãy bấm một đường trên sơ đồ để tô sáng bộ áo–quần đó.'}</p>
+            `;
+        }
+
+        stepAInput.addEventListener('input', function() {
+            activePathId = '';
+            update();
+        });
+        stepBInput.addEventListener('input', function() {
+            activePathId = '';
+            update();
+        });
+        update();
+    }
+
+    function renderOrCountLab(container) {
+        container.innerHTML = cardShell(
+            'Trạm chọn HOẶC — Nguyên lý cộng',
+            'Em chỉ chọn một nhóm (súp hoặc salad, đường A hoặc đường B). Đổi số lựa chọn rồi cộng hai nhóm.',
+            `
+                <div class="vi-controls">
+                    <label class="vi-field">
+                        <span>Nhóm A — số lựa chọn (ví dụ: súp)</span>
+                        <input class="vi-group-a" type="range" min="1" max="10" value="2" />
+                    </label>
+                    <label class="vi-field">
+                        <span>Nhóm B — số lựa chọn (ví dụ: salad)</span>
+                        <input class="vi-group-b" type="range" min="1" max="10" value="3" />
+                    </label>
+                </div>
+                <div class="vi-output" aria-live="polite"></div>
+            `
+        );
+
+        const groupAInput = container.querySelector('.vi-group-a');
+        const groupBInput = container.querySelector('.vi-group-b');
+        const output = container.querySelector('.vi-output');
+
+        function renderChips(count, label, tone) {
+            const chips = Array.from({ length: count }, function(_, index) {
+                return `<span class="vi-chip" style="background:${tone}; color:#17364d; border-color:#cddff0;">${label} ${index + 1}</span>`;
+            }).join('');
+            return `<div class="vi-chip-row">${chips}</div>`;
+        }
+
+        function update() {
+            const countA = parseInt(groupAInput.value, 10);
+            const countB = parseInt(groupBInput.value, 10);
+            const total = countA + countB;
+
+            output.innerHTML = `
+                <div class="vi-metrics">
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Nhóm A</span>
+                        <span class="vi-metric__value">${countA}</span>
+                    </div>
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Nhóm B</span>
+                        <span class="vi-metric__value">${countB}</span>
+                    </div>
+                    <div class="vi-metric">
+                        <span class="vi-metric__label">Tổng cách chọn</span>
+                        <span class="vi-metric__value">${total}</span>
+                    </div>
+                </div>
+                <p class="vi-note">
+                    Vì em chỉ chọn <strong>một</strong> món trong <strong>hai nhóm loại trừ nhau</strong>,
+                    ta <strong>cộng</strong>: <strong>${countA} + ${countB} = ${total}</strong> cách.
+                    Đây là <strong>nguyên lý cộng</strong> (chọn HOẶC A HOẶC B).
+                </p>
+                <div>
+                    <strong>Nhóm A</strong>
+                    ${renderChips(countA, 'A', '#d9ecfb')}
+                </div>
+                <div style="margin-top:0.75rem;">
+                    <strong>hoặc</strong>
+                </div>
+                <div style="margin-top:0.75rem;">
+                    <strong>Nhóm B</strong>
+                    ${renderChips(countB, 'B', '#ffe8d6')}
+                </div>
+                <p class="vi-note" style="margin-top:0.75rem;">
+                    Không nhân ${countA} × ${countB} vì em không chọn cùng lúc một món A và một món B trong bài này.
+                </p>
+            `;
+        }
+
+        groupAInput.addEventListener('input', update);
+        groupBInput.addEventListener('input', update);
+        update();
+    }
+
     function renderNumberLab(container, mode, options) {
+        if (mode === 'path-or-count') {
+            renderPathOrCountLab(container);
+            return;
+        }
+        if (mode === 'path-and-count') {
+            renderPathAndCountLab(container);
+            return;
+        }
+        if (mode === 'or-count') {
+            renderOrCountLab(container);
+            return;
+        }
+
         const config = options || {};
         const isSigned = mode === 'signed';
         const min = typeof config.min === 'number' ? config.min : (isSigned ? -20 : 0);

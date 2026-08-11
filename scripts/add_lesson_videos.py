@@ -422,6 +422,8 @@ VIDEOS: dict[str, EduVideo] = {
 TOPIC_RULES: list[tuple[int, list[str], list[str]]] = [
     (10, ["so chan", "even", "odd", "cap doi"], ["even_odd_ka", "number_line_ma", "even_odd_kids"]),
     (10, ["so lon", "trieu", "ty", "million", "billion", "place value"], ["place_value_ma", "powers10_ma", "vi_large_numbers"]),
+    (10, ["to hop", "hoan vi", "nguyen ly", "dem co he", "cay kha nang", "combinatorics", "counting method"], ["prob_ka", "mult_ka", "patterns_ma"]),
+    (9, ["phep dem", "dem cach", "counting carefully"], ["prob_ka", "patterns_ma", "mult_ka"]),
     (10, ["mau hinh", "pattern", "day so", "sequence", "quy luat"], ["patterns_ma", "number_line_ma", "fib_np"]),
     (10, ["fibonacci"], ["fib_np", "pascal_np", "patterns_ma"]),
     (10, ["pascal"], ["pascal_np", "patterns_ma", "fib_np"]),
@@ -584,6 +586,21 @@ STEM_VIDEO_RULES: list[tuple[str, list[str]]] = [
     ("chu_vi_dien_tich", ["area_ma", "circle_ma", "geom_vi_vj"]),
     ("hinh_khoi", ["volume_ma", "area_ma", "circle_ma"]),
     ("hinh_hoc", ["area_ma", "geom_vi_vj", "triangle_ka"]),
+    # Chapter 09 — combinatorics & counting
+    ("09_07_on_tap", ["prob_ka", "mult_ka", "patterns_ma"]),
+    ("09_06_cay_kha_nang", ["patterns_ma", "mult_ka", "prob_ka"]),
+    ("09_05_to_hop", ["pascal_np", "prob_ka", "patterns_ma"]),
+    ("09_04_hoan_vi", ["mult_ka", "patterns_ma", "fib_np"]),
+    ("09_03_nguyen_ly_nhan", ["mult_ka", "mult_intro_ka", "prob_ka"]),
+    ("09_02_nguyen_ly_cong", ["add_ka", "prob_ka", "patterns_ma"]),
+    ("09_01_dem_co_he_thong", ["prob_ka", "patterns_ma", "mult_ka"]),
+    ("counting-carefully", ["prob_ka", "patterns_ma", "mult_ka"]),
+    ("addition-principle", ["add_ka", "prob_ka", "patterns_ma"]),
+    ("multiplication-principle", ["mult_ka", "mult_intro_ka", "prob_ka"]),
+    ("order-matters", ["mult_ka", "patterns_ma", "fib_np"]),
+    ("unordered-choices", ["pascal_np", "prob_ka", "patterns_ma"]),
+    ("tree-diagrams", ["patterns_ma", "mult_ka", "prob_ka"]),
+    ("chapter-review", ["prob_ka", "mult_ka", "patterns_ma"]),
 ]
 
 
@@ -607,6 +624,7 @@ CHAPTER_DEFAULTS: dict[str, list[str]] = {
     "chapter06": ["decimal_place_ma", "percent_ma", "time_ma"],
     "chapter07": ["data_ma", "prob_ka", "powers10_ma"],
     "chapter08": ["area_ma", "volume_ma", "triangle_ka"],
+    "chapter09": ["prob_ka", "mult_ka", "patterns_ma"],
 }
 
 

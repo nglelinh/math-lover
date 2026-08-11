@@ -652,5 +652,173 @@
     "mode": "length",
     "container_id": "vi-interactive-26-01-01-07-07-hinh-tru-do-luong-va-ung-dung",
     "guidance": "Em hãy kéo thanh trượt rồi đổi giữa các đơn vị để thấy cùng một đại lượng có nhiều cách viết."
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_01_Dem_co_he_thong.md": {
+    "template": "array-lab",
+    "mode": "multiplication",
+    "container_id": "vi-interactive-26-01-01-09-01-dem-co-he-thong",
+    "guidance": "Em hãy đổi số hàng và số cột rồi đếm từng ô trong bảng — không bỏ sót ô nào."
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_02_Nguyen_ly_cong.md": {
+    "template": "number-lab",
+    "mode": "or-count",
+    "container_id": "vi-interactive-26-01-01-09-02-nguyen-ly-cong",
+    "guidance": "Em hãy đổi số lựa chọn ở nhóm A và nhóm B, rồi cộng — vì chỉ chọn HOẶC A HOẶC B.",
+    "extras": [
+      {
+        "title": "Đồ thị đường đi — Nguyên lý cộng",
+        "template": "number-lab",
+        "mode": "path-or-count",
+        "container_id": "vi-interactive-26-01-01-09-02-path-graph",
+        "guidance": "Em đổi số lối trên đường A và đường B, bấm từng đường đi trên sơ đồ rồi cộng: lối A + lối B."
+      }
+    ]
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_03_Nguyen_ly_nhan.md": {
+    "template": "array-lab",
+    "mode": "multiplication",
+    "container_id": "vi-interactive-26-01-01-09-03-nguyen-ly-nhan",
+    "guidance": "Em hãy đổi số hàng và số cột để thấy mỗi bước nhân với nhau tạo bao nhiêu kết quả.",
+    "extras": [
+      {
+        "title": "Đồ thị hai bước — Nguyên lý nhân",
+        "template": "number-lab",
+        "mode": "path-and-count",
+        "container_id": "vi-interactive-26-01-01-09-03-path-graph",
+        "guidance": "Em đổi số áo và số quần, bấm từng đường trên sơ đồ: mỗi áo nối với mọi quần → nhân số cách."
+      }
+    ]
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_04_Hoan_vi.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-09-04-hoan-vi",
+    "guidance": "Em hãy thử sắp xếp lại thứ tự rồi đếm có bao nhiêu cách xếp khác nhau."
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_05_To_hop.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-09-05-to-hop",
+    "guidance": "Em hãy chọn các cặp không trùng nhau rồi giải thích vì sao thứ tự không quan trọng."
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_06_Cay_kha_nang.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-26-01-01-09-06-cay-kha-nang",
+    "guidance": "Em hãy thêm nhánh trên cây rồi đếm số lá cuối cùng."
+  },
+  "contents/vi/chapter09/_posts/26-01-01-09_07_On_tap.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-26-01-01-09-07-on-tap",
+    "guidance": "Em hãy đọc đề, chọn cộng hay nhân, rồi tự giải thích cách đếm."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_01_Gioi_thieu_on_thi_lop_6.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-10-01-gioi-thieu-on-thi-lop-6",
+    "guidance": "Em đọc checklist rồi chọn 1 chuyên đề yếu nhất để ôn trước."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_02_Bieu_thuc_tinh_hop_ly.md": {
+    "template": "number-lab",
+    "mode": "add",
+    "container_id": "vi-interactive-10-02-bieu-thuc-tinh-hop-ly",
+    "guidance": "Em đổi các số rồi tính theo thứ tự nhân chia trước, cộng trừ sau."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_03_Phan_so_thap_phan_trong_de.md": {
+    "template": "fraction-lab",
+    "mode": "compare",
+    "container_id": "vi-interactive-10-03-phan-so-thap-phan-trong-de",
+    "guidance": "Em đổi tử/mẫu rồi so sánh phân số bằng quy đồng hoặc thập phân."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_04_Uoc_boi_chia_het.md": {
+    "template": "number-lab",
+    "mode": "divisors",
+    "container_id": "vi-interactive-10-04-uoc-boi-chia-het",
+    "guidance": "Em thử chia hết cho 2, 3, 5, 9 rồi tìm số thỏa nhiều điều kiện."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_05_Phan_tram_ti_le.md": {
+    "template": "fraction-lab",
+    "mode": "percent",
+    "container_id": "vi-interactive-10-05-phan-tram-ti-le",
+    "guidance": "Em đổi % thành phân số rồi tính tăng/giảm."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_06_Bai_toan_tuoi.md": {
+    "template": "balance-lab",
+    "mode": "equation",
+    "container_id": "vi-interactive-10-06-bai-toan-tuoi",
+    "guidance": "Em đặt tuổi hiện tại là ẩn rồi lập phương trình “hơn / gấp”."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_07_Chuyen_dong.md": {
+    "template": "measurement-lab",
+    "mode": "time",
+    "container_id": "vi-interactive-10-07-chuyen-dong",
+    "guidance": "Em dùng s = v × t; đổi đơn vị giờ–phút cẩn thận."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_08_Hinh_hoc_dien_tich.md": {
+    "template": "geometry-lab",
+    "mode": "area",
+    "container_id": "vi-interactive-10-08-hinh-hoc-dien-tich",
+    "guidance": "Em đổi chiều dài–rộng rồi tính diện tích HCN và so sánh."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_09_Day_so_quy_luat.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-10-09-day-so-quy-luat",
+    "guidance": "Em nhìn hiệu giữa các số hạng rồi đoán số hạng tiếp theo."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_10_An_so_logic_luoi_so.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-10-10-an-so-logic-luoi-so",
+    "guidance": "Em đặt ẩn, viết điều kiện, thử số nhỏ trước khi kết luận."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_11_Ky_nang_lam_bai_thi.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-10-11-ky-nang-lam-bai-thi",
+    "guidance": "Em lập thứ tự: câu dễ trước, đánh dấu câu khó, dành phút cuối kiểm tra."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_12_De_Tran_Dai_Nghia.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-10-12-de-tran-dai-nghia",
+    "guidance": "Em đọc 3 bài mẫu TDN rồi nêu dạng của từng bài."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_13_De_CLC_TP_HCM_Thu_Duc.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-10-13-de-clc-tp-hcm-thu-duc",
+    "guidance": "Em xem trang đề Thủ Đức rồi chỉ ra bài logic và bài hình."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_14_De_Nguyen_Tat_Thanh.md": {
+    "template": "number-lab",
+    "mode": "add",
+    "container_id": "vi-interactive-10-14-de-nguyen-tat-thanh",
+    "guidance": "Em làm 1 câu trắc nghiệm NTT rồi 1 câu tự luận ngắn."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_15_De_Amsterdam_AMS.md": {
+    "template": "sequence-lab",
+    "mode": "pattern",
+    "container_id": "vi-interactive-10-15-de-amsterdam-ams",
+    "guidance": "Em chọn 1 câu AMS và viết 3 bước suy luận."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_16_De_Marie_Curie_Giang_Vo.md": {
+    "template": "geometry-lab",
+    "mode": "area",
+    "container_id": "vi-interactive-10-16-de-marie-curie-giang-vo",
+    "guidance": "Em làm 2 câu tính / hình kiểu Marie Curie trong 10 phút."
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_17_De_LTV_Cau_Giay.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-10-17-de-ltv-cau-giay",
+    "guidance": "Em so sánh 1 câu LTV và 1 câu Cầu Giấy: dạng nào giống NTT?"
+  },
+  "contents/vi/chapter10/_posts/26-01-01-10_18_On_tap_tong_hop_vao_6.md": {
+    "template": "challenge-lab",
+    "mode": "review",
+    "container_id": "vi-interactive-10-18-on-tap-tong-hop-vao-6",
+    "guidance": "Em tự chấm checklist 8 mục: đã vững chưa?"
   }
 }

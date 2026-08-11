@@ -1,0 +1,74 @@
+{% assign block_config = include.config %}
+{% assign block_title = include.title | default: "Trạm khám phá tương tác" %}
+<section class="vi-interactive-section" style="margin: 2rem 0; padding: 1.25rem; border: 2px solid #cfe7ff; border-radius: 18px; background: linear-gradient(180deg, #f8fcff 0%, #eef7ff 100%); box-shadow: 0 10px 24px rgba(14, 72, 131, 0.08);">
+  <h2 style="margin-top: 0; margin-bottom: 0.5rem; color: #0f4c81;">{{ block_title }}</h2>
+  <p style="margin-top: 0; margin-bottom: 1rem; color: #204a69; line-height: 1.6;">
+    {{ block_config.guidance | default: "Em hãy kéo thanh trượt, nhấn nút hoặc đổi số liệu rồi tự nói lại điều em quan sát được." }}
+  </p>
+  <div
+    id="{{ block_config.container_id }}"
+    class="vi-interactive-root"
+    data-vi-template="{{ block_config.template }}"
+    data-vi-mode="{{ block_config.mode }}"
+    data-vi-container-id="{{ block_config.container_id }}"
+    data-vi-lesson-title="{{ page.title | escape_once }}"
+    data-vi-path="{{ page.path | escape_once }}"
+  >
+    <div style="padding: 1rem; border: 1px solid #d7e6f5; border-radius: 16px; background: #ffffff; color: #17364d;">
+      <p style="margin: 0 0 0.75rem; font-weight: 700; color: #0f4c81;">Đang mở minh hoạ tương tác...</p>
+      {% if block_config.template == 'sequence-lab' %}
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">2</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">5</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #eef6fd; border: 1px solid #cddff0;">8</span>
+        <span style="padding: 0.4rem 0.7rem; border-radius: 999px; background: #0f4c81; color: white;">?</span>
+      </div>
+      {% elsif block_config.mode == 'path-or-count' %}
+      <svg width="100%" height="120" viewBox="0 0 480 160" aria-hidden="true" style="max-width: 480px;">
+        <circle cx="36" cy="80" r="14" fill="#8dd0f5" stroke="#0f4c81" stroke-width="3"></circle>
+        <text x="36" y="84" text-anchor="middle" font-size="10" fill="#17364d">Nhà</text>
+        <line x1="50" y1="80" x2="110" y2="80" stroke="#0f4c81" stroke-width="4"></line>
+        <line x1="110" y1="50" x2="430" y2="50" stroke="#1d7cb8" stroke-width="3"></line>
+        <line x1="110" y1="80" x2="430" y2="80" stroke="#1d7cb8" stroke-width="3"></line>
+        <line x1="110" y1="110" x2="430" y2="110" stroke="#ff9f68" stroke-width="3"></line>
+        <circle cx="444" cy="80" r="14" fill="#ffe8d6" stroke="#0f4c81" stroke-width="3"></circle>
+        <text x="444" y="84" text-anchor="middle" font-size="10" fill="#17364d">Trường</text>
+      </svg>
+      {% elsif block_config.mode == 'path-and-count' %}
+      <svg width="100%" height="120" viewBox="0 0 480 160" aria-hidden="true" style="max-width: 480px;">
+        <circle cx="30" cy="80" r="12" fill="#8dd0f5" stroke="#0f4c81" stroke-width="2"></circle>
+        <circle cx="130" cy="50" r="8" fill="#d9ecfb" stroke="#1d7cb8" stroke-width="2"></circle>
+        <circle cx="130" cy="80" r="8" fill="#d9ecfb" stroke="#1d7cb8" stroke-width="2"></circle>
+        <circle cx="130" cy="110" r="8" fill="#d9ecfb" stroke="#1d7cb8" stroke-width="2"></circle>
+        <line x1="138" y1="50" x2="280" y2="60" stroke="#1d7cb8" stroke-width="2"></line>
+        <line x1="138" y1="50" x2="280" y2="90" stroke="#1d7cb8" stroke-width="2"></line>
+        <line x1="138" y1="80" x2="280" y2="60" stroke="#4f86c6" stroke-width="2"></line>
+        <line x1="138" y1="80" x2="280" y2="90" stroke="#4f86c6" stroke-width="2"></line>
+        <circle cx="450" cy="80" r="12" fill="#ffe8d6" stroke="#0f4c81" stroke-width="2"></circle>
+        <text x="240" y="18" text-anchor="middle" font-size="10" fill="#17364d" font-weight="700">3 × 2 = 6 đường</text>
+      </svg>
+      {% elsif block_config.mode == 'or-count' %}
+      <div style="display: grid; gap: 0.5rem;">
+        <div><strong>Nhóm A:</strong> <span style="padding: 0.25rem 0.5rem; border-radius: 999px; background: #d9ecfb;">A1</span> <span style="padding: 0.25rem 0.5rem; border-radius: 999px; background: #d9ecfb;">A2</span></div>
+        <div><strong>hoặc</strong></div>
+        <div><strong>Nhóm B:</strong> <span style="padding: 0.25rem 0.5rem; border-radius: 999px; background: #ffe8d6;">B1</span> <span style="padding: 0.25rem 0.5rem; border-radius: 999px; background: #ffe8d6;">B2</span> <span style="padding: 0.25rem 0.5rem; border-radius: 999px; background: #ffe8d6;">B3</span></div>
+        <div style="font-weight: 700; color: #0f4c81;">2 + 3 = 5 cách</div>
+      </div>
+      {% elsif block_config.template == 'array-lab' and block_config.mode == 'multiplication' %}
+      <div style="display: grid; grid-template-columns: repeat(4, 28px); gap: 4px;">
+        {% for i in (1..12) %}<span style="width: 28px; height: 28px; border-radius: 8px; background: #8dd0f5; border: 1px solid #0f4c81;"></span>{% endfor %}
+      </div>
+      {% else %}
+      <div style="display: flex; flex-wrap: wrap; gap: 0.45rem;">
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #1d7cb8; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #a3c8e3; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #1d7cb8; display: inline-block;"></span>
+        <span style="width: 18px; height: 18px; border-radius: 999px; background: #a3c8e3; display: inline-block;"></span>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  <noscript>
+    <p style="margin: 1rem 0 0; color: #8a3b12;">Phần khám phá này cần bật JavaScript để hoạt động.</p>
+  </noscript>
+</section>
