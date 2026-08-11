@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-16 Đề Marie Curie & Giảng Võ
+title: 10-16 Mục lục đề Marie Curie & Giảng Võ (2009–2024)
 chapter: '10'
 order: 16
 owner: Math-Lover Team
@@ -9,93 +9,48 @@ categories:
 - chapter10
 lesson_type: required
 ---
-**Marie Curie** và **Giảng Võ** — hai trường CLC Hà Nội với sắc thái đề khác nhau một chút.
+# Mục lục đề **Marie Curie & Giảng Võ**
 
+> Mỗi năm đề là **một bài học riêng** trong Chương 10 — **toàn bộ nội dung đề nằm trong bài đó**.
 
-![Marie Curie — ảnh trang đề]({{ site.baseurl }}/img/chapter10/mc-2022-de-1.png)
+## Các năm có trong chương
 
-*Marie Curie — ảnh trang đề*
-
+| Năm đề | Trường | Bài học chứa đề đầy đủ |
+| --- | --- | --- |
+| **2009** | Marie Curie | Bài **10-70** |
+| **2010** | Giảng Võ | Bài **10-71** |
+| **2020** | Marie Curie | Bài **10-72** |
+| **2022** | Marie Curie | Bài **10-73** |
+| **2023** | Marie Curie | Bài **10-74** |
+| **2023-2024** | Marie Curie | Bài **10-75** |
+| **đề mẫu** | Giảng Võ | Bài **10-76** |
+| **đề mẫu** | Marie Curie | Bài **10-77** |
 
 ---
 
 ## Mục tiêu
 
-- nhận ra đề tính nhanh + hình + % của MC
-- quen đề thời gian ngắn (Giảng Võ ~45')
-- luyện tốc độ không mất chính xác
+- Chọn đúng **năm đề** cần luyện
+- Mở bài **10-XX** trên sidebar Chương 10
+- Ghi nhãn: `Marie Curie & Giảng Võ + năm`
 
 ---
 
-## Kiến thức đã biết
+## Cách dùng
 
-10-02, 10-05, 10-08, 10-11.
+1. Chọn năm trong bảng.  
+2. Sidebar → Chương 10 → **10-XX Đề … — năm**.  
+3. Làm timed → chữa → sổ lỗi.
 
----
-
-## Khám phá toán học
-
-### Marie Curie
-
-- Nhiều câu trắc nghiệm  
-- Hình, tiền, tuổi, chuyển động đan xen  
-- Cần **tốc độ đọc**
-
-### Giảng Võ
-
-- Thời gian gắt  
-- Biểu thức + % + hình cốt lõi  
-- Rèn vòng 1 cực nhanh (bài 10-11)
-
-### Mẹo chung
-
-Không tô màu đáp án khi chưa ước lượng — MC hay có đáp án “bẫy đơn vị” (cm$$^2$$ vs cm$$^3$$).
-
----
-
-## Hoạt động khám phá
+## Hoạt động
 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
 
-### Hoạt động 1
-10 phút: 5 câu TN ngẫu nhiên kiểu MC.
-
-### Hoạt động 2
-45 phút mock Giảng Võ (nếu có đề).
-
----
-
-## Ví dụ
-
-“10 năm nữa mẹ hơn con bao nhiêu?” — hiệu tuổi **không đổi**.
-
----
-
-## Câu hỏi suy nghĩ
-
-1. Vì sao đề 45' cần bỏ câu?  
-2. Bẫy đơn vị thể tích–diện tích nhìn thế nào?
-
----
-
-## Bài tập luyện tập
-
-### Bài 1
-1 đề MC (chọn năm) — timed theo đúng thời gian đề.
-
-### Bài 2
-1 đề Giảng Võ / đề 45'.
-
-### Bài 3
-Liệt kê 5 bẫy TN em từng mắc.
-
-### Bài 4
-Ôn lại 10-02 và 10-08 nếu sai >30%.
 
 ---
 
 ## Góc cha mẹ
 
-Giữ đồng hồ nhìn thấy; tập **bỏ câu** có chủ đích.
+Ưu tiên 2–3 năm gần nhất của trường mục tiêu trước khi mở rộng năm cũ.

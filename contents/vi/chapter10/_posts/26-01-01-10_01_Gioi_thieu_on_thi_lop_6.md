@@ -15,6 +15,7 @@ Chương này **gom dạng đề thật** — Hà Nội, TP.HCM, cả nước �
 
 ---
 
+
 ## Mục tiêu
 
 - biết đề CLC thường kiểm tra những dạng nào
@@ -49,10 +50,19 @@ Em đã học số, 4 phép, phân số, hình, dãy số, đếm… ở các ch
 | **C** | Hình học | 10-08 |
 | **D** | Dãy số, ẩn số, logic | 10-09, 10-10 |
 | **E** | Kỹ năng thi | 10-11 |
-| **Trường** | Đề theo trường | 10-12 → 10-17 |
+| **Trường (mục lục)** | Danh sách năm đề | 10-12 → 10-17, 10-19 |
+| **Đề đầy đủ theo năm** | Toàn bộ nội dung đề + hình | **10-20 → 10-109** |
 | **Tổng** | Ôn tập | 10-18 |
 
-### 3. Lộ trình gợi ý
+### 3. Ghi rõ **năm đề thi**
+
+Mỗi lần luyện đề, viết trên đầu trang:
+
+`Trường + Năm` — ví dụ: **NTT 2023**, **TDN 2024**, **Thủ Đức 2025**, **AMS 2023–2024**.
+
+Không ghi mơ hồ “đề cũ” / “đề HCM”. Bài 10-12 → 10-17 có **bảng năm** trong kho.
+
+### 4. Lộ trình gợi ý
 
 1. Chẩn đoán: làm 1 đề dễ–trung bình (Giảng Võ / MC / NTT).  
 2. Vá lỗ hổng theo chuyên đề A → D.  

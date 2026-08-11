@@ -1,0 +1,61 @@
+---
+layout: post
+title: 10-93 Thanh Xuan Paper — 2023
+chapter: '10'
+order: 93
+owner: Math-Lover Team
+lang: en
+categories: [chapter10]
+lesson_type: required
+exam_school: Thanh Xuan
+exam_year: '2023'
+---
+# Thanh Xuan entrance paper — **2023**
+
+> Exam year: **2023**  
+> Full paper text is **in this lesson**.
+
+---
+
+## Objectives
+
+- Learn the structure of the **2023** paper
+- Practice authentic items
+- Always label work: `Thanh Xuan 2023`
+
+---
+
+## The paper (2023)
+Bài 15: Trường THCS Thanh Xuân lập 1 đội 32 học sinh để trồng cây dự định làm xong trong 15 ngày. Làm được 5 ngày thì bổ sung thêm 1 số bạn nên hoàn thành sớm hơn dự định 2 ngày. Tính số học sinh được bổ sung thêm.
+
+Bài 16: Bác Thanh đi từ A đến B. Nếu đi với vận tốc 30km/giờ thì muộn 30 phút, còn đi với vận tốc 40km/giờ thì đến sớm 15 phút. Tìm vận tốc của bác Thanh để bác đến đúng giờ.
+## Figures (2023)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-1]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-1.png)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-1ca57b]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-1ca57b.png)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-2]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-2.png)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-3]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-3.png)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-4]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-4.png)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-5]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-5.png)
+
+![thanh_xuan-thanh-xuan-2023-2023-de-6]({{ site.baseurl }}/img/chapter10/thanh_xuan-thanh-xuan-2023-2023-de-6.png)
+
+
+---
+
+## Practice
+
+1. Timed attempt if duration is known.
+2. Tag misses by topic (expressions / fractions / age / motion / geometry / logic).
+3. Error log line: `Thanh Xuan 2023`.
+
+---
+
+## Parent Corner
+
+Keep sheets labeled **Thanh Xuan — 2023**. Fix repeated errors before more papers.

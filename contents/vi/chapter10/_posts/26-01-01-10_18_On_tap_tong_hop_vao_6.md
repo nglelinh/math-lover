@@ -49,11 +49,12 @@ Toàn bộ 10-01 → 10-17 và chương 01–09.
 | 3 | 1 mock khó (AMS) + 1 mock chính |
 | 4 | 1 mock nhẹ + nghỉ + sổ lỗi |
 
-### Kho tài liệu trong repo
+### Kho đề trong khóa học
 
-- `on-thi-lop-6/de-thi/` — đề text + `hinh/`  
-- `on-thi-lop-6/luyen-tap/30-bai-luyen-dang-clc.md` — 30 bài dạng  
-- Ảnh nhanh: `img/chapter10/`
+- Mục lục trường: bài **10-12 → 10-17**, **10-19**
+- Từng năm đề: bài **10-20+** (sidebar)
+- Chuyên đề dạng: **10-02 → 10-11**
+
 
 ---
 

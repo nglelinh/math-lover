@@ -1,0 +1,76 @@
+---
+layout: post
+title: 10-70 Marie Curie Paper — 2009
+chapter: '10'
+order: 70
+owner: Math-Lover Team
+lang: en
+categories: [chapter10]
+lesson_type: required
+exam_school: Marie Curie
+exam_year: '2009'
+---
+# Marie Curie entrance paper — **2009**
+
+> Exam year: **2009**  
+> Full paper text is **in this lesson**.
+
+---
+
+## Objectives
+
+- Learn the structure of the **2009** paper
+- Practice authentic items
+- Always label work: `Marie Curie 2009`
+
+---
+
+## The paper (2009)
+Câu 1 (3 điểm): Không tính cụ thể kết quả, hãy so sánh A và B:
+
+- A = và B =
+
+- A =   và B =
+
+-  A = và B =
+
+- A = 2001 x 2009 và B = 2005 x 2005
+
+Câu 2 (2 điểm):
+
+- Tính a biết 20% x a + 0,4 x a = 12
+
+- Tính nhanh giá trị của biểu thức sau:
+
+Câu 3 (2 điểm): Ba tấm vải có chiều dài tổng cộng là 105 m. Sau khi cắt bớt 2/5 tấm thứ nhất, 4/7 tấm thứ hai và 2/3 tấm thứ ba thì phần còn lại của ba tấm có độ dài bằng nhau. Tính chiều dài mỗi tấm vải lúc đầu.
+
+Câu 4 (3 điểm): Cho tam giác ABC có diện tích $$64\,\mathrm{cm}^{2}$$ . Trên cạnh AB lấy điểm M sao cho AM = 1/4 AB. Trên cạnh AC lấy điểm N sao cho AN = 1/4 AC. Nối B với N.
+
+- Tính diện tích tam giác BNC.
+
+- Tính tỉ số diện tích tam giác AMN và tam giác ABC.
+
+- Qua A vẽ một đường thẳng cắt MN ở K và cắt BC ở E. Tính tỉ số .
+
+Câu 5 ( không bắt buộc, nếu làm được sẽ thêm một điểm vượt khung):
+
+Không cần trình bày lời giải, thể hiện trên hình vẽ cách chia một tam giác thành 4 tam giác có diện tích bằng nhau.
+
+(em hãy cố gắng tìm ít nhất 4 cách chia).
+
+Tải xuống
+
+-->
+---
+
+## Practice
+
+1. Timed attempt if duration is known.
+2. Tag misses by topic (expressions / fractions / age / motion / geometry / logic).
+3. Error log line: `Marie Curie 2009`.
+
+---
+
+## Parent Corner
+
+Keep sheets labeled **Marie Curie — 2009**. Fix repeated errors before more papers.

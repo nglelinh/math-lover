@@ -1,0 +1,461 @@
+---
+layout: post
+title: 10-72 Marie Curie Paper — 2020
+chapter: '10'
+order: 72
+owner: Math-Lover Team
+lang: en
+categories: [chapter10]
+lesson_type: required
+exam_school: Marie Curie
+exam_year: '2020'
+---
+# Marie Curie entrance paper — **2020**
+
+> Exam year: **2020**  
+> Full paper text is **in this lesson**.
+
+---
+
+## Objectives
+
+- Learn the structure of the **2020** paper
+- Practice authentic items
+- Always label work: `Marie Curie 2020`
+
+---
+
+## The paper (2020)
+Câu 1: Số thập phân gồm sáu phần trăm, năm phần mười, bảy phần nghìn là:
+
+A. 0,567
+
+B. 0,657
+
+C. 657
+
+D. 0,756
+
+Câu 2: Số thích hợp viết vào chỗ chấm của 426 giây = … phút là:
+
+A. 7,01
+
+B. 70,1
+
+C. 42,6
+
+D. 7,1
+
+Câu 3: Một hình thang có đáy bé là a, đáy lớn là b, chiều cao là h (a, b, h cùng đơn vị đo). Công thức tính diện tích S của hình thang đó là:
+
+A. S = a + b × $$\overline{h2B}$$. S = a × h 2 + b
+
+C. S = a + b × $$\overline{h2D}$$. S = a × h 2
+
+Câu 4. Số thích hợp viết vào chỗ chấm của 780g = … kg là:
+
+A. 0,078
+
+B. 7,8
+
+C. 7800
+
+D. 0,78
+
+Câu 5. Một xe ô tô cứ chạy quãng đường dài 70km thì tiêu thụ hết 10 lít xăng. Hỏi nếu ô tô đi quãng đường dài 280km thì tiêu thụ hết bao nhiêu lít xăng? (mức tiêu hao xăng trên 1km như nhau)
+
+A. 400 lít
+
+B. 40 lít
+
+C. 2,5 lít
+
+D. 250 lít
+
+Câu 6. Một đoàn tàu băng qua một cột điện hết 8 giây. Cũng với tốc độ đó, đoàn tàu băng qua một đường hầm dài 260m hết 1 phút. Vận tốc của đoàn tàu đó là:
+
+A. 5 m/phút
+
+B. 50 m/phút
+
+C. 18 km/giờ
+
+D. 50 m/phút
+
+Câu 7. Một máy bay bay với vận tốc 650 km/giờ. Tính quãng đường máy bay bay được trong 2,4 giờ.
+
+A. 1560 km
+
+B. 1410 km
+
+C. 1480 km
+
+D. 1620 km
+
+Câu 8. Tìm số tự nhiên 𝑥 để 25 x = 5 6
+
+A. 𝑥 = 30
+
+B. 𝑥 = 27
+
+C. 𝑥 = 24
+
+D. 𝑥 = 18
+
+Câu 9. Hai vòi nước cùng chảy vào một bể không chứa nước thì sau 6 giờ đầy bể. Nếu vòi thứ nhất chảy trong 2 giờ, vòi thứ hai chảy trong 3 giờ thì được 2 5 bể. Hỏi vòi thứ nhất chảy một mình trong bao lâu thì đầy bể?
+
+A. 11 giờ
+
+B. 15 giờ
+
+C. 12 giờ
+
+D. 10 giờ
+
+Câu 10. Mẹ hơn con 36 tuổi, tuổi mẹ gấp 4 lần tuổi con. Tuổi con hiện nay là:
+
+A. 9 tuổi
+
+B. 48 tuổi
+
+C. 4 tuổi
+
+D. 12 tuổi
+
+Câu 11. Tổng của hai số là 2020. Tìm hai số đó biết rằng giữa chúng có 5 số chẵn liên tiếp.
+
+A. 1005 và 1015
+
+B. 1007,5 và 1012,5
+
+C. 1007 và 1013
+
+D. 1003,5 và 1016,5
+
+Câu 12. Kết quả của phép tính 12,3 + 24,05 × 2,5 là:
+
+A. 73,55
+
+B. 90,875
+
+C. 60,248
+
+D. 72,425
+
+Câu 13. Thể tích của hình lập phương có cạnh bằng 5cm là:
+
+A. $$125\,\mathrm{cm}^{2}$$
+
+B. $$150\,\mathrm{cm}^{3}$$
+
+C. $$25\,\mathrm{cm}^{3}$$
+
+D. $$125\,\mathrm{cm}^{3}$$
+
+Câu 14. Chị chia đào cho các em, nếu chia cho mỗi em 3 quả thì thừa 2 quả, nếu chia cho mỗi em 4 quả thì thiếu 2 quả. Hỏi có tất cả bao nhiêu quả đào?
+
+A. 4
+
+B. 14
+
+C. 38
+
+D. 26
+
+Câu 15. Hiệu của hai số là 129, biết rằng nếu lấy số bé cộng với số lớn rồi cộng với tổng hai số thì được kết quả là 2020. Vậy số lớn là:
+
+A. 569,5
+
+B. 440,5
+
+C. 1074,5
+
+D. 945,5
+
+Câu 16. Biết 52% của một số là 507. Vậy 64% của số đó là:
+
+A. 975
+
+B. 624
+
+C. 263,64
+
+D. 168,7296
+
+Câu 17. Phân số nào dưới đây có thể viết thành phân số thập phân:
+
+A. 3 8
+
+B. 4 7
+
+C. 5 9
+
+D. 1 3
+
+Câu 18. Kết quả của phép tính 5 : 1000 = … là:
+
+A. 0,0005
+
+B. 5000
+
+C. 0,005
+
+D. 0,05
+
+Câu 19: Thương của 2 5 và 3 4 là:
+
+A. 15 8
+
+B. 6 20
+
+C. 6 20
+
+D. 3 10
+
+Câu 20. Để vẽ hình tròn, ta sử dụng dụng cụ:
+
+A. Thước kẻ
+
+B. Ê-ke
+
+C. Com-pa
+
+D. Thước dây
+
+Câu 21. Bốn năm liên tiếp có tất cả bao nhiêu ngày:
+
+A. 366 ngày
+
+B. 1461 ngày
+
+C. 365 ngày
+
+D. 1462 ngày
+
+Câu 22. Lớp 5M có 32 học sinh. Số học sinh nữ bằng $$\dfrac{3}{5}$$ số học sinh nam. Số học sinh nam của lớp 5M là:
+
+A. 4 học sinh
+
+B. 32 học sinh
+
+C. 12 học sinh
+
+D. 20 học sinh
+
+Câu 23: Tìm 𝑥, biết 𝑥 × 2,5 = 1,3
+
+A. 𝑥 = 52
+
+B. 𝑥 = 5,2
+
+C. 𝑥 = 3,25
+
+D. 𝑥 = 0,52
+
+Câu 24. Phép chia 68,37 cho 8,3 có thương là 8,23. Số dư của phép chia đó là:
+
+A. 6,1
+
+B. 0,061
+
+C. 0,61
+
+D. 0,0061
+
+Câu 25. Dãy phân số nào dưới được viết theo thứ tự tăng dần:
+
+A. 2 3 ; 7 12 ; 3 4 ; 5 6
+
+B. 5 6 ; 3 4 ; 2 3 ; 7 12
+
+C. 7 12 ; 2 3 ; 3 4 ; 5 6
+
+D. 7 12 ; 3 4 ; 2 3 ; 5 6
+
+Câu 26. Một xe tải chỉ có thể chở được 300 bao gạo, mỗi bao 50kg. Nếu chất lên xe tải đó loại gạo 75kg thì xe chở được nhiều nhất bao nhiêu bao gạo:
+
+A. 60
+
+B. 200
+
+C. 450
+
+D. 40
+
+Câu 27. Số lớn nhất trong các số 4,74; 7,04; 7,4; 7,47 là:
+
+A. 4,74
+
+B. 7,04
+
+C. 7,47
+
+D. 7,4
+
+Câu 28. Phát biểu nào dưới đây sai:
+
+A. Hình thoi có bốn cạnh bằng nhau
+
+B. Hình thoi có bốn góc vuông và bốn đường chéo
+
+C. Hình thoi có hai đường chéo vuông góc với nhau, cắt nhau tại trung điểm mỗi đường
+
+D. Hình thoi có hai cặp cạnh đối diện song song và bằng nhau
+
+Câu 29. Giá trị của biểu thức 1 2 + 1 6 + 1 12 + 1 20 + 1 30 + 1 42 + 1 56 là:
+
+A. 7 178
+
+B. 9 8
+
+C. 7 8
+
+D. 3 8
+
+Câu 30. Hỗn số 17 5 9 chuyển thành phân số nào dưới đây?
+
+A. 175 9
+
+B. 159 9
+
+C. 158 9
+
+D. 153 9
+
+Câu 31. Một hình lập phương có diện tích xung quanh là $$676\,\mathrm{cm}^{2}$$ . Diện tích toàn phần của hình lập phương đó là:
+
+A. $$1014\,\mathrm{cm}^{2}$$
+
+B. $$169\,\mathrm{cm}^{2}$$
+
+C. $$156\,\mathrm{cm}^{2}$$
+
+D. $$78\,\mathrm{cm}^{2}$$
+
+Câu 32. Số thích hợp viết vào chỗ chấm của 8,3ha = … m 2 là:
+
+A. 8300
+
+B. 830
+
+C. 80300
+
+D. 83000
+
+Câu 33. Đường kính của hình tròn có chu vi 204,1 cm là:
+
+A. 65cm
+
+B. 32,5cm
+
+C. 130cm
+
+D. 6,5cm
+
+Câu 34. Số hai mươi mốt triệu không trăm tám mươi tư nghìn năm trăm linh hai viết là:
+
+A. 21 084 520
+
+B. 210 845 002
+
+C. 21 084 502
+
+D. 2 184 502
+
+Câu 35. $$\dfrac{2}{5}$$ bằng:
+
+A. 25%
+
+B. 60%
+
+C. 0,4%
+
+D. 40%
+
+Câu 36. Giá hoa tháng 5 tăng 10% so với giá hoa tháng 4. Giá hoa tháng 6 tăng 10% so với giá hoa tháng 5. Hỏi giá hoa tháng 6 tăng bao nhiêu phần trăm so với giá hoa tháng 4:
+
+A. 20%
+
+B. 21%
+
+C. 120%
+
+D. 10%
+
+Câu 37. Số thích hợp viết vào chỗ chấm của 3dm 9mm = … dm là:
+
+A. 3,9
+
+B. 3,09
+
+C. 0,039
+
+D. 309
+
+Câu 38. Một thửa ruộng hình chữ nhật có chu vi là 126m, chiều dài hơn chiều rộng 13m. Vụ mùa vừa qua, cứ $$100\,\mathrm{m}^{2}$$ thửa ruộng cho thu hoạch 70kg thóc. Hỏi cả thửa ruộng thu hoạch được bao nhiêu tạ thóc:
+
+A. 66500 tạ
+
+B. 66,5 tạ
+
+C. 6,65 tạ
+
+D. 665 tạ
+
+Câu 39. Giá tiền của một chiếc bút chì là 4000 đồng. Nếu giảm $$\dfrac{1}{10}$$ giá bán thì phải trả bao nhiêu tiền để mua chiếc bút chì đó:
+
+A. 3600 đồng
+
+B. 40000 đồng
+
+C. 4400 đồng
+
+D. 400 đồng
+
+Câu 40. Số đo thích hợp viết vào chỗ chấm của 1 $$10\,\mathrm{m}^{3}$$ = … là:
+
+A. 10 $$000\,\mathrm{cm}^{3}$$
+
+B. 100 $$000\,\mathrm{cm}^{3}$$
+
+C. $$10\,\mathrm{dm}^{3}$$
+
+D. 1 000 $$000\,\mathrm{cm}^{3}$$
+## Figures (2020)
+
+![mc_gv-marie-curie-2020-2020-de-1]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-1.png)
+
+![mc_gv-marie-curie-2020-2020-de-10]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-10.png)
+
+![mc_gv-marie-curie-2020-2020-de-11]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-11.png)
+
+![mc_gv-marie-curie-2020-2020-de-2]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-2.png)
+
+![mc_gv-marie-curie-2020-2020-de-3]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-3.png)
+
+![mc_gv-marie-curie-2020-2020-de-4]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-4.png)
+
+![mc_gv-marie-curie-2020-2020-de-5]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-5.png)
+
+![mc_gv-marie-curie-2020-2020-de-6]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-6.png)
+
+![mc_gv-marie-curie-2020-2020-de-7]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-7.png)
+
+![mc_gv-marie-curie-2020-2020-de-8]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-8.png)
+
+![mc_gv-marie-curie-2020-2020-de-9]({{ site.baseurl }}/img/chapter10/mc_gv-marie-curie-2020-2020-de-9.png)
+
+
+---
+
+## Practice
+
+1. Timed attempt if duration is known.
+2. Tag misses by topic (expressions / fractions / age / motion / geometry / logic).
+3. Error log line: `Marie Curie 2020`.
+
+---
+
+## Parent Corner
+
+Keep sheets labeled **Marie Curie — 2020**. Fix repeated errors before more papers.

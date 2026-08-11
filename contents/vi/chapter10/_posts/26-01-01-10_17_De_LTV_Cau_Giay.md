@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-17 Đề Lương Thế Vinh & Cầu Giấy
+title: 10-17 Mục lục đề LTV & Cầu Giấy (2012–2026)
 chapter: '10'
 order: 17
 owner: Math-Lover Team
@@ -9,94 +9,52 @@ categories:
 - chapter10
 lesson_type: required
 ---
-**Lương Thế Vinh (LTV)** và **Cầu Giấy** — đề HN “dày”, gần phong cách NTT, nhiều năm có full text + ảnh.
+# Mục lục đề **LTV & Cầu Giấy**
 
+> Mỗi năm đề là **một bài học riêng** trong Chương 10 — **toàn bộ nội dung đề nằm trong bài đó**.
 
-![LTV — ảnh trang đề]({{ site.baseurl }}/img/chapter10/ltv-2023-de-1.png)
+## Các năm có trong chương
 
-*LTV — ảnh trang đề*
-
-
-![Cầu Giấy — ảnh trang đề]({{ site.baseurl }}/img/chapter10/cg-2023-de-1.png)
-
-*Cầu Giấy — ảnh trang đề*
-
+| Năm đề | Trường | Bài học chứa đề đầy đủ |
+| --- | --- | --- |
+| **2012-2013** | Cầu Giấy | Bài **10-78** |
+| **2019** | Cầu Giấy | Bài **10-79** |
+| **2020** | Cầu Giấy | Bài **10-80** |
+| **2021** | Cầu Giấy | Bài **10-81** |
+| **2021** | Lương Thế Vinh | Bài **10-82** |
+| **2022** | Cầu Giấy | Bài **10-83** |
+| **2023** | Cầu Giấy | Bài **10-84** |
+| **2023** | Lương Thế Vinh | Bài **10-85** |
+| **2023-2024** | Cầu Giấy | Bài **10-86** |
+| **2023-2024** | Lương Thế Vinh | Bài **10-87** |
+| **2025** | Cầu Giấy | Bài **10-88** |
+| **2025-2026** | Cầu Giấy | Bài **10-89** |
 
 ---
 
 ## Mục tiêu
 
-- luyện đề dài nhiều câu
-- kết hợp PS, hình, chuyển động, logic bảng
-- chuẩn bị cho nhịp NTT/LTV
+- Chọn đúng **năm đề** cần luyện
+- Mở bài **10-XX** trên sidebar Chương 10
+- Ghi nhãn: `LTV & Cầu Giấy + năm`
 
 ---
 
-## Kiến thức đã biết
+## Cách dùng
 
-Hầu hết chuyên đề 10-02 → 10-10.
+1. Chọn năm trong bảng.  
+2. Sidebar → Chương 10 → **10-XX Đề … — năm**.  
+3. Làm timed → chữa → sổ lỗi.
 
----
-
-## Khám phá toán học
-
-### Điểm chung
-
-- Tự luận / hỗn hợp nhiều ý  
-- Hình có tỉ lệ  
-- Bảng số / điền hàng
-
-### Cách ôn
-
-1. Làm theo **chuyên đề** trước (đừng full đề khi còn hổng A)  
-2. Sau đó full đề timed  
-3. So đáp án / lời giải ngắn nếu có file `*-full`
-
----
-
-## Hoạt động khám phá
+## Hoạt động
 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
 
-### Hoạt động 1
-Chọn 1 đề LTV: làm riêng các câu phân số.
-
-### Hoạt động 2
-Chọn 1 đề Cầu Giấy: làm riêng các câu hình.
-
----
-
-## Ví dụ
-
-Sắp xếp phân số $$\dfrac{{5}}{{8}},\dfrac{{11}}{{12}},\dfrac{{7}}{{8}},\dfrac{{10}}{{9}}$$ — dạng LTV hay cho.
-
----
-
-## Câu hỏi suy nghĩ
-
-1. Đề dài nên chia thời gian thế nào?  
-2. Khi nào chuyển từ “luyện dạng” sang “full đề”?
-
----
-
-## Bài tập luyện tập
-
-### Bài 1
-1 đề LTV (nửa đề hoặc full).
-
-### Bài 2
-1 đề Cầu Giấy.
-
-### Bài 3
-Đối chiếu lỗi với NTT — dạng trùng?
-
-### Bài 4
-Cập nhật sổ lỗi.
 
 ---
 
 ## Góc cha mẹ
 
-Hai trường này hợp **giai đoạn giữa** lộ trình (sau khi đã vững A–C).
+Ưu tiên 2–3 năm gần nhất của trường mục tiêu trước khi mở rộng năm cũ.

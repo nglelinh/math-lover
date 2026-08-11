@@ -31,7 +31,7 @@ Toán đố, lưới số, phương trình (chương 03–04).
 
 ### 1. Đặt ẩn xuôi–ngược
 
-Đội A ban đầu $$x$$ người; chuyển $$\dfrac{{1}}{{3}}$$ sang B → còn $$\dfrac{{2}}{{3}}x$$…  
+Đội A ban đầu $$x$$ người; chuyển $$\dfrac{1}{3}$$ sang B → còn $$\dfrac{2}{3}x$$…  
 Làm **ngược từ cuối** cũng được.
 
 ### 2. Hệ đơn giản (Thủ Đức)
@@ -74,13 +74,13 @@ Từ $$3A=30$$ → $$A=10$$; rồi $$B+C=20$$, $$B-C=10$$ → $$B=15$$, $$C=5$$.
 ## Bài tập luyện tập
 
 ### Bài 1
-$$\dfrac{{x}}{{4}}\times 36 - \dfrac{{x}}{{7}}\times 28 + \dfrac{{x}}{{4}}\times 20 = 180$$. Tìm $$x$$.
+$$\dfrac{x}{4}\times 36 - \dfrac{x}{7}\times 28 + \dfrac{x}{4}\times 20 = 180$$. Tìm $$x$$.
 
 ### Bài 2
 3 hạt trên $$3\times 3$$ — có bao nhiêu cách?
 
 ### Bài 3
-$$\dfrac{{487}}{{340}} = a + \dfrac{{1}}{{b}}+\dfrac{{1}}{{c}}+\dfrac{{1}}{{d}}+\dfrac{{1}}{{e}}$$ *(dạng nâng cao — thử tách phân số Ai Cập)*.
+$$\dfrac{487}{340} = a + \dfrac{1}{b}+\dfrac{1}{c}+\dfrac{1}{d}+\dfrac{1}{e}$$ *(dạng nâng cao — thử tách phân số Ai Cập)*.
 
 ### Bài 4
 Tự lập 1 lưới 3×3 tổng mỗi hàng 12.

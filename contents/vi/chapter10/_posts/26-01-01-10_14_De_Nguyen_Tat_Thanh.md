@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-14 Đề trường Nguyễn Tất Thành (Hà Nội)
+title: 10-14 Mục lục đề Nguyễn Tất Thành (2007–2025)
 chapter: '10'
 order: 14
 owner: Math-Lover Team
@@ -9,94 +9,62 @@ categories:
 - chapter10
 lesson_type: required
 ---
-**Nguyễn Tất Thành (NTT)** — kho đề nhiều năm, cấu trúc quen thuộc HN CLC.
+# Mục lục đề **Nguyễn Tất Thành**
 
+> Mỗi năm đề là **một bài học riêng** trong Chương 10 — **toàn bộ nội dung đề nằm trong bài đó**.
 
-![NTT — ảnh trang đề]({{ site.baseurl }}/img/chapter10/ntt-2023-de-1.png)
+## Các năm có trong chương
 
-*NTT — ảnh trang đề*
-
+| Năm đề | Trường | Bài học chứa đề đầy đủ |
+| --- | --- | --- |
+| **2007** | Nguyễn Tất Thành | Bài **10-31** |
+| **2008** | Nguyễn Tất Thành | Bài **10-32** |
+| **2009** | Nguyễn Tất Thành | Bài **10-33** |
+| **2010** | Nguyễn Tất Thành | Bài **10-34** |
+| **2011** | Nguyễn Tất Thành | Bài **10-35** |
+| **2012** | Nguyễn Tất Thành | Bài **10-36** |
+| **2013** | Nguyễn Tất Thành | Bài **10-37** |
+| **2014** | Nguyễn Tất Thành | Bài **10-38** |
+| **2018** | Nguyễn Tất Thành | Bài **10-39** |
+| **2018-2019** | Nguyễn Tất Thành | Bài **10-40** |
+| **2019** | Nguyễn Tất Thành | Bài **10-41** |
+| **2019-2020** | Nguyễn Tất Thành | Bài **10-42** |
+| **2020** | Nguyễn Tất Thành | Bài **10-43** |
+| **2020-2021** | Nguyễn Tất Thành | Bài **10-44** |
+| **2021** | Nguyễn Tất Thành | Bài **10-45** |
+| **2021-2022** | Nguyễn Tất Thành | Bài **10-46** |
+| **2022** | Nguyễn Tất Thành | Bài **10-47** |
+| **2022-2023** | Nguyễn Tất Thành | Bài **10-48** |
+| **2023** | Nguyễn Tất Thành | Bài **10-49** |
+| **2023-2024** | Nguyễn Tất Thành | Bài **10-50** |
+| **2024** | Nguyễn Tất Thành | Bài **10-51** |
+| **2025** | Nguyễn Tất Thành | Bài **10-52** |
 
 ---
 
 ## Mục tiêu
 
-- quen cấu trúc TN + TL ngắn + tự luận
-- luyện trắc nghiệm “bẫy” thập phân / %
-- trình bày tự luận 2 ý rõ ràng
+- Chọn đúng **năm đề** cần luyện
+- Mở bài **10-XX** trên sidebar Chương 10
+- Ghi nhãn: `Nguyễn Tất Thành + năm`
 
 ---
 
-## Kiến thức đã biết
+## Cách dùng
 
-10-02, 10-03, 10-07, 10-08.
+1. Chọn năm trong bảng.  
+2. Sidebar → Chương 10 → **10-XX Đề … — năm**.  
+3. Làm timed → chữa → sổ lỗi.
 
----
-
-## Khám phá toán học
-
-### Cấu trúc hay gặp
-
-| Phần | Dạng |
-| --- | --- |
-| I | Trắc nghiệm 4 đáp án |
-| II | Trả lời ngắn |
-| III | Tự luận 2 câu |
-
-### Câu mẫu (2023)
-
-1. $$2{,}75\times 0{,}99 + 2{,}75:100$$  
-2. $$\dfrac{{3}}{{5}}$$ bóng xanh trong 360  
-3. Bể hộp — mực nước $$\dfrac{{2}}{{3}}$$ chiều cao  
-4. % biểu đồ  
-5–8. TB, %, số $$\overline{{a1024b}}$$, hình tròn  
-9–10. Chuyển động + hình tỉ lệ
-
----
-
-## Hoạt động khám phá
+## Hoạt động
 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
 
-### Hoạt động 1
-Tính câu biểu thức mẫu (không máy tính).
-
-### Hoạt động 2
-Đọc 1 trang đề: phân loại từng câu vào chuyên đề A–D.
-
----
-
-## Ví dụ
-
-$$\dfrac{{3}}{{5}}\times 360 = 216$$ xanh → vàng $$144$$.
-
----
-
-## Câu hỏi suy nghĩ
-
-1. Trắc nghiệm NTT “dễ” nhưng bẫy ở đâu?  
-2. Tự luận hình cần vẽ phác gì trước?
-
----
-
-## Bài tập luyện tập
-
-### Bài 1
-Làm NTT 2023 phần I (4 câu TN).
-
-### Bài 2
-Làm phần II (câu 5–8).
-
-### Bài 3
-Làm 1 đề NTT full timed (60–90' tùy đề).
-
-### Bài 4
-Chữa bằng đáp án nếu file `*-full` có Đáp án ngắn.
 
 ---
 
 ## Góc cha mẹ
 
-Thư viện đề NTT nhiều năm — chọn **1 đề/tuần**, không dồn 5 đề/ngày.
+Ưu tiên 2–3 năm gần nhất của trường mục tiêu trước khi mở rộng năm cũ.

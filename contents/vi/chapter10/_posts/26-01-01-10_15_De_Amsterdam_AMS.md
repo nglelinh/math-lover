@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-15 Đề Amsterdam (AMS) — luyện tư duy
+title: 10-15 Mục lục đề Amsterdam (AMS) (2005–2024)
 chapter: '10'
 order: 15
 owner: Math-Lover Team
@@ -9,91 +9,57 @@ categories:
 - chapter10
 lesson_type: required
 ---
-**AMS** không còn là mục tiêu tuyển 6 như trước, nhưng **đề cũ** cực tốt để luyện tư duy (lưới, dãy, hình gấp…).
+# Mục lục đề **Amsterdam (AMS)**
 
+> Mỗi năm đề là **một bài học riêng** trong Chương 10 — **toàn bộ nội dung đề nằm trong bài đó**.
 
-![AMS — ảnh trang đề]({{ site.baseurl }}/img/chapter10/ams-2023-de-1.png)
+## Các năm có trong chương
 
-*AMS — ảnh trang đề*
-
+| Năm đề | Trường | Bài học chứa đề đầy đủ |
+| --- | --- | --- |
+| **2005** | Amsterdam (AMS) | Bài **10-53** |
+| **2006** | Amsterdam (AMS) | Bài **10-54** |
+| **2007** | Amsterdam (AMS) | Bài **10-55** |
+| **2008** | Amsterdam (AMS) | Bài **10-56** |
+| **2009** | Amsterdam (AMS) | Bài **10-57** |
+| **2010** | Amsterdam (AMS) | Bài **10-58** |
+| **2011** | Amsterdam (AMS) | Bài **10-59** |
+| **2012** | Amsterdam (AMS) | Bài **10-60** |
+| **2013** | Amsterdam (AMS) | Bài **10-61** |
+| **2014** | Amsterdam (AMS) | Bài **10-62** |
+| **2020** | Amsterdam (AMS) | Bài **10-63** |
+| **2020-2021** | Amsterdam (AMS) | Bài **10-64** |
+| **2022** | Amsterdam (AMS) | Bài **10-65** |
+| **2022-2023** | Amsterdam (AMS) | Bài **10-66** |
+| **2023** | Amsterdam (AMS) | Bài **10-67** |
+| **2023-2024** | Amsterdam (AMS) | Bài **10-68** |
+| **đề mẫu** | Amsterdam (AMS) | Bài **10-69** |
 
 ---
 
 ## Mục tiêu
 
-- dùng đề AMS như “phòng gym” tư duy
-- nhận dạng câu phân hóa (Pascal, gấp giấy, dãy khó)
-- không áp lực “phải biết hết”
+- Chọn đúng **năm đề** cần luyện
+- Mở bài **10-XX** trên sidebar Chương 10
+- Ghi nhãn: `Amsterdam (AMS) + năm`
 
 ---
 
-## Kiến thức đã biết
+## Cách dùng
 
-10-09, 10-10, 10-08; Fibonacci/Pascal (chương 03 nếu đã học).
+1. Chọn năm trong bảng.  
+2. Sidebar → Chương 10 → **10-XX Đề … — năm**.  
+3. Làm timed → chữa → sổ lỗi.
 
----
-
-## Khám phá toán học
-
-### Vì sao vẫn ôn AMS?
-
-- Câu hỏi **mở**, ít khuôn sáo  
-- Rèn đọc hiểu đề dài  
-- Tốt cho học sinh nhắm TDN / NTT top
-
-### Dạng điển hình
-
-- Dãy / tổng  
-- Gấp giấy thành hộp  
-- Tỉ lệ % chuỗi  
-- Hình tô đậm  
-- Chạy đường tròn gặp nhau
-
----
-
-## Hoạt động khám phá
+## Hoạt động
 
 <!-- vi-interactive:start -->
 {% include vi-interactive-lesson.html %}
 <!-- vi-interactive:end -->
 
-### Hoạt động 1
-Làm 3 câu điền AMS (không tính giờ).
-
-### Hoạt động 2
-Chọn 1 câu tự luận AMS — chỉ viết **kế hoạch** 4 dòng, chưa cần ra đáp số.
-
----
-
-## Ví dụ
-
-25 số chẵn liên tiếp TB 32 → số giữa là 32; liên hệ số nhỏ–lớn.
-
----
-
-## Câu hỏi suy nghĩ
-
-1. Khác NTT ở nhịp đề?  
-2. Khi nào nên bỏ qua câu AMS quá khó?
-
----
-
-## Bài tập luyện tập
-
-### Bài 1
-Làm AMS 2023–2024 phần điền (câu 1–8 chọn lọc).
-
-### Bài 2
-1 câu hình tô đậm.
-
-### Bài 3
-1 câu chuyển động đường tròn.
-
-### Bài 4
-Ghi “ý tưởng hay” học được từ AMS vào sổ.
 
 ---
 
 ## Góc cha mẹ
 
-Coi AMS là **bài tập nâng**, không phải tiêu chí đỗ trường hiện tại.
+Ưu tiên 2–3 năm gần nhất của trường mục tiêu trước khi mở rộng năm cũ.

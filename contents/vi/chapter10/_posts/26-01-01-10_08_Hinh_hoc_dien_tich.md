@@ -35,8 +35,8 @@ Chương 08 hình học.
 | --- | --- |
 | HCN | $$S = a \times b$$, $$P = 2(a+b)$$ |
 | HV | $$S = a^2$$ |
-| Tam giác | $$S = \dfrac{{1}}{{2}} a h$$ |
-| Hình thang | $$S = \dfrac{{(a+b)h}}{{2}}$$ |
+| Tam giác | $$S = \dfrac{1}{2} a h$$ |
+| Hình thang | $$S = \dfrac{(a+b)h}{2}$$ |
 | Hộp CN | $$V = a b c$$ |
 | Lập phương | $$V = a^3$$; diện tích TP $$6a^2$$ |
 
@@ -86,7 +86,7 @@ Chọn công thức diện tích hình thang đúng.
 Thùng $$12 \times 9 \times 6$$ (dm). Số khối lập phương nhỏ nhất xếp khít?
 
 ### Bài 3
-Tam giác $$S=90$$; $$AM=2\,MC$$. $$S_{{BMC}}=?$$
+Tam giác $$S=90$$; $$AM=2\,MC$$. $$S_{BMC}=?$$
 
 ### Bài 4
 Vẽ và tính diện tích phần tô đậm trên 1 hình tự tạo (HV nhỏ trong HV lớn).

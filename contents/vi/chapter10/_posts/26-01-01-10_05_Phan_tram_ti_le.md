@@ -31,7 +31,7 @@ Chương 06: tỉ lệ, phần trăm.
 
 ### 1. Ba cách viết
 
-$$25\% = \dfrac{{1}}{{4}} = 0{,}25$$
+$$25\% = \dfrac{1}{4} = 0{,}25$$
 
 ### 2. Mô hình tăng–giảm
 
@@ -40,7 +40,7 @@ Giá gốc khi đã giảm $$15\%$$ còn $$212\,500$$: chia $$0{,}85$$.
 
 ### 3. Tỉ lệ học sinh
 
-Nam gấp đôi nữ. Sau chuyển 2 nữ, nam bằng $$\dfrac{{5}}{{2}}$$ nữ → đặt ẩn.
+Nam gấp đôi nữ. Sau chuyển 2 nữ, nam bằng $$\dfrac{5}{2}$$ nữ → đặt ẩn.
 
 ---
 
@@ -51,7 +51,7 @@ Nam gấp đôi nữ. Sau chuyển 2 nữ, nam bằng $$\dfrac{{5}}{{2}}$$ nữ 
 <!-- vi-interactive:end -->
 
 ### Hoạt động 1
-Giảm $$\dfrac{{1}}{{10}}$$ giá 4000 đồng. Còn bao nhiêu?
+Giảm $$\dfrac{1}{10}$$ giá 4000 đồng. Còn bao nhiêu?
 
 ### Hoạt động 2
 Một cửa hàng tăng 12%, rồi tăng 10%, rồi giảm 10%. So với ban đầu?
@@ -77,7 +77,7 @@ Một cửa hàng tăng 12%, rồi tăng 10%, rồi giảm 10%. So với ban đ�
 Tăng 20% của 150.
 
 ### Bài 2
-Bút 4000 đồng, giảm $$\dfrac{{1}}{{10}}$$. Phải trả?
+Bút 4000 đồng, giảm $$\dfrac{1}{10}$$. Phải trả?
 
 ### Bài 3
 Thư viện 1000 sách, mỗi năm +10%. Sau 2 năm?

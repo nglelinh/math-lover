@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-16 Marie Curie & Giang Vo Papers
+title: 10-16 Marie Curie & Giang Vo Papers Index (2009–2024)
 chapter: '10'
 order: 16
 owner: Math-Lover Team
@@ -8,44 +8,23 @@ lang: en
 categories: [chapter10]
 lesson_type: required
 ---
-**Marie Curie** and **Giang Vo** are Hanoi CLC styles with different pacing.
+# Index: **Marie Curie & Giang Vo** papers
 
+> Each year is a **separate lesson** with the **full paper inside**.
 
-![Marie Curie page]({{ site.baseurl }}/img/chapter10/mc-2022-de-1.png)
+## Years available
 
-*Marie Curie page*
+| Exam year | School | Lesson |
+| --- | --- | --- |
+| **2009** | Marie Curie | Lesson **10-70** |
+| **2010** | Giảng Võ | Lesson **10-71** |
+| **2020** | Marie Curie | Lesson **10-72** |
+| **2022** | Marie Curie | Lesson **10-73** |
+| **2023** | Marie Curie | Lesson **10-74** |
+| **2023-2024** | Marie Curie | Lesson **10-75** |
+| **đề mẫu** | Giảng Võ | Lesson **10-76** |
+| **đề mẫu** | Marie Curie | Lesson **10-77** |
 
+## How to use
 
----
-
-## Objectives
-
-- MC: speed across mixed MCQs  
-- Giang Vo: ~45-minute grit  
-- catch unit traps (cm² vs cm³)
-
----
-
-## Core Idea
-
-Age difference is constant; volume/area distractors are common.
-
----
-
-## Practice
-
-
-1. 10-minute MCQ burst.  
-2. Full 45-minute mock if available.
-
----
-
-## Exercises
-
-One MC paper; one 45' paper; list 5 personal traps.
-
----
-
-## Parent Corner
-
-Visible timer; practice deliberate skipping.
+Open **10-XX** from the Chapter 10 sidebar. Label work with school + year.

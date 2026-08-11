@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-13 HCMC CLC — Thu Duc Cluster Papers
+title: 10-13 Thu Duc & HCMC CLC Papers Index (2023–2025)
 chapter: '10'
 order: 13
 owner: Math-Lover Team
@@ -8,44 +8,21 @@ lang: en
 categories: [chapter10]
 lesson_type: required
 ---
-Some years, **Tran Quoc Toan 1**, **Hoa Lu**, **Binh Tho** (Thu Duc) share one math–logic paper.
+# Index: **Thu Duc & HCMC CLC** papers
 
+> Each year is a **separate lesson** with the **full paper inside**.
 
-![Thu Duc 2024 page]({{ site.baseurl }}/img/chapter10/thuduc-2024-trang-01.png)
+## Years available
 
-*Thu Duc 2024 page*
+| Exam year | School | Lesson |
+| --- | --- | --- |
+| **2023** | Trần Quốc Toản 1 | Lesson **10-25** |
+| **2024** | Thủ Đức (đề chung) | Lesson **10-26** |
+| **2024** | Nguyễn An Khương | Lesson **10-27** |
+| **2025** | Thủ Đức (đề chung) | Lesson **10-28** |
+| **2025** | Hoa Lư (Thủ Đức) | Lesson **10-29** |
+| **2025** | Trần Quốc Toản 1 | Lesson **10-30** |
 
+## How to use
 
----
-
-## Objectives
-
-- understand shared-cluster papers
-- practice fill-in systems, percent charts, composite shapes
-- know which schools are **admission-by-record** (no math paper)
-
----
-
-## Core Idea
-
-Typical 2024: linear system; percent pie; rectangle tiling; 100 m race.
-
----
-
-## Practice
-
-
-1. Solve $$3A=30$$ system.  
-2. Mark two figure-dependent items on a page scan.
-
----
-
-## Exercises
-
-Timed Thu Duc 2024 & 2025; optional NAK short paper.
-
----
-
-## Parent Corner
-
-Check district announcements yearly — cluster rules change.
+Open **10-XX** from the Chapter 10 sidebar. Label work with school + year.

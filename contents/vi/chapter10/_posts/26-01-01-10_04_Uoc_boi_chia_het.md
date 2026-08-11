@@ -29,7 +29,7 @@ Chương 05: ước, bội, SNT, UCLN, BCNN.
 
 ## Khám phá toán học
 
-### 1. Số $$\overline{{ab}}$$
+### 1. Số $$\overline{ab}$$
 
 - chia hết cho $$2$$: $$b$$ chẵn  
 - chia hết cho $$5$$: $$b=0$$ hoặc $$5$$  
@@ -76,10 +76,10 @@ Trong 1..20, bao nhiêu số chia hết cho 2 **hoặc** 3?
 ## Bài tập luyện tập
 
 ### Bài 1
-$$\overline{{ab}}$$ chia hết cho 7 và $$a+b=6$$. Tìm số.
+$$\overline{ab}$$ chia hết cho 7 và $$a+b=6$$. Tìm số.
 
 ### Bài 2
-Số $$\overline{{224ab}}$$ chia hết cho 2, 3 và 5. Tính $$a \times b$$.
+Số $$\overline{224ab}$$ chia hết cho 2, 3 và 5. Tính $$a \times b$$.
 
 ### Bài 3
 Trong 1..100, còn bao nhiêu số **không** chia hết cho 3 và **không** chia hết cho 5?  

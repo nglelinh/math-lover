@@ -37,8 +37,8 @@ Turn off multiples of 3 then of 5 → inclusion–exclusion for how many stay on
 
 ## Exercises
 
-1. $$\overline{{ab}}$$ divisible by 7, $$a+b=6$$.  
-2. $$\overline{{224ab}}$$ divisible by 2, 3, 5 — find $$a\times b$$.  
+1. $$\overline{ab}$$ divisible by 7, $$a+b=6$$.  
+2. $$\overline{224ab}$$ divisible by 2, 3, 5 — find $$a\times b$$.  
 3. LCM of 12 and 18.
 
 ---

@@ -14,6 +14,8 @@ This chapter organizes **real exam patterns** into **topics** and **school-focus
 
 ---
 
+**Full exam papers** are lessons **10-20 through 10-109** (one year per lesson). School indexes: **10-12–10-17**, **10-19**.
+
 ## Objectives
 
 - know which topics appear most in CLC tests
@@ -21,6 +23,10 @@ This chapter organizes **real exam patterns** into **topics** and **school-focus
 - connect each pattern to earlier course chapters
 
 ---
+
+## Label the exam year
+
+Write on every practice sheet: **School + Year** (e.g. **NTT 2023**, **TDN 2024**). Lessons 10-12–10-17 list available years.
 
 ## Core Idea
 
