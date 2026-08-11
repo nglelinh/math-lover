@@ -1,0 +1,221 @@
+{
+  "title": "Catalog nguồn đề thi vào lớp 6 CLC/chuyên",
+  "updated": "2026-08-10",
+  "scope": ["Toán", "Tư duy logic"],
+  "regions_priority": ["Hà Nội", "TP.HCM"],
+  "aggregators": [
+    {
+      "name": "Vietjack",
+      "url": "https://vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp",
+      "has_answers": true,
+      "notes": "100+ đề Toán vào 6"
+    },
+    {
+      "name": "Loigiaihay",
+      "url": "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html",
+      "has_answers": true,
+      "notes": "Nhiều năm, lời giải chi tiết"
+    },
+    {
+      "name": "HoaTieu",
+      "url": "https://hoatieu.vn/de-thi-vao-lop-6-truong-chuyen-co-dap-an-232219",
+      "has_answers": true,
+      "notes": "AMS, NTT, MC, LTV, Giảng Võ, TDN"
+    },
+    {
+      "name": "MathX",
+      "url": "https://mathx.vn/tin-tuc/tong-hop-de-thi-vao-lop-6-mon-toan-truong-chat-luong-cao-2023-2024.html",
+      "has_answers": true,
+      "notes": "CLC 2023-2024 + hướng dẫn NTT"
+    },
+    {
+      "name": "ToanIQ",
+      "url": "https://www.toaniq.com/tuyen-tap-106-de-thi-vao-lop-6-mon-toan-cac-truong-chuyen-co-dap-an/",
+      "has_answers": true,
+      "notes": "106 đề archive"
+    }
+  ],
+  "schools": [
+    {
+      "id": "tdn",
+      "name": "THCS-THPT Trần Đại Nghĩa",
+      "city": "TP.HCM",
+      "status": "active",
+      "exam_style": "mixed_90min",
+      "official_answers": true,
+      "links": [
+        {
+          "year": "2025",
+          "url": "https://vietnamnet.vn/de-thi-va-dap-an-cac-mon-vao-lop-6-truong-tran-dai-nghia-nam-2025-2413181.html",
+          "has_answers": true
+        },
+        {
+          "year": "2024",
+          "url": "https://tuoitre.vn/cong-bo-de-va-dap-an-ky-khao-sat-vao-lop-6-truong-tran-dai-nghia-20240705152638453.htm",
+          "has_answers": true
+        },
+        {
+          "year": "2025",
+          "url": "https://hcm.edu.vn/so-giao-duc/de-thi-khao-sat-tuyen-sinh-vao-lop-6-truong-thcs-thpt-tran-dai-nghia-nam-hoc-20/ctmb/7953/82166",
+          "has_answers": true,
+          "source": "Sở GDĐT TP.HCM"
+        }
+      ],
+      "math_topics": ["logic", "patterns", "percent", "word_problems"]
+    },
+    {
+      "id": "ntt",
+      "name": "THCS & THPT Nguyễn Tất Thành",
+      "city": "Hà Nội",
+      "status": "active",
+      "exam_style": "competency",
+      "links": [
+        {
+          "year": "2025",
+          "url": "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-nam-2025-co-dap-an-a185630.html",
+          "has_answers": true
+        },
+        {
+          "year": "2025-2026",
+          "type": "sample",
+          "url": "https://mathx.vn/tin-tuc/huong-dan-giai-de-tham-khao-vao-lop-6-truong-thcs-nguyen-tat-thanh-nam-hoc-2025-2026.html",
+          "has_answers": true
+        },
+        {
+          "url": "https://vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-thpt-nguyen-tat-thanh.jsp",
+          "has_answers": true,
+          "notes": "Nhiều năm"
+        }
+      ],
+      "math_topics": ["algebra_thinking", "geometry_ratio", "percent", "motion", "age"]
+    },
+    {
+      "id": "ltv",
+      "name": "THCS & THPT Lương Thế Vinh",
+      "city": "Hà Nội",
+      "status": "active",
+      "exam_style": "competency",
+      "links": [
+        {
+          "url": "https://luongthevinh.com.vn/home/?cat=45",
+          "notes": "Trang tuyển sinh lớp 6"
+        },
+        {
+          "url": "https://hoatieu.vn/de-thi-vao-lop-6-mon-toan-luong-the-vinh-online-209017",
+          "has_answers": true
+        }
+      ],
+      "math_topics": ["logic", "language_math", "percent"]
+    },
+    {
+      "id": "marie-curie",
+      "name": "THCS Marie Curie",
+      "city": "Hà Nội",
+      "status": "active",
+      "exam_style": "written_classic",
+      "links": [
+        {
+          "url": "https://hoatieu.vn/de-thi-vao-lop-6-mon-toan-truong-marie-curie-221125",
+          "has_answers": true
+        }
+      ],
+      "math_topics": ["expressions", "averages", "motion", "geometry_area"]
+    },
+    {
+      "id": "giang-vo",
+      "name": "THCS Giảng Võ",
+      "city": "Hà Nội",
+      "status": "active",
+      "exam_style": "short_45min",
+      "links": [
+        {
+          "url": "https://hoatieu.vn/de-thi-vao-lop-6-truong-chuyen-co-dap-an-232219",
+          "has_answers": "partial"
+        }
+      ],
+      "math_topics": ["expressions", "age", "percent", "digit_counting", "tiling"]
+    },
+    {
+      "id": "cau-giay",
+      "name": "THCS Cầu Giấy",
+      "city": "Hà Nội",
+      "status": "active",
+      "links": [
+        {
+          "url": "https://hoatieu.vn/de-thi-tuyen-sinh-vao-lop-6-truong-thcs-cau-giay-225349",
+          "has_answers": true
+        }
+      ]
+    },
+    {
+      "id": "ams",
+      "name": "THPT Chuyên Hà Nội – Amsterdam (hệ THCS)",
+      "city": "Hà Nội",
+      "status": "stopped_grade6_intake_approx_2024",
+      "notes": "Đề cũ vẫn dùng luyện nâng cao",
+      "links": [
+        {
+          "year": "2023-2024",
+          "url": "https://navi.edu.vn/thu-vien/tai-lieu/de-thi-vao-6-mon-toan-nam-hoc-2023-2024-thpt-chuyen-ha-noi-amsterdam/",
+          "has_answers": "varies"
+        }
+      ],
+      "math_topics": ["hard_olympiad_style", "geometry", "series", "proof_lite"]
+    }
+  ],
+  "topic_to_lessons": {
+    "four_operations": [
+      "contents/vi/chapter01/_posts/26-01-01-01_12_Phep_cong.md",
+      "contents/vi/chapter01/_posts/26-01-01-01_11_Phep_tru.md",
+      "contents/vi/chapter02/_posts/26-01-01-01_03_Phep_nhan.md",
+      "contents/vi/chapter02/_posts/26-01-01-01_06_Phep_chia.md"
+    ],
+    "fractions": [
+      "contents/vi/chapter04/_posts/26-01-01-01_07_Phan_so.md",
+      "contents/vi/chapter04/_posts/26-01-01-05_06_Phan_so_bang_nhau_khi_nao_hai_phan_so_bang_nhau.md",
+      "contents/vi/chapter04/_posts/26-01-01-05_07_So_sanh_phan_so_ai_lon_hon_ai_nho_hon.md",
+      "contents/vi/chapter04/_posts/26-01-01-05_08_Cong_tru_phan_so_ket_hop_cac_phan.md",
+      "contents/vi/chapter04/_posts/26-01-01-05_09_Hon_so_khi_phan_so_lon_hon_1.md"
+    ],
+    "decimals_percent_ratio": [
+      "contents/vi/chapter06/_posts/26-01-01-02_07_So_thap_phan.md",
+      "contents/vi/chapter06/_posts/26-01-01-02_08_Ti_le_phan_tram.md",
+      "contents/vi/chapter06/_posts/26-01-01-06_04_Ti_so_va_ti_le_So_sanh_hai_dai_luong.md",
+      "contents/vi/chapter06/_posts/26-01-01-07_05_Ti_le_phan_tram_nang_cao_Ung_dung_trong_cuoc_song.md"
+    ],
+    "divisibility_gcd_lcm": [
+      "contents/vi/chapter05/_posts/26-01-01-05_02_Uoc_so_va_Boi_so_tim_hieu_moi_quan_he.md",
+      "contents/vi/chapter05/_posts/26-01-01-05_03_So_nguyen_to_nhung_vien_gach_co_ban_cua_toan_hoc.md",
+      "contents/vi/chapter05/_posts/26-01-01-05_04_Uoc_chung_lon_nhat_tim_so_lon_nhat_chia_het_cho_ca_hai.md",
+      "contents/vi/chapter05/_posts/26-01-01-05_05_Boi_chung_nho_nhat_tim_so_nho_nhat_chia_het_cho_ca_hai.md"
+    ],
+    "geometry": [
+      "contents/vi/chapter08/_posts/26-01-01-01_05_Hinh_hoc.md",
+      "contents/vi/chapter08/_posts/26-01-01-01_18_Chu_vi_Dien_tich.md",
+      "contents/vi/chapter08/_posts/26-01-01-03_02_Dien_tich_Nang_cao.md",
+      "contents/vi/chapter08/_posts/26-01-01-06_08_Dien_tich_hinh_tam_giac_va_hinh_tron.md",
+      "contents/vi/chapter08/_posts/26-01-01-06_09_The_tich_hinh_hop_chu_nhat_va_hinh_lap_phuong.md"
+    ],
+    "logic_patterns": [
+      "contents/vi/chapter03/_posts/26-01-01-03_01_Toan_tu_duy.md",
+      "contents/vi/chapter03/_posts/26-01-01-03_04_Bai_toan_do.md",
+      "contents/vi/chapter03/_posts/26-01-01-03_06_Luoi_so.md",
+      "contents/vi/chapter03/_posts/26-01-01-03_07_Tim_quy_luat.md",
+      "contents/vi/chapter03/_posts/26-01-01-07_08_Day_so_Tim_quy_luat_va_so_tiep_theo.md",
+      "contents/vi/chapter03/_posts/26-01-01-04_02_Phuong_trinh.md",
+      "contents/vi/chapter03/_posts/26-01-01-07_04_Phuong_trinh_nang_cao_Giai_toan_co_an_so.md"
+    ],
+    "counting": [
+      "contents/vi/chapter09/_posts/26-01-01-09_01_Dem_co_he_thong.md",
+      "contents/vi/chapter09/_posts/26-01-01-09_02_Nguyen_ly_cong.md",
+      "contents/vi/chapter09/_posts/26-01-01-09_03_Nguyen_ly_nhan.md"
+    ]
+  },
+  "course_gaps": [
+    "Bài toán tuổi (chuyên biệt)",
+    "Chuyển động đều / gặp nhau",
+    "Chung công việc",
+    "Chữ số tận cùng / đếm số 0 trong tích",
+    "Tỉ lệ diện tích nâng cao (cắt ghép đề CLC)"
+  ]
+}

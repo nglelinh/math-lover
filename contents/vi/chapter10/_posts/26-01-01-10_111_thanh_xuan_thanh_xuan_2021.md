@@ -14,7 +14,6 @@ exam_year: '2021'
 # Đề thi Thanh Xuân — **2021**
 
 > Năm đề: **2021**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -134,4 +133,4 @@ Câu 10. Một người đi xe máy từ địa điểm A đến địa điểm 
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Thanh Xuân — 2021**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

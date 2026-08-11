@@ -14,7 +14,6 @@ exam_year: '2024'
 # Đề thi Archimedes — **2024**
 
 > Năm đề: **2024**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -192,4 +191,4 @@ Bài 50. Cho 22 tấm thẻ được viết các số tự nhiên liên tiếp t
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Archimedes — 2024**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

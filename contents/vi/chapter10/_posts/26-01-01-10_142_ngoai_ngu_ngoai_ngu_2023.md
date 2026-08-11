@@ -14,7 +14,6 @@ exam_year: '2023'
 # Đề thi Ngoại ngữ — **2023**
 
 > Năm đề: **2023**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -84,4 +83,4 @@ Quãng đường AB dài 240 km. 1 xe tải đi từ A đến B, 1 xe khách đi
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Ngoại ngữ — 2023**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

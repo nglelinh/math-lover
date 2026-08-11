@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10-08 Hình học: chu vi – diện tích – thể tích
+title: "10-08 Hình học: chu vi – diện tích – thể tích"
 chapter: '10'
 order: 8
 owner: Math-Lover Team
@@ -95,4 +95,4 @@ Vẽ và tính diện tích phần tô đậm trên 1 hình tự tạo (HV nhỏ
 
 ## Góc cha mẹ
 
-Đo bàn, hộp giấy thật rồi tính chu vi–diện tích–thể tích.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

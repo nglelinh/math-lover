@@ -14,7 +14,6 @@ exam_year: '2021'
 # Đề thi Ngoại ngữ — **2021**
 
 > Năm đề: **2021**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -126,4 +125,4 @@ D. 40 phút
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Ngoại ngữ — 2021**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

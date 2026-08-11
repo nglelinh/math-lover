@@ -103,4 +103,4 @@ Viết thư ngắn cho chính mình ngày thi: 5 điều nhớ.
 
 ## Góc cha mẹ
 
-Tuần cuối: **ngủ đủ**, giảm đề mới, tăng động viên. Thành công = vững dạng + tâm thế ổn định.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

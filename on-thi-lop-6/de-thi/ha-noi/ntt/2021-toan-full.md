@@ -1,0 +1,41 @@
+# Đề Toán vào 6 — Nguyễn Tất Thành (2021)
+
+I. TRẮC NGHIỆM
+
+Câu 1 . 20 × 55 + 0,21 × 55 + 20,21 × 45
+
+Câu 2 . Quãng đường AB dài 36km. Cùng một lúc, bạn Hòa đi từ A đến B với vận tốc 10km/giờ, bạn Bình đi từ B về A với vận tốc 8km/giờ. Hai bạn gặp nhau ở điểm C. Tính quãng đường AC.
+
+Câu 3 . Một người có một mảnh đất hình chữ nhật có chiều dài 20m và chiều rộng 15m. Người đó lấy 45% diện tích mảnh đất để làm nhà, phần còn lại để làm vườn. Tính diện tích đất làm vườn.
+
+Câu 4 . Một hình lập phương có diện tích toàn phần là $$54\,\mathrm{cm}^{2}$$ . Tính thể tích hình lập phương đó.
+
+Câu 5 . Lớp 5A có 40 học sinh, biết rằng  $$\dfrac {2} {5}$$  số học sinh nam bằng  $$\dfrac {2} {3}$$  số học sinh nữ. Tính số học sinh nam.
+
+Câu 6 . Đội A làm một công việc xong trong 10 giờ. Cả hai đội A và B cùng làm thì xong trong 6 giờ. Hỏi đội B làm công việc đó một mình thì trong bao lâu sẽ xong?
+
+Câu 7 . Cho tam giác ABC có diện tích là $$5\,\mathrm{cm}^{2}$$ . Kéo dài AB ra một đoạn sao cho AB = BD. Kéo dài BC ra một đoạn sao cho cho BC =  $$\dfrac {1} {2}$$  CE. Tính diện tích tam giác ADE.
+
+Câu 8 . Bạn Hạnh có 20 miếng bìa hình vuông cạnh 1dm. Bạn ấy xếp các bìa đó thành một hình chữ nhật (không đè lên nhau, cạnh khít nhau). Hỏi trong các hình chữ nhật có thể xếp được thì hình nào có chu vi lớn nhất?
+
+## PHẦN 2. TỰ LUẬN
+
+Câu 1 . Có một người mua 1000 quả trứng với giá 27 000 đồng một chục quả. Trong khi vận chuyển, có một số quả trứng bị vỡ. Người đó bán số trứng còn lại với giá 3000 đồng một quả và lãi 10% so với giá vốn. Tính số tiền vốn và số quả trứng bị vỡ.
+
+Câu 2 . Có một xe ô tô đi từ A đến B dài 120km. Ô tô đi với vận tốc 50km/giờ và xuất phát lúc 7 giờ. Hỏi:
+
+a) Nếu đi theo dự định thì ô tô đến B khi nào?
+
+b) Thực tế khi đi đến C, xe đã gặp trục trặc nên phải dừng lại và sửa chữa 5 phút. Sau khi sửa xong thì ô tô đi với vận tốc 60km/giờ và đến B sớm hơn dự kiến 5 phút. Tính quãng đường AC.
+
+## Hình minh họa
+
+*(Ảnh trang đề / scan — có thể là cả trang)*
+
+![2021-de-1](hinh/2021-de-1.png)
+
+![2021-de-2](hinh/2021-de-2.png)
+
+![2021-de-3](hinh/2021-de-3.png)
+
+![2021-de-4](hinh/2021-de-4.png)

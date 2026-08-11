@@ -89,4 +89,4 @@ Tỉ số diện tích $$AM:MC = 2:1$$ trên tam giác. Diện tích $$BMC$$ là
 
 ## Góc cha mẹ
 
-Luyện % qua giảm giá khi đi chợ / siêu thị.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

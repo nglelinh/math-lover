@@ -87,4 +87,4 @@ Tự đặt 1 bài tuổi cho bạn.
 
 ## Góc cha mẹ
 
-Dùng tuổi thật trong gia đình để đặt câu hỏi “sau 3 năm…”.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

@@ -14,7 +14,6 @@ exam_year: '2023'
 # Đề thi Thanh Xuân — **2023**
 
 > Năm đề: **2023**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -74,4 +73,4 @@ Bài 16: Bác Thanh đi từ A đến B. Nếu đi với vận tốc 30km/giờ 
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Thanh Xuân — 2023**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

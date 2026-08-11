@@ -14,7 +14,6 @@ exam_year: '2024'
 # Đề thi Thanh Xuân — **2024**
 
 > Năm đề: **2024**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -152,4 +151,4 @@ Bài 16. Xe thứ nhất đi từ A đến B mất 6 giờ. Xe thứ hai đi t�
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Thanh Xuân — 2024**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

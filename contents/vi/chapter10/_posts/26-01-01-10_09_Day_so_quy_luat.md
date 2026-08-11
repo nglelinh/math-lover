@@ -96,4 +96,4 @@ Tự tạo dãy 6 số và hỏi bạn số hạng thứ 7.
 
 ## Góc cha mẹ
 
-Chơi “đoán số tiếp theo” 5 phút mỗi ngày.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

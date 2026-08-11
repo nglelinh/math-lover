@@ -14,7 +14,6 @@ exam_year: 'đề mẫu'
 # Đề thi Marie Curie — **đề mẫu**
 
 > Năm đề: **đề mẫu**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -116,4 +115,4 @@ Có 18 hình lập phương như nhau, mỗi hình có cạnh là 1 cm. Xếp t�
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Marie Curie — đề mẫu**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

@@ -14,7 +14,6 @@ exam_year: '2020'
 # Đề thi Nam Từ Liêm — **2020**
 
 > Năm đề: **2020**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -102,4 +101,4 @@ Bài 12 . Cho 9 thanh: thanh 1 dài 1cm; thanh 2 dài 2cm; thanh 3 dài 3cm; ...
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Nam Từ Liêm — 2020**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

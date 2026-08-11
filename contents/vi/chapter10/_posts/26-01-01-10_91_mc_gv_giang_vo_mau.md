@@ -14,7 +14,6 @@ exam_year: 'đề mẫu'
 # Đề thi Giảng Võ — **đề mẫu**
 
 > Năm đề: **đề mẫu**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -96,4 +95,4 @@ Học kỳ 1, trường THCS Giảng Võ có 55% học sinh đạt loại giỏi
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Giảng Võ — đề mẫu**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

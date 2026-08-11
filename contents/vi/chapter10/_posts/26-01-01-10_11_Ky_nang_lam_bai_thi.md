@@ -101,4 +101,4 @@ Viết “checklist trước giờ thi” 5 ý.
 
 ## Góc cha mẹ
 
-Mô phỏng timed test yên tĩnh; sau bài chỉ chữa **lỗi lặp**, không dồn dập đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

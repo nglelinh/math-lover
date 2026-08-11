@@ -14,7 +14,6 @@ exam_year: '2025'
 # Đề thi Trần Quốc Toản 1 — **2025**
 
 > Năm đề: **2025**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -98,4 +97,4 @@ b/ Biết thùng A đang chứa đầy nước và thùng B không chứa nướ
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Trần Quốc Toản 1 — 2025**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

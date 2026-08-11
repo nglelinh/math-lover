@@ -14,7 +14,6 @@ exam_year: '2019'
 # Đề thi Ngoại ngữ — **2019**
 
 > Năm đề: **2019**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -136,4 +135,4 @@ Bài 8. Quãng đường AB dài 60km. Cùng lúc có xe đi từ A và từ B k
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Ngoại ngữ — 2019**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

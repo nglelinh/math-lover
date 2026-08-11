@@ -14,7 +14,6 @@ exam_year: '2025'
 # Đề thi Thủ Đức (đề chung) — **2025**
 
 > Năm đề: **2025**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -122,4 +121,4 @@ Thí sinh trình bày đầy đủ các bước giải của Bài 4 vào chỗ t
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Thủ Đức (đề chung) — 2025**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

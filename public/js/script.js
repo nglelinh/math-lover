@@ -15,8 +15,11 @@
     }
   }
 
-  if (window.innerWidth > 1480)
-    checkbox.checked = true;
+  // Sidebar stays collapsed by default on all viewports.
+  // Users open it via the toggle control.
+  if (checkbox) {
+    checkbox.checked = false;
+  }
 
   Array.prototype.forEach.call(submenuToggles, function(button) {
     var submenuId = button.getAttribute('aria-controls');

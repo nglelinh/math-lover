@@ -1,0 +1,54 @@
+# Đề Toán vào 6 — Cầu Giấy (2025)
+
+PHẦN 1)
+
+-
+
+LŨY THỪA VỚI SỐ MŨ TỰ NHIÊN LỚP 6
+
+-
+
+CÁC PHÉP TOÁN TRÊN TẬP HỢP SỐ TỰ NHIÊN LỚP 6
+
+-
+
+MỘT SỐ BÀI TẬP VỀ ĐẾM HÌNH TỨ GIÁC
+
+Cùng em học toán >
+##
+
+PHẦN I. TRẮC NGHIỆM CHỌN ĐÁP ÁN ĐÚNG
+
+Câu 1. Làm tròn 4,65 tấn đến số tự nhiên gần nhất.
+
+Đáp án: 5 tấn.
+
+Câu 2. Tính 15 dm³ + 11 cm³ = ….
+
+A. $$\dfrac{15}{011}$$ cm³ B. 26 dm³ C. $$\dfrac{15}{110}$$ cm³ D. $$\dfrac{15}{000}$$ cm³
+
+Đáp án: A
+
+Câu 3. Quãng đường từ nhà A đến nhà B là 800 m. Trên bản đồ có tỉ lệ 1 : 20 000, quãng đường đó dài bao nhiêu?
+
+Câu 4. Tính diện tích toàn phần hình lập phương có cạnh dài 12 cm.
+
+Câu 5. Nam tung 2 đồng xu và ghi lại các trường hợp như sau: 2 cái mặt sấp 10 lần, 2 mặt ngửa 8 lần, 1 mặt sấp 1 mặt ngửa 17 lần. Tính tỷ số số lần 2 mặt sấp so với tổng số lần tung đồng xu.
+
+Câu 7. Nam có số bi xanh ít hơn số bi đỏ là 12 viên. Việt cho Nam thêm 4 viên bi xanh nên tỉ số bi xanh và bi đỏ của Nam là $$\dfrac{3}{5}$$ . Tìm số bi đỏ của Nam.
+
+Câu 8. Cho một hình thang có diện tích là 100 m², người ta kéo dài đáy lớn thêm 5 m, diện tích tăng thêm bằng $$\dfrac{1}{5}$$ diện tích hình thang. Hãy tính tổng đáy lớn và đáy bé sau khi mở rộng?
+
+PHẦN II. TỰ LUẬN
+
+Câu 9. Một tổ chức thiện nguyện phát quà tại 4 khu A, B, C và D. Ban đầu phát khu A 50 phần quà. Sau đó phát ở khu B 80% phần quà so với khu A.
+
+a) Hỏi cả hai khu A, B phát bao nhiêu phần quà?
+
+b) Khi đến khu C, đội thiện nguyện phát $$\dfrac{5}{9}$$ số quà còn lại và 5 món quà. Khi đến khu D, đội thiện nguyện phát nốt $$\dfrac{4}{5}$$ số quà còn lại và 7 phần quà thì hết. Hỏi đội thiện nguyện mang đi tất cả bao nhiêu phần quà để phát cho 4 khu?
+
+Câu 10. Một hộp đựng 1 thẻ ghi số 2, 2 thẻ ghi số 3, … và 15 thẻ ghi số 16.
+
+a) Tính tổng số thẻ trong hộp.
+
+b) Cần lấy ít nhất bao nhiêu thẻ để chắc chắn lấy được 6 thẻ có ghi số giống nhau?

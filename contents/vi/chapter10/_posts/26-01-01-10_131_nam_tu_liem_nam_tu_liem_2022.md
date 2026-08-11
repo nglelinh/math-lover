@@ -14,7 +14,6 @@ exam_year: '2022'
 # Đề thi Nam Từ Liêm — **2022**
 
 > Năm đề: **2022**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -108,4 +107,4 @@ c) Tính tỉ số S NDP S NPC
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Nam Từ Liêm — 2022**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

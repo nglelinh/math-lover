@@ -119,4 +119,4 @@ Chọn 1 đề 45 phút (NTT hoặc Giảng Võ) để làm tuần này — ghi 
 
 ## Góc cha mẹ
 
-Chương 10 dùng **đề công khai** để luyện. Ưu tiên **nhịp đều** (3–5 buổi/tuần) hơn nhồi đề sát ngày thi. Kết hợp lesson chương 01–09 khi con hổng kiến thức nền.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

@@ -92,4 +92,4 @@ Tìm BCNN của 12 và 18.
 
 ## Góc cha mẹ
 
-Chơi “săn số chia hết” trên lịch hoặc biển số xe.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

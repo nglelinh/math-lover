@@ -1,0 +1,12 @@
+# Không commit PDF/DOC đề thi bản quyền (chỉ giữ index .md)
+*.pdf
+*.doc
+*.docx
+*.zip
+*.rar
+_raw/
+_downloads/img/
+_downloads/pdf/
+_downloads/drive/
+_raw/
+*.bin

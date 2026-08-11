@@ -717,654 +717,654 @@
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-01-gioi-thieu-on-thi-lop-6",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_02_Bieu_thuc_tinh_hop_ly.md": {
     "template": "number-lab",
     "mode": "add",
     "container_id": "vi-interactive-26-01-01-10-02-bieu-thuc-tinh-hop-ly",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_03_Phan_so_thap_phan_trong_de.md": {
     "template": "fraction-lab",
     "mode": "compare",
     "container_id": "vi-interactive-26-01-01-10-03-phan-so-thap-phan-trong-de",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_04_Uoc_boi_chia_het.md": {
     "template": "number-lab",
     "mode": "divisors",
     "container_id": "vi-interactive-26-01-01-10-04-uoc-boi-chia-het",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_05_Phan_tram_ti_le.md": {
     "template": "fraction-lab",
     "mode": "percent",
     "container_id": "vi-interactive-26-01-01-10-05-phan-tram-ti-le",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_06_Bai_toan_tuoi.md": {
     "template": "balance-lab",
     "mode": "equation",
     "container_id": "vi-interactive-26-01-01-10-06-bai-toan-tuoi",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_07_Chuyen_dong.md": {
     "template": "measurement-lab",
     "mode": "time",
     "container_id": "vi-interactive-26-01-01-10-07-chuyen-dong",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_08_Hinh_hoc_dien_tich.md": {
     "template": "geometry-lab",
     "mode": "area",
     "container_id": "vi-interactive-26-01-01-10-08-hinh-hoc-dien-tich",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_09_Day_so_quy_luat.md": {
     "template": "sequence-lab",
     "mode": "pattern",
     "container_id": "vi-interactive-26-01-01-10-09-day-so-quy-luat",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_100_ltv_cg_cau_giay_2012_2013.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-100-ltv-cg-cau-giay-2012-2013",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_101_ltv_cg_cau_giay_2019.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-101-ltv-cg-cau-giay-2019",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_102_ltv_cg_cau_giay_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-102-ltv-cg-cau-giay-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_103_ltv_cg_cau_giay_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-103-ltv-cg-cau-giay-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_104_ltv_cg_cau_giay_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-104-ltv-cg-cau-giay-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_105_ltv_cg_cau_giay_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-105-ltv-cg-cau-giay-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_106_ltv_cg_cau_giay_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-106-ltv-cg-cau-giay-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_107_ltv_cg_cau_giay_2025.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-107-ltv-cg-cau-giay-2025",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_108_ltv_cg_cau_giay_2025_2026.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-108-ltv-cg-cau-giay-2025-2026",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_109_ltv_cg_ltv_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-109-ltv-cg-ltv-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_10_An_so_logic_luoi_so.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-10-an-so-logic-luoi-so",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_110_ltv_cg_ltv_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-110-ltv-cg-ltv-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_110_thanh_xuan_thanh_xuan_2019.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-110-thanh-xuan-thanh-xuan-2019",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_111_ltv_cg_ltv_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-111-ltv-cg-ltv-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_111_thanh_xuan_thanh_xuan_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-111-thanh-xuan-thanh-xuan-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_112_thanh_xuan_thanh_xuan_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-112-thanh-xuan-thanh-xuan-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_113_thanh_xuan_thanh_xuan_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-113-thanh-xuan-thanh-xuan-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_114_thanh_xuan_thanh_xuan_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-114-thanh-xuan-thanh-xuan-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_115_thanh_xuan_thanh_xuan_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-115-thanh-xuan-thanh-xuan-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_11_Ky_nang_lam_bai_thi.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-11-ky-nang-lam-bai-thi",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_120_archimedes_archimedes_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-120-archimedes-archimedes-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_121_archimedes_archimedes_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-121-archimedes-archimedes-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_122_archimedes_archimedes_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-122-archimedes-archimedes-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_123_archimedes_archimedes_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-123-archimedes-archimedes-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_12_De_Tran_Dai_Nghia.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-12-de-tran-dai-nghia",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_130_nam_tu_liem_nam_tu_liem_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-130-nam-tu-liem-nam-tu-liem-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_131_nam_tu_liem_nam_tu_liem_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-131-nam-tu-liem-nam-tu-liem-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_132_nam_tu_liem_nam_tu_liem_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-132-nam-tu-liem-nam-tu-liem-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_133_nam_tu_liem_nam_tu_liem_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-133-nam-tu-liem-nam-tu-liem-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_13_De_CLC_TP_HCM_Thu_Duc.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-13-de-clc-tp-hcm-thu-duc",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_140_ngoai_ngu_ngoai_ngu_2019.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-140-ngoai-ngu-ngoai-ngu-2019",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_141_ngoai_ngu_ngoai_ngu_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-141-ngoai-ngu-ngoai-ngu-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_142_ngoai_ngu_ngoai_ngu_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-142-ngoai-ngu-ngoai-ngu-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_14_De_Nguyen_Tat_Thanh.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-14-de-nguyen-tat-thanh",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_150_lvt_le_van_thiem_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-150-lvt-le-van-thiem-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_151_lvt_le_van_thiem_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-151-lvt-le-van-thiem-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_152_lvt_le_van_thiem_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-152-lvt-le-van-thiem-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_15_De_Amsterdam_AMS.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-15-de-amsterdam-ams",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_16_De_Marie_Curie_Giang_Vo.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-16-de-marie-curie-giang-vo",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_17_De_LTV_Cau_Giay.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-17-de-ltv-cau-giay",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_18_On_tap_tong_hop_vao_6.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-18-on-tap-tong-hop-vao-6",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_19_Muc_luc_de_truong_khac.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-19-muc-luc-de-truong-khac",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_20_tdn_tdn_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-20-tdn-tdn-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_21_tdn_tdn_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-21-tdn-tdn-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_22_tdn_tdn_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-22-tdn-tdn-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_23_tdn_tdn_2025.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-23-tdn-tdn-2025",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_24_tdn_tdn_2026.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-24-tdn-tdn-2026",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_30_thuduc__chung_thu_duc_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-30-thuduc-chung-thu-duc-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_31_thuduc__chung_thu_duc_2025.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-31-thuduc-chung-thu-duc-2025",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_32_thuduc_hoa_lu_2025.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-32-thuduc-hoa-lu-2025",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_33_thuduc_nguyen_an_khuong_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-33-thuduc-nguyen-an-khuong-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_34_thuduc_tran_quoc_toan_1_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-34-thuduc-tran-quoc-toan-1-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_35_thuduc_tran_quoc_toan_1_2025.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-35-thuduc-tran-quoc-toan-1-2025",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_40_ntt_ntt_2007.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-40-ntt-ntt-2007",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_41_ntt_ntt_2008.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-41-ntt-ntt-2008",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_42_ntt_ntt_2009.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-42-ntt-ntt-2009",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_43_ntt_ntt_2010.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-43-ntt-ntt-2010",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_44_ntt_ntt_2011.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-44-ntt-ntt-2011",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_45_ntt_ntt_2012.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-45-ntt-ntt-2012",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_46_ntt_ntt_2013.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-46-ntt-ntt-2013",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_47_ntt_ntt_2014.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-47-ntt-ntt-2014",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_48_ntt_ntt_2018.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-48-ntt-ntt-2018",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_49_ntt_ntt_2018_2019.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-49-ntt-ntt-2018-2019",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_50_ntt_ntt_2019.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-50-ntt-ntt-2019",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_51_ntt_ntt_2019_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-51-ntt-ntt-2019-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_52_ntt_ntt_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-52-ntt-ntt-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_53_ntt_ntt_2020_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-53-ntt-ntt-2020-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_54_ntt_ntt_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-54-ntt-ntt-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_55_ntt_ntt_2021_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-55-ntt-ntt-2021-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_56_ntt_ntt_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-56-ntt-ntt-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_57_ntt_ntt_2022_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-57-ntt-ntt-2022-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_58_ntt_ntt_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-58-ntt-ntt-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_59_ntt_ntt_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-59-ntt-ntt-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_60_ntt_ntt_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-60-ntt-ntt-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_61_ntt_ntt_2025.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-61-ntt-ntt-2025",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_70_ams_ams_2005.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-70-ams-ams-2005",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_71_ams_ams_2006.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-71-ams-ams-2006",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_72_ams_ams_2007.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-72-ams-ams-2007",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_73_ams_ams_2008.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-73-ams-ams-2008",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_74_ams_ams_2009.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-74-ams-ams-2009",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_75_ams_ams_2010.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-75-ams-ams-2010",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_76_ams_ams_2011.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-76-ams-ams-2011",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_77_ams_ams_2012.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-77-ams-ams-2012",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_78_ams_ams_2013.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-78-ams-ams-2013",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_79_ams_ams_2014.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-79-ams-ams-2014",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_80_ams_ams_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-80-ams-ams-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_81_ams_ams_2020_2021.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-81-ams-ams-2020-2021",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_82_ams_ams_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-82-ams-ams-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_83_ams_ams_2022_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-83-ams-ams-2022-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_84_ams_ams_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-84-ams-ams-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_85_ams_ams_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-85-ams-ams-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_86_ams_ams_mau.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-86-ams-ams-mau",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_90_mc_gv_giang_vo_2010.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-90-mc-gv-giang-vo-2010",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_91_mc_gv_giang_vo_mau.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-91-mc-gv-giang-vo-mau",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_92_mc_gv_marie_curie_2009.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-92-mc-gv-marie-curie-2009",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_93_mc_gv_marie_curie_2020.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-93-mc-gv-marie-curie-2020",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_94_mc_gv_marie_curie_2022.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-94-mc-gv-marie-curie-2022",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_95_mc_gv_marie_curie_2023.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-95-mc-gv-marie-curie-2023",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_96_mc_gv_marie_curie_2023_2024.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-96-mc-gv-marie-curie-2023-2024",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   },
   "contents/vi/chapter10/_posts/26-01-01-10_97_mc_gv_marie_curie_mau.md": {
     "template": "challenge-lab",
     "mode": "review",
     "container_id": "vi-interactive-26-01-01-10-97-mc-gv-marie-curie-mau",
-    "guidance": "Em làm nội dung trong bài rồi tự giải thích một ý quan trọng."
+    "guidance": "Em đọc đề trong bài, làm timed, rồi chữa các câu sai."
   }
 }

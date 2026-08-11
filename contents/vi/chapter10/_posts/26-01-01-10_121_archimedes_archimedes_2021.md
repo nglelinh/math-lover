@@ -14,7 +14,6 @@ exam_year: '2021'
 # Đề thi Archimedes — **2021**
 
 > Năm đề: **2021**  
-> Nội dung đề nằm **trong bài học này** (không cần mở thư mục ngoài).
 
 ---
 
@@ -126,4 +125,4 @@ Câu 14. Cho số A = 206920692069…2069 (A gồm 250 số 2069 viết liền n
 
 ## Góc cha mẹ
 
-Giữ bài làm có tiêu đề **Archimedes — 2021**. Ưu tiên chữa lỗi lặp hơn làm thêm đề mới.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

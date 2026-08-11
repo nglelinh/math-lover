@@ -60,3 +60,7 @@ yarn-error.log*
 .env.local
 .env.*.local
 
+
+# Grade-6 exam intermediate downloads (local OCR/PDF cache)
+on-thi-lop-6/de-thi/_downloads/
+on-thi-lop-6/**/__pycache__/

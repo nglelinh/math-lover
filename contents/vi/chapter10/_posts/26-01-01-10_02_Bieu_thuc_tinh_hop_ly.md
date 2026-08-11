@@ -97,4 +97,4 @@ Tự viết 1 biểu thức “bẫy” cho bạn (có nhân và cộng).
 
 ## Góc cha mẹ
 
-Cho con **nói to thứ tự** trước khi bấm/tính. Khen cách nhóm số, không chỉ đáp số đúng.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

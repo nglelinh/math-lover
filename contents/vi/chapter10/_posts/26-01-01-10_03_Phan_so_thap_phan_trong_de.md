@@ -91,4 +91,4 @@ Viết $$0{,}36$$ thành phân số tối giản.
 
 ## Góc cha mẹ
 
-Luyện **so sánh phân số bằng hình** (bánh, thanh) trước khi chỉ dùng quy đồng.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

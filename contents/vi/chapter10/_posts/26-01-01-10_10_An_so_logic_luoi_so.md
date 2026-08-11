@@ -89,4 +89,4 @@ Tự lập 1 lưới 3×3 tổng mỗi hàng 12.
 
 ## Góc cha mẹ
 
-Chơi sudoku đơn giản / đố chữ số cùng con.
+Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Ưu tiên chữa lỗi lặp hơn làm dồn nhiều đề mới.

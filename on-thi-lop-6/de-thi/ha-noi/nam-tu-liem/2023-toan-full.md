@@ -1,0 +1,61 @@
+# Đề Toán vào 6 — Nam Từ Liêm (2023)
+
+PHẦN 1. TRẮC NGHIỆM
+
+Câu 1 . Trung bình cộng của dãy số sau là bao nhiêu?
+
+15 ; 45 ; 75
+
+Câu 2 . Số   $$\overline {2a1a}$$  chia hết cho 9. Tìm a.
+
+Câu 3 . Hoa mua một quyển sách được giảm 10% thì hết 72 000 đồng. Hỏi giá gốc của quyển sách là bao nhiêu?
+
+Câu 4 . Năm nay, mẹ hơn con 25 tuổi. Hai năm nữa, tuổi con bằng $$\dfrac{1}{6}$$ tuổi mẹ. Tính tuổi con hiện nay.
+
+Câu 5 . Một bể nước hình chữ nhật có chiều dài 50m, chiều rộng 30m. Thể tích nước trong bể là 2 $$100\,\mathrm{m}^{3}$$. Tính chiều cao mực nước trong bể.
+
+Câu 6 . Tổng số sách trong 2 ngăn là 48 quyển. Sau khi chuyển 3 quyển từ ngăn 1 sang ngăn 2 thì số sách ngăn 1 bằng $$\dfrac{3}{5}$$ số sách ngăn 2. Tìm số sách ngăn 2.
+
+Câu 7 . Tính diện tích hình tô đậm.
+
+Câu 8 . An viết tất cả các số có 3 chữ số mà có đầy đủ các chữ số 1, 2, 3. Hỏi có bao nhiêu số lớn hơn 222 mà An có thể viết được.
+
+Câu 9 . Tìm số bé nhất có 3 chữ số, khi xóa chữ số hàng trăm của số đó, ta được số mới bằng $$\dfrac{1}{9}$$ số cũ.
+
+Câu 10 . Hình dưới có bao nhiêu hình vuông?
+
+## PHẦN 2. TỰ LUẬN
+
+Câu 1
+
+a) Tính nhanh: 2,4 x 150 + 8,6 x 240 – 24
+
+b)
+
+c) Quãng đường AB dài 75 km. An xuất phát từ A và Bình xuất phát từ B thì hai người gặp nhau sau giờ. Nếu Bình tăng vận tốc thêm 3 km mỗi giờ thì hai bạn sẽ gặp nhau ở chính giữa quãng đường. Tính vận tốc của mỗi người.
+
+Câu 2 . Cho tam giác ABC có diện tích bằng $$90\,\mathrm{cm}^{2}$$. Trên cạnh AC lấy điểm M sao cho AM = 2 MC. Lấy I là trung điểm của BM. Kéo dài AI cắt BC tại K.
+
+a) Tính diện tích tam giác BMC.
+
+b) Tính tỉ số diện tích hai tam giác ABI và BIC
+
+c) So sánh BK/KC
+
+## Hình minh họa
+
+*(Ảnh trang đề / scan — có thể là cả trang)*
+
+![2023-de-1](hinh/2023-de-1.png)
+
+![2023-de-2](hinh/2023-de-2.png)
+
+![2023-de-3](hinh/2023-de-3.png)
+
+![2023-de-4](hinh/2023-de-4.png)
+
+![2023-de-5](hinh/2023-de-5.png)
+
+![2023-de-6](hinh/2023-de-6.png)
+
+![2023-de-7](hinh/2023-de-7.png)

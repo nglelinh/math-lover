@@ -1,0 +1,33 @@
+# Đề mẫu Toán vào 6 — Amsterdam (HoaTieu tổng hợp, dạng tự luận khó)
+
+> Lưu ý: Đây là mẫu đề trong bộ tổng hợp (có thể khác năm). Dùng luyện nâng cao.
+
+## 1. Đề thi vào lớp 6 trường chuyên Amsterdam
+
+PHẦN I - TRẮC NGHIỆM
+
+Bài 1: Tính: $$S=\frac{1}{5x9}+\frac{1}{9x13}+\frac{1}{13x17}...+\frac{1}{41x45}$$
+
+Bài 2: Một đoàn tàu đánh cá có 400 chiếc tàu, gồm 2 loại: Loại tàu nhỉ thì mỗi tàu có 15 ngư dân làm việc và loại tàu lớn thì mỗi tàu có 18 ngư dân làm việc. Tổng cộng số ngư dân trên 45 chiếc tàu là 789 người. Hỏi có bao nhiêu tàu lớn?
+
+Bài 3: Một hình hộp chữ nhật có số đo chiều rộng, chiều dài, chiều cao (tính theo dm) là 3 số tự nhiên liên tiếp. Nếu giảm độ dài chiều cao đi 2dm thì diện tích xung quanh của hình hộp mới bằng 60% diện tích xung quanh của hình hộp ban đầu. Tính thể tích của hình hộp chữ nhật ban đầu.
+
+Bài 4: Một bà mẹ có 1 con gái và 1 con trai, Năm nay mẹ 32 tuổi, con gái 6 tuổi và con trai 2 tuổi. Sau bao nhiêu năm nữa thì số tuổi của mẹ gấp rưỡi tổng số tuổi của cả 2 con ?
+
+Bài 5: Cho 4 hình tròn, mỗi hình tròn được chia thành 5 phần như hình vẽ. Người ta điền các số tự nhiên 5 ;6 ;7 ;...19 ;20 vào mỗi phần sao cho 2 phần khác nhau được điền 2 số khác nhau. Biết rằng tổng các số điền trong các phần của mỗi hình tròn bằng 60. Tính tổng 4 số được điền ở 4 phần có ký hiệu A, B, C, D.
+
+Bài 6: Một ô tô đi từ A đến B với vận tốc dự định và trong 1 thời gian dự định. Sau khi đi được 1 giờ thì ô tô giảm vận tốc chỉ còn bằng 80% vận tốc ban đầu nên đến B chậm 1 giờ so với dự định. Nếu từ A sau khi đi được 1 giờ, ô tô lại đi thêm 80km nữa mới giảm vận tốc còn bằng 80% so với vận tốc ban đầu thì ô tô đến B chỉ chậm 36 phút so với thời gian dự định. Tính quãng đường AB.
+
+Bài 7: Cho 14 số tự nhiên khác 0 và không có 2 số nào bằng nhau. Biết tổng của chúng bằng 106. Tìm số lớn nhất trong các số trên.
+
+Bài 8: Cho hình bình hành ABCD. Gọi P là điểm chính giữa của BC, Q là điểm chính giữa của DC, I là điểm thuộc đoạn DC sao cho DC = 3 IC. Hai đoạn PQ và BI cắt nhau ở O. Tính diện tích tam giác APQ khi biết diện tích tam giác OPI bằng $$3\,\mathrm{cm}^{2}$$
+
+Bài 9: Một công việc nếu đội thứ nhất làm một mình thì hoàn thành trong 30 giờ, nếu đội thứ hai làm một mình thì hoàn thành trong 12 giờ. Cũng công việc đó khi đội thứ nhất làm trong 1 thời gian rồi nghỉ và đội thứ 2 làm tiếp thì tổng số thời gian 2 đội hoàn thành công việc là 18 giờ. Hỏi khi đó thì đội thứ 2 đã làm trong bao nhiêu giờ ?
+
+Bài 10: Cho số tự nhiên có 2014 chữ số. Biết rằng với 2 chữ số liên tiếp theo thứ tự đã viết thì tạo thành số có hai chữ số chia hết cho 17 hoặc chia hết cho 23. Nếu chữ số cuối cùng của số đó là chữ số 1 thì chữ số đầu tiên là chữ số nào?
+
+PHẦN II – TỰ LUẬN
+
+Bài 1: Chứng minh nếu có n số tự nhiên có tích bằng n và có tổng bằng 2012 thì n chia hết cho 4.
+
+Bài 2: Cho tam giác ABC có diện tích $$600\,\mathrm{cm}^{2}$$ . Trên cạnh BC lấy các điểm M và N sao cho BM = CN = (1/4)BC. Trên cạnh AB lấy điểm E, trên cạnh AC lấy điểm F sao cho ACME là hình thang có đáy là AC và ME; ABNF là hình thang có đáy là AB và NF. Kéo dài EM và FN cắt nhau tại K. Tính diện tích hình thang ABKC.
