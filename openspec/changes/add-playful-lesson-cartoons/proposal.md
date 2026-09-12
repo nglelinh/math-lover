@@ -1,4 +1,6 @@
 ## Why
+Note: independent of the 2026-09 chapter-id hygiene (Ch.09 = combinatorics; everyday-life and applied-math tracks are planned as Ch.11 and Ch.12).
+
 Vietnamese lessons already use static illustrations and some interactive elements, but they rarely include playful character-driven moments that make the pages feel lively for children. We need a small, repeatable way to add funny cartoons to Vietnamese lessons without turning the pages into distraction-heavy decoration.
 
 ## What Changes
