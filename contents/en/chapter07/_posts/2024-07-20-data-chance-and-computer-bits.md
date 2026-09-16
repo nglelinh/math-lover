@@ -7,6 +7,7 @@ owner: Math-Lover Team
 lang: en
 categories: [chapter07]
 lesson_type: optional
+modern_apps: true
 ---
 ## Hook
 
