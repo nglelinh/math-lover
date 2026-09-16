@@ -15,7 +15,7 @@ A news chart, a board-game die, and a light switch walk into the same afternoon.
 
 One shows **how many**. One shows **how likely**. One stores **on or off**.
 
-That trio is Chapter 7 in kid clothes. English core lessons are still on the way; this optional note lets you peek at the ideas now.
+That trio is Chapter 7 in kid clothes. The core path already teaches chance, charts, and binary; this optional note ties those ideas to news, games, and daily screens.
 
 ![Data bars, a coin, and bit lights]({{ site.baseurl }}/img/chapter_img/chapter07/90_data_bits.svg)
 
@@ -160,4 +160,4 @@ Build 22 with cards 16, 8, 4, 2, 1. Then design a 2-question class poll and sket
 
 ## Parent Corner
 
-Vietnamese Chapter 7 already covers probability, charts, and binary. This English note is a short companion, not a full translation. Keep games about fairness, not prizes. Full English core lessons will follow on this chapter page.
+Vietnamese Chapter 7 and the English core path already cover probability, charts, and binary. This note is a short daily-life companion, not a replacement. Keep games about fairness, not prizes.
