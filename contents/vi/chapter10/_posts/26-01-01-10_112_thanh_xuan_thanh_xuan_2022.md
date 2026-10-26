@@ -79,6 +79,16 @@ Câu 2. Tính A, biết A = 6 1 × 3 + 6 3 × 5 + . . . + 6 97 × 99
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-92 Đề Thanh Xuân — 2022».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Xem để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-92 Đề Thanh Xuân — 2022».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-92 Đề Thanh Xuân — 2022».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

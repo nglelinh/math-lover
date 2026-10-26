@@ -161,17 +161,15 @@ Level 4: If 2 painters need 12 hours, how long do 6 painters need? What hidden a
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Ratios and Proportions — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-2. [Proportions — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
-3. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. **xem trước**. Watch this first for ratios and rates as a relationship between two numbers; it supports «Direct and Inverse Proportion - Growing Together or Opposite».
+- [Math Antics - Proportions](https://www.youtube.com/watch?v=USmit5zUGas) — mathantics, English. Watch for direct proportion, when both amounts scale together; it supports «Direct and Inverse Proportion - Growing Together or Opposite».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Direct and Inverse Proportion - Growing Together or Opposite».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

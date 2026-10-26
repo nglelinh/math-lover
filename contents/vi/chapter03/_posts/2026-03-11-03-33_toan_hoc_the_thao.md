@@ -242,12 +242,11 @@ Huấn luyện viên dùng toán học để:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-3. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Xem trước để nắm phép nhân cơ bản; phần này gắn với bài «07-33 Toán Học Trong Thể Thao».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Xem để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «07-33 Toán Học Trong Thể Thao».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Xem để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «07-33 Toán Học Trong Thể Thao».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Câu Hỏi Suy Nghĩ
 

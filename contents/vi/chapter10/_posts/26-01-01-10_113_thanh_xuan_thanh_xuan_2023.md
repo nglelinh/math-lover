@@ -63,6 +63,16 @@ Bài 16: Bác Thanh đi từ A đến B. Nếu đi với vận tốc 30km/giờ 
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. **xem trước**. Xem trước để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-93 Đề Thanh Xuân — 2023».
+- [Math Antics - Units of Distance](https://www.youtube.com/watch?v=cKbmvLv-FRo) — mathantics, English. Xem để nắm đơn vị đo độ dài và cách đổi đơn vị; phần này gắn với bài «10-93 Đề Thanh Xuân — 2023».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Xem để nắm tỷ số và tỷ lệ là mối quan hệ giữa hai số; phần này gắn với bài «10-93 Đề Thanh Xuân — 2023».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

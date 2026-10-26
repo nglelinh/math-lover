@@ -322,16 +322,15 @@ Now get creative!
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Fractions Are Parts — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
-2. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
-3. [Fractions on the Number Line — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+- [Math Antics - Fractions Are Parts](https://www.youtube.com/watch?v=CA9XLJpQp3c) — mathantics, English. **xem trước**. Watch this first for fractions as equal parts of a whole; it supports «Thirds and Sixths - More Ways to Share».
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. Watch for what a fraction means; it supports «Thirds and Sixths - More Ways to Share».
+- [Fractions on the Number Line - Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — mathantics, English. Watch for placing fractions on a number line; it supports «Thirds and Sixths - More Ways to Share».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

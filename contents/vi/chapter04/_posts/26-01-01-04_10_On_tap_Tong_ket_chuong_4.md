@@ -153,12 +153,11 @@ Một quyển sách giá 80.000 đ, giảm 15%. Giá mới?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phân số là các phần — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
-2. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
-3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+- [Math Antics - Fractions Are Parts](https://www.youtube.com/watch?v=CA9XLJpQp3c) — mathantics, English. **xem trước**. Xem trước để nắm phân số là các phần bằng nhau của một cái nguyên; phần này gắn với bài «04-10 Ôn tập - Tổng kết chương 4».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm khái niệm phân số lớp 4; phần này gắn với bài «04-10 Ôn tập - Tổng kết chương 4».
+- [Toán Lớp 3 - Phương Pháp Chia Tư Duy| #toancohien #hocphepchia #toantuduy #giaitoanthongminh](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN, tiếng Việt. Xem để nắm cách chia theo tư duy, không chỉ thuộc lòng; phần này gắn với bài «04-10 Ôn tập - Tổng kết chương 4».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

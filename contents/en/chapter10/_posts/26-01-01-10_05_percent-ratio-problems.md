@@ -36,6 +36,16 @@ Increase 10% then decrease 10% does **not** return to the start.
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Watch this first for percent as parts out of 100; it supports «10-05 Percent & Ratio Problems».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Watch for ratios and rates as a relationship between two numbers; it supports «10-05 Percent & Ratio Problems».
+- [Math Antics - Proportions](https://www.youtube.com/watch?v=USmit5zUGas) — mathantics, English. Watch for direct proportion, when both amounts scale together; it supports «10-05 Percent & Ratio Problems».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. Increase 150 by 20%.  

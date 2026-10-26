@@ -150,16 +150,15 @@ See how useful skip counting by 5s is in real life?
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Intro to multiplication — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy
-3. [Multiply and Divide by Powers of 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Watch this first for basic multiplication; it supports «Skip Counting by 5s - The Handy Five Times Table».
+- [Intro to multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy, English. Watch for multiplication as repeated addition; it supports «Skip Counting by 5s - The Handy Five Times Table».
+- [Multiply and Divide by Powers of 10 - Math Antics Extras](https://www.youtube.com/watch?v=qJB19dAZPpY) — mathantics, English. Watch for multiplying and dividing by 10, 100, and 1000; it supports «Skip Counting by 5s - The Handy Five Times Table».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

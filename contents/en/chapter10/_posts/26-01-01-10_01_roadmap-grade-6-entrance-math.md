@@ -48,6 +48,16 @@ Write on every practice sheet: **School + Year** (e.g. **NTT 2023**, **TDN 2024*
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. **xem trước**. Watch this first for what a fraction means; it supports «10-01 Roadmap: Grade 6 Entrance Math».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Watch for area as the squares that cover a shape; it supports «10-01 Roadmap: Grade 6 Entrance Math».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «10-01 Roadmap: Grade 6 Entrance Math».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. List 5 exam topics you will review first.  

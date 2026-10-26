@@ -85,6 +85,16 @@ Checklist 5/8 → ưu tiên 3 mục trống trước khi mock thêm.
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. **xem trước**. Xem trước để nắm thứ tự làm phép tính trong một biểu thức; phần này gắn với bài «10-18 Ôn tập tổng hợp — Sẵn sàng vào 6».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm khái niệm phân số lớp 4; phần này gắn với bài «10-18 Ôn tập tổng hợp — Sẵn sàng vào 6».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Xem để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «10-18 Ôn tập tổng hợp — Sẵn sàng vào 6».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

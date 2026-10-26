@@ -310,6 +310,16 @@ Hỏi phải mở rộng cạnh đáy thêm **mấy mét** nữa để được 
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Watch this first for area as the squares that cover a shape; it supports «10-13 Thu Duc & HCMC CLC Papers (2023–2025)».
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. Watch for counting dollars and cents; it supports «10-13 Thu Duc & HCMC CLC Papers (2023–2025)».
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. Watch for divisibility tests, including adding the digits; it supports «10-13 Thu Duc & HCMC CLC Papers (2023–2025)».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Start with the most recent 2–3 years.

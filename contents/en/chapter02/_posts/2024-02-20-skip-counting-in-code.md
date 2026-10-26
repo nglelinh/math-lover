@@ -124,17 +124,15 @@ That is skip counting by 10s, the “magic zero” pattern, written as a loop.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Getting Started with Scratch — Scratch Team](https://www.youtube.com/watch?v=9jTPZfhuVro)
-2. [Intro to multiplication — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo)
-3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI)
+- [Getting Started with Scratch](https://www.youtube.com/watch?v=9jTPZfhuVro) — Scratch Team, English. **xem trước**. Watch this first for the basic blocks when starting to code; it supports «Optional — Skip Counting Is a Coding Loop».
+- [Intro to multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy, English. Watch for multiplication as repeated addition; it supports «Optional — Skip Counting Is a Coding Loop».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Optional — Skip Counting Is a Coding Loop».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

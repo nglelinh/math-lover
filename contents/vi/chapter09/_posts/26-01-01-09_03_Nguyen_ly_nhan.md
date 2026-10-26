@@ -127,11 +127,11 @@ Phân biệt: “3 súp hoặc 4 salad” với “3 súp và 4 salad trong mộ
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Giới thiệu phép nhân — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy
-3. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Xem trước để nắm phép nhân cơ bản; phần này gắn với bài «09-03 Chọn bước này VÀ bước kia — Nguyên lý nhân».
+- [Intro to multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy, English. Xem để nắm ý nghĩa phép nhân là cộng lặp lại; phần này gắn với bài «09-03 Chọn bước này VÀ bước kia — Nguyên lý nhân».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Xem để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «09-03 Chọn bước này VÀ bước kia — Nguyên lý nhân».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

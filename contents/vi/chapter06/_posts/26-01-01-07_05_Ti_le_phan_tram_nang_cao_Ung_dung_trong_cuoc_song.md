@@ -127,12 +127,11 @@ Gửi 20.000.000 đ, lãi suất 6%/năm. Sau 3 năm được bao nhiêu tiền 
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-2. [Tiền đô-la và xu — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
-3. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Xem trước để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «05-11 Tỉ lệ phần trăm nâng cao - Ứng dụng trong cuộc sống».
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. Xem để nắm cách tính tiền đô-la và xu; phần này gắn với bài «05-11 Tỉ lệ phần trăm nâng cao - Ứng dụng trong cuộc sống».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Xem để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «05-11 Tỉ lệ phần trăm nâng cao - Ứng dụng trong cuộc sống».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

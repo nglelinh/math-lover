@@ -143,10 +143,9 @@ Hãy cùng khám phá!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
-2. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
-3. [Tiền đô-la và xu — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
+- [Math Antics - Measuring Distance](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — mathantics, English. **xem trước**. Xem trước để nắm cách đo độ dài; phần này gắn với bài «07-46 Toán Học Trong Du Lịch».
+- [Math Antics - Telling Time](https://www.youtube.com/watch?v=QU-XUmujbuM) — mathantics, English. Xem để nắm cách đọc kim đồng hồ; phần này gắn với bài «07-46 Toán Học Trong Du Lịch».
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. Xem để nắm cách tính tiền đô-la và xu; phần này gắn với bài «07-46 Toán Học Trong Du Lịch».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

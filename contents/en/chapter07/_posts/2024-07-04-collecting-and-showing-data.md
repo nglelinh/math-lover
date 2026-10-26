@@ -174,17 +174,15 @@ Level 4: Collect one home data set (hours of sleep, fruit in the bowl, or books 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Data And Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [Graphing On The Coordinate Plane — Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — Math Antics
-3. [Statistics intro: Mean, median, and mode — Khan Academy](https://www.youtube.com/watch?v=h8EYEJ32oQ8) — Khan Academy
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Watch this first for how to read graphs and data tables; it supports «Collecting and Showing Data - Like a Scientist».
+- [Algebra Basics: Graphing On The Coordinate Plane - Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — mathantics, English. Watch for reading a point on the coordinate plane; it supports «Collecting and Showing Data - Like a Scientist».
+- [Statistics intro: Mean, median, and mode | Data and statistics | 6th grade | Khan Academy](https://www.youtube.com/watch?v=h8EYEJ32oQ8) — Khan Academy, English. Watch for mean, median, and mode; it supports «Collecting and Showing Data - Like a Scientist».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

@@ -185,17 +185,15 @@ Level 4: If one extra bit doubles the number of patterns, how many patterns can 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Introduction to number systems and binary — Khan Academy](https://www.youtube.com/watch?v=ku4KOFQ-bB4) — Khan Academy
-2. [The binary number system — Khan Academy](https://www.youtube.com/watch?v=sXxwr66Y79Y) — Khan Academy
-3. [Decimal Place Value — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
+- [Introduction to number systems and binary | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=ku4KOFQ-bB4) — Khan Academy, English. **xem trước**. Watch this first for number systems and binary; it supports «Binary Codes - How Computers Count».
+- [The binary number system](https://www.youtube.com/watch?v=sXxwr66Y79Y) — Khan Academy Computing, English. Watch for the binary system using the digits 0 and 1; it supports «Binary Codes - How Computers Count».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Watch for decimal place value; it supports «Binary Codes - How Computers Count».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

@@ -154,12 +154,11 @@ c) 24,8 : 8
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
-2. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. **xem trước**. Xem trước để nắm cộng, trừ, nhân, chia số thập phân; phần này gắn với bài «05-05 Nhân chia số thập phân - Nhân và chia các số có phẩy».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Xem để nắm hàng của số thập phân; phần này gắn với bài «05-05 Nhân chia số thập phân - Nhân và chia các số có phẩy».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «05-05 Nhân chia số thập phân - Nhân và chia các số có phẩy».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

@@ -73,6 +73,16 @@ Quãng đường AB dài 240 km. 1 xe tải đi từ A đến B, 1 xe khách đi
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. **xem trước**. Xem trước để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-106 Đề Ngoại ngữ — 2023».
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-106 Đề Ngoại ngữ — 2023».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-106 Đề Ngoại ngữ — 2023».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

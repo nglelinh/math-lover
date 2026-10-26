@@ -144,12 +144,11 @@ b) Từ 8 giờ sáng đến 2 giờ chiều là bao nhiêu giờ?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
-2. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
-3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+- [Math Antics - Telling Time](https://www.youtube.com/watch?v=QU-XUmujbuM) — mathantics, English. **xem trước**. Xem trước để nắm cách đọc kim đồng hồ; phần này gắn với bài «05-15 Thời gian - Xem đồng hồ và lịch».
+- [Math Antics - Measuring Distance](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — mathantics, English. Xem để nắm cách đo độ dài; phần này gắn với bài «05-15 Thời gian - Xem đồng hồ và lịch».
+- [Toán Lớp 3 - Phương Pháp Chia Tư Duy| #toancohien #hocphepchia #toantuduy #giaitoanthongminh](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN, tiếng Việt. Xem để nắm cách chia theo tư duy, không chỉ thuộc lòng; phần này gắn với bài «05-15 Thời gian - Xem đồng hồ và lịch».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

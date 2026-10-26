@@ -132,17 +132,15 @@ A computer can store each flip as 1 or 0.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [The binary number system — Khan Academy](https://www.youtube.com/watch?v=sXxwr66Y79Y)
-2. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk)
-3. [Data and Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38)
+- [The binary number system](https://www.youtube.com/watch?v=sXxwr66Y79Y) — Khan Academy Computing, English. **xem trước**. Watch this first for the binary system using the digits 0 and 1; it supports «Optional — Data in Daily Life, Chance in Games, Computer Bits».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Watch for probability as how likely an outcome is; it supports «Optional — Data in Daily Life, Chance in Games, Computer Bits».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Watch for how to read graphs and data tables; it supports «Optional — Data in Daily Life, Chance in Games, Computer Bits».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

@@ -121,17 +121,15 @@ They line up every 24 seconds.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Prime numbers — Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M)
-2. [LCM: Prime Factorization — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4)
-3. [GCF: Greatest Common Factor — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y)
+- [Prime numbers | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M) — Khan Academy, English. **xem trước**. Watch this first for a prime as a number with only two factors; it supports «Optional — Number Locks, Shared Beats, and Secret Codes».
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. Watch for finding a least common multiple with prime factors; it supports «Optional — Number Locks, Shared Beats, and Secret Codes».
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. Watch for how to find a greatest common factor; it supports «Optional — Number Locks, Shared Beats, and Secret Codes».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

@@ -145,12 +145,11 @@ c) 2t = ? kg
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
-2. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
-3. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+- [Math Antics - Measuring Distance](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — mathantics, English. **xem trước**. Xem trước để nắm cách đo độ dài; phần này gắn với bài «05-13 Đo lường - Đơn vị đo độ dài và khối lượng».
+- [Math Antics - Telling Time](https://www.youtube.com/watch?v=QU-XUmujbuM) — mathantics, English. Xem để nắm cách đọc kim đồng hồ; phần này gắn với bài «05-13 Đo lường - Đơn vị đo độ dài và khối lượng».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Xem để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «05-13 Đo lường - Đơn vị đo độ dài và khối lượng».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

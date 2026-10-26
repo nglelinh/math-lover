@@ -79,6 +79,16 @@ Tìm lỗi: có bạn làm $$3 + 4 \times 2 = 14$$. Em sửa thế nào?
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. **xem trước**. Xem trước để nắm thứ tự làm phép tính trong một biểu thức; phần này gắn với bài «10-02 Biểu thức số & tính hợp lý».
+- [Order of Operations: A Step-By-Step Guide | PEMDAS | Math with Mr. J](https://www.youtube.com/watch?v=x41BCrYh8Kc) — Math with Mr. J, English. Xem để nắm thứ tự ngoặc, nhân-chia, rồi cộng-trừ; phần này gắn với bài «10-02 Biểu thức số & tính hợp lý».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Xem để nắm cộng, trừ, nhân, chia số thập phân; phần này gắn với bài «10-02 Biểu thức số & tính hợp lý».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

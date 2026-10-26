@@ -134,12 +134,11 @@ Trong hộp có 4 bóng đỏ, 6 bóng xanh. Xác suất rút được bóng đ�
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-2. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. **xem trước**. Xem trước để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «08-02 Xác suất - Khả năng xảy ra của sự kiện».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Xem để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «08-02 Xác suất - Khả năng xảy ra của sự kiện».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «08-02 Xác suất - Khả năng xảy ra của sự kiện».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

@@ -151,12 +151,11 @@ c) 5/6 - 1/3
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Cộng trừ phân số — Math Antics](https://www.youtube.com/watch?v=5juto2ze8Lg) — Math Antics
-2. [Phân số là gì? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
-3. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+- [Math Antics - Adding and Subtracting Fractions](https://www.youtube.com/watch?v=5juto2ze8Lg) — mathantics, English. **xem trước**. Xem trước để nắm cộng và trừ phân số; phần này gắn với bài «03-05 Cộng trừ phân số - Kết hợp các phần».
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. Xem để nắm phân số là gì; phần này gắn với bài «03-05 Cộng trừ phân số - Kết hợp các phần».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm khái niệm phân số lớp 4; phần này gắn với bài «03-05 Cộng trừ phân số - Kết hợp các phần».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

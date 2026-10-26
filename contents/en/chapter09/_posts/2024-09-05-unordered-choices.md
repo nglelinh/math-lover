@@ -40,13 +40,15 @@ Safe method for kids: **list every pair by hand** on small problems.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-1. [Pascal's Triangle — Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo) — Numberphile
-2. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+Watch a public video that matches this lesson:
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
+- [Pascal's Triangle - Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo) — Numberphile, English. **xem trước**. Watch this first for how Pascal's triangle is built row by row; it supports «Order Does Not Matter — Simple Combinations».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Watch for probability as how likely an outcome is; it supports «Order Does Not Matter — Simple Combinations».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Order Does Not Matter — Simple Combinations».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

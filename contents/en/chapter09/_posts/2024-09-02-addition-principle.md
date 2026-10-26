@@ -42,13 +42,15 @@ Use **addition** when you see **OR**. Use **multiplication** when you see **AND 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-1. [Basic addition — Khan Academy](https://www.youtube.com/watch?v=AuX7nPBqDts) — Khan Academy
-2. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+Watch a public video that matches this lesson:
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
+- [Basic addition | Addition and subtraction | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=AuX7nPBqDts) — Khan Academy, English. **xem trước**. Watch this first for basic addition step by step; it supports «Either-Or Choices — The Addition Principle».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Watch for probability as how likely an outcome is; it supports «Either-Or Choices — The Addition Principle».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Either-Or Choices — The Addition Principle».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

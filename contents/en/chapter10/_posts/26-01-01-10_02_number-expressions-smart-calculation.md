@@ -36,6 +36,16 @@ Example: $$2.75 \times 0.99 + 2.75 : 100 = 2.75 \times 1 = 2.75$$
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. **xem trước**. Watch this first for the order of operations inside an expression; it supports «10-02 Number Expressions & Smart Calculation».
+- [Order of Operations: A Step-By-Step Guide | PEMDAS | Math with Mr. J](https://www.youtube.com/watch?v=x41BCrYh8Kc) — Math with Mr. J, English. Watch for parentheses, then multiply-divide, then add-subtract; it supports «10-02 Number Expressions & Smart Calculation».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Watch for adding, subtracting, multiplying, and dividing decimals; it supports «10-02 Number Expressions & Smart Calculation».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. $$15\times 4 + 15\times 6$$  

@@ -71,6 +71,16 @@ Từ $$3A=30$$ → $$A=10$$; rồi $$B+C=20$$, $$B-C=10$$ → $$B=15$$, $$C=5$$.
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. **xem trước**. Xem trước để nắm cách giải phương trình một bước; phần này gắn với bài «10-10 Ẩn số, logic & lưới số».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Xem để nắm đại số là dùng một chữ để giữ chỗ cho số chưa biết; phần này gắn với bài «10-10 Ẩn số, logic & lưới số».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «10-10 Ẩn số, logic & lưới số».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

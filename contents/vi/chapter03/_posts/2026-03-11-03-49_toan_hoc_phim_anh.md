@@ -133,10 +133,9 @@ Tính tỷ lệ chiều cao/chiều rộng
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. **xem trước**. Xem trước để nắm tỷ số và tỷ lệ là mối quan hệ giữa hai số; phần này gắn với bài «07-49 Toán Học Trong Phim Ảnh».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «07-49 Toán Học Trong Phim Ảnh».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-49 Toán Học Trong Phim Ảnh».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

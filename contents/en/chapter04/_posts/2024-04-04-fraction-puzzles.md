@@ -530,16 +530,15 @@ Take photos or draw what you find!
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
-2. [Adding and Subtracting Fractions — Math Antics](https://www.youtube.com/watch?v=5juto2ze8Lg) — Math Antics
-3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. **xem trước**. Watch this first for what a fraction means; it supports «Fraction Puzzles - Thinking Like a Mathematician».
+- [Math Antics - Adding and Subtracting Fractions](https://www.youtube.com/watch?v=5juto2ze8Lg) — mathantics, English. Watch for adding and subtracting fractions; it supports «Fraction Puzzles - Thinking Like a Mathematician».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Fraction Puzzles - Thinking Like a Mathematician».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

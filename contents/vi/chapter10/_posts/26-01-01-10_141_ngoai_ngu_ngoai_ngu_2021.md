@@ -115,6 +115,16 @@ D. 40 phút
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Xem trước để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-105 Đề Ngoại ngữ — 2021».
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-105 Đề Ngoại ngữ — 2021».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm khái niệm phân số lớp 4; phần này gắn với bài «10-105 Đề Ngoại ngữ — 2021».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

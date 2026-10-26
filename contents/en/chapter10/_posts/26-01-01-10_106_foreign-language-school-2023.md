@@ -66,6 +66,16 @@ Quãng đường AB dài 240 km. 1 xe tải đi từ A đến B, 1 xe khách đi
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. **xem trước**. Watch this first for the link between distance, speed, and time; it supports «10-106 Foreign Language School Paper — 2023».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Watch for area as the squares that cover a shape; it supports «10-106 Foreign Language School Paper — 2023».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «10-106 Foreign Language School Paper — 2023».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Fix repeated mistakes before starting new papers.

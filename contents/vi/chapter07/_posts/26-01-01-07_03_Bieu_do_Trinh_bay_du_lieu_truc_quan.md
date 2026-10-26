@@ -140,12 +140,11 @@ Vẽ biểu đồ cột về điểm thi của 5 bạn:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Xem trước để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «08-06 Biểu đồ - Trình bày dữ liệu trực quan».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Xem để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «08-06 Biểu đồ - Trình bày dữ liệu trực quan».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «08-06 Biểu đồ - Trình bày dữ liệu trực quan».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

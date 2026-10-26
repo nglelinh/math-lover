@@ -184,16 +184,15 @@ Level 4 (Creative):
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Introduction to even and odd numbers — Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4) — Khan Academy
-2. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
-3. [Even and Odd Numbers — Math for Kids](https://www.youtube.com/watch?v=eF_FxSW8QwY) — Math for Kids
+- [Introduction to even and odd numbers | 3rd grade | Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4) — Khan Academy, English. **xem trước**. Watch this first for how to tell even numbers from odd numbers; it supports «Discovering Even Numbers - The Pattern of Pairs».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «Discovering Even Numbers - The Pattern of Pairs».
+- [Even and Odd Numbers - Math for Kids](https://www.youtube.com/watch?v=eF_FxSW8QwY) — Smile and Learn - English, English. Watch for even and odd numbers with clear pictures; it supports «Discovering Even Numbers - The Pattern of Pairs».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

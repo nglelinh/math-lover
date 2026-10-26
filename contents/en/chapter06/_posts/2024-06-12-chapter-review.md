@@ -156,17 +156,15 @@ Level 4: Mix the trails. You buy 2.5 kg of apples at the 8 kg price from Level 2
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Decimal Place Value — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-2. [Ratios and Proportions — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-3. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. **xem trước**. Watch this first for decimal place value; it supports «Chapter Review - Decimals, Ratios, and Percent».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Watch for ratios and rates as a relationship between two numbers; it supports «Chapter Review - Decimals, Ratios, and Percent».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Chapter Review - Decimals, Ratios, and Percent».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

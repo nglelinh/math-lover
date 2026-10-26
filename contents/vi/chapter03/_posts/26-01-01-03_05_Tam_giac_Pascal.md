@@ -296,12 +296,11 @@ Mức 4:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Tam giác Pascal — Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo) — Numberphile
-2. [Bí ẩn dãy Fibonacci — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Pascal's Triangle - Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo) — Numberphile, English. **xem trước**. Xem trước để nắm cách dựng tam giác Pascal từng hàng; phần này gắn với bài «07-06 Tam giác Pascal - Mẫu hình kỳ diệu».
+- [Fibonacci Mystery - Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile, English. Xem để nắm quy luật cộng hai số liền trước trong dãy Fibonacci; phần này gắn với bài «07-06 Tam giác Pascal - Mẫu hình kỳ diệu».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-06 Tam giác Pascal - Mẫu hình kỳ diệu».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

@@ -35,6 +35,15 @@ Never spend 15 minutes stuck on one item early.
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. **xem trước**. Watch this first for the order of operations inside an expression; it supports «10-11 Exam Skills for CLC Math».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Watch for adding, subtracting, multiplying, and dividing decimals; it supports «10-11 Exam Skills for CLC Math».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. Weekly plan: 3 topic sessions + 1 timed paper.  

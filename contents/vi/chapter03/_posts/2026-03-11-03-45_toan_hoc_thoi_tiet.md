@@ -185,10 +185,9 @@ Theo dõi nhiệt độ mỗi ngày trong một tuần và tính trung bình!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Xem trước để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «07-45 Toán Học Trong Thời Tiết».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «07-45 Toán Học Trong Thời Tiết».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-45 Toán Học Trong Thời Tiết».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

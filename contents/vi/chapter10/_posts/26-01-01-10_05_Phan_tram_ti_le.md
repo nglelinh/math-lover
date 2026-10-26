@@ -71,6 +71,16 @@ Một cửa hàng tăng 12%, rồi tăng 10%, rồi giảm 10%. So với ban đ�
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Xem trước để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-05 Phần trăm & tỉ lệ trong đề».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Xem để nắm tỷ số và tỷ lệ là mối quan hệ giữa hai số; phần này gắn với bài «10-05 Phần trăm & tỉ lệ trong đề».
+- [Math Antics - Proportions](https://www.youtube.com/watch?v=USmit5zUGas) — mathantics, English. Xem để nắm tỷ lệ thuận: khi số này nhân lên thì số kia cũng nhân lên; phần này gắn với bài «10-05 Phần trăm & tỉ lệ trong đề».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

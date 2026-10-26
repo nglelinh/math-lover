@@ -79,10 +79,9 @@ Tính diện tích để xếp hàng!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-3. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Xem trước để nắm phép nhân cơ bản; phần này gắn với bài «07-60 Toán Học Trong Kho».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «07-60 Toán Học Trong Kho».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Xem để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «07-60 Toán Học Trong Kho».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

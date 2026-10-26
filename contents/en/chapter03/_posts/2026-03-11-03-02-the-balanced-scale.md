@@ -183,16 +183,15 @@ $$7 = y$$
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Solving Basic Equations Part 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
-2. [What Is Algebra? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
-3. [Solving 2-Step Equations — Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — Math Antics
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. **xem trước**. Watch this first for solving a one-step equation; it supports «03-02 The Balanced Scale - Understanding Equations».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Watch for algebra as a letter standing for an unknown number; it supports «03-02 The Balanced Scale - Understanding Equations».
+- [Algebra Basics: Solving 2-Step Equations - Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — mathantics, English. Watch for solving a two-step equation; it supports «03-02 The Balanced Scale - Understanding Equations».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

@@ -150,16 +150,15 @@ See how skip counting by 2s is like a shortcut for multiplication?
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Introduction to even and odd numbers — Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4) — Khan Academy
-2. [Intro to multiplication — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy
-3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Introduction to even and odd numbers | 3rd grade | Khan Academy](https://www.youtube.com/watch?v=SFRTTUtAjg4) — Khan Academy, English. **xem trước**. Watch this first for how to tell even numbers from odd numbers; it supports «Skip Counting by 2s - The Pattern in Even Numbers».
+- [Intro to multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy, English. Watch for multiplication as repeated addition; it supports «Skip Counting by 2s - The Pattern in Even Numbers».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Skip Counting by 2s - The Pattern in Even Numbers».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

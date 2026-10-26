@@ -174,17 +174,15 @@ Level 4: Can two different whole numbers make the same square? Why or why not? W
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Exponents and Square Roots — Math Antics](https://www.youtube.com/watch?v=B4zejSI8zho) — Math Antics
-2. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+- [Math Antics - Exponents and Square Roots](https://www.youtube.com/watch?v=B4zejSI8zho) — mathantics, English. **xem trước**. Watch this first for exponents and square roots of square numbers; it supports «Square Numbers - Special Numbers That Make Squares».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Square Numbers - Special Numbers That Make Squares».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Watch for basic multiplication; it supports «Square Numbers - Special Numbers That Make Squares».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

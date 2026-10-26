@@ -36,6 +36,16 @@ Word problem model: “$$\dfrac{3}{5}$$ of 360 balls are blue” → blue $$216$
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. **xem trước**. Watch this first for what a fraction means; it supports «10-03 Fractions & Decimals in Entrance Tests».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Watch for decimal place value; it supports «10-03 Fractions & Decimals in Entrance Tests».
+- [Math Antics - Fractions Are Parts](https://www.youtube.com/watch?v=CA9XLJpQp3c) — mathantics, English. Watch for fractions as equal parts of a whole; it supports «10-03 Fractions & Decimals in Entrance Tests».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. Compare $$\dfrac{5}{6}$$ and $$\dfrac{7}{8}$$.  

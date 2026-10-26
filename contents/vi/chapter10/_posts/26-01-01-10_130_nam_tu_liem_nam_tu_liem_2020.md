@@ -91,6 +91,16 @@ Bài 12 . Cho 9 thanh: thanh 1 dài 1cm; thanh 2 dài 2cm; thanh 3 dài 3cm; ...
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-100 Đề Nam Từ Liêm — 2020».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Xem để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-100 Đề Nam Từ Liêm — 2020».
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. Xem để nắm cách lập phương trình cho bài toán tuổi; phần này gắn với bài «10-100 Đề Nam Từ Liêm — 2020».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

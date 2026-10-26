@@ -167,17 +167,15 @@ Level 4: A box has 4 red, 3 blue, and 2 yellow marbles. Find $$P(\text{red})$$, 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-2. [Finding probability example — Khan Academy](https://www.youtube.com/watch?v=yUaI0JriZtY) — Khan Academy
-3. [Experimental versus theoretical probability — Khan Academy](https://www.youtube.com/watch?v=Nos-xOCpQqg) — Khan Academy
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. **xem trước**. Watch this first for probability as how likely an outcome is; it supports «Exploring Probability - The Math of Chance».
+- [Finding probability example | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=yUaI0JriZtY) — Khan Academy, English. Watch for a worked probability example; it supports «Exploring Probability - The Math of Chance».
+- [Experimental versus theoretical probability simulation | Probability | AP Statistics | Khan Academy](https://www.youtube.com/watch?v=Nos-xOCpQqg) — Khan Academy, English. Watch for experimental probability versus theoretical probability; it supports «Exploring Probability - The Math of Chance».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

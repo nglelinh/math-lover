@@ -35,6 +35,16 @@ Late/early: one distance, two speeds → time difference.
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. **xem trước**. Watch this first for the link between distance, speed, and time; it supports «10-07 Motion / Speed Problems».
+- [Math Antics - Units of Distance](https://www.youtube.com/watch?v=cKbmvLv-FRo) — mathantics, English. Watch for units of distance and how to convert them; it supports «10-07 Motion / Speed Problems».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Watch for ratios and rates as a relationship between two numbers; it supports «10-07 Motion / Speed Problems».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. $$v=40$$ km/h, $$t=2.5$$ h → $$s$$.  

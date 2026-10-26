@@ -126,17 +126,15 @@ If glasses are optional (wear / not wear), that is still 2 choices in that slot.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Ways to arrange colors — Khan Academy](https://www.youtube.com/watch?v=oQpKtm5TtxU)
-2. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps)
-3. [How to Make a Jumping Game in Scratch — Scratch Team](https://www.youtube.com/watch?v=1jHvXakt1qw)
+- [Example: Ways to arrange colors | Probability and combinatorics | Precalculus | Khan Academy](https://www.youtube.com/watch?v=oQpKtm5TtxU) — Khan Academy, English. **xem trước**. Watch this first for counting arrangements when order matters; it supports «Optional — Character Creators and Password Length».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Watch for basic multiplication; it supports «Optional — Character Creators and Password Length».
+- [How to Make a Jumping Game in Scratch | Tutorial](https://www.youtube.com/watch?v=1jHvXakt1qw) — Scratch Team, English. Watch for using values that change while building a game; it supports «Optional — Character Creators and Password Length».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

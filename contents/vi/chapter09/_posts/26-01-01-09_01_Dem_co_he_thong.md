@@ -125,11 +125,11 @@ Em đếm được 5 bộ đồ nhưng bạn đếm được 6. Hai em nên làm
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. **xem trước**. Xem trước để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «09-01 Đếm có hệ thống — Không bỏ sót, không đếm trùng».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «09-01 Đếm có hệ thống — Không bỏ sót, không đếm trùng».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Xem để nắm phép nhân cơ bản; phần này gắn với bài «09-01 Đếm có hệ thống — Không bỏ sót, không đếm trùng».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

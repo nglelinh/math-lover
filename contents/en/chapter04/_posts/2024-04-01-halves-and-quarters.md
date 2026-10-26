@@ -308,16 +308,15 @@ Now get creative!
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Fractions Are Parts — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c) — Math Antics
-2. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
-3. [Fractions grade 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+- [Math Antics - Fractions Are Parts](https://www.youtube.com/watch?v=CA9XLJpQp3c) — mathantics, English. **xem trước**. Watch this first for fractions as equal parts of a whole; it supports «Halves and Quarters - Sharing Fairly».
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. Watch for what a fraction means; it supports «Halves and Quarters - Sharing Fairly».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Watch for the grade-4 idea of a fraction; it supports «Halves and Quarters - Sharing Fairly».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

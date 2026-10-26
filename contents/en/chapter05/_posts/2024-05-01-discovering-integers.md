@@ -190,17 +190,15 @@ Level 4: Invent a story where $$-7 + 7 = 0$$ makes sense. Share it with a parent
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Negative Numbers — Math Antics](https://www.youtube.com/watch?v=OAoLCXpao6s) — Math Antics
-2. [Adding and Subtracting Integers — Math Antics](https://www.youtube.com/watch?v=_BgblvF90UE) — Math Antics
-3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+- [Math Antics - Negative Numbers](https://www.youtube.com/watch?v=OAoLCXpao6s) — mathantics, English. **xem trước**. Watch this first for negative numbers to the left of zero; it supports «Discovering Integers - Negative and Positive Numbers».
+- [Math Antics - Adding & Subtracting Integers](https://www.youtube.com/watch?v=_BgblvF90UE) — mathantics, English. Watch for adding and subtracting integers, including negatives; it supports «Discovering Integers - Negative and Positive Numbers».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «Discovering Integers - Negative and Positive Numbers».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

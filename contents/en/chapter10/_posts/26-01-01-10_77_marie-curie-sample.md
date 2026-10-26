@@ -98,6 +98,16 @@ Có 18 hình lập phương như nhau, mỗi hình có cạnh là 1 cm. Xếp t�
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Watch this first for area as the squares that cover a shape; it supports «10-77 Marie Curie Paper — sample».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Watch for the link between distance, speed, and time; it supports «10-77 Marie Curie Paper — sample».
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. Watch for the order of operations inside an expression; it supports «10-77 Marie Curie Paper — sample».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Fix repeated mistakes before starting new papers.

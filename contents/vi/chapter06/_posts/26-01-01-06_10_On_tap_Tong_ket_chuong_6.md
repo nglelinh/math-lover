@@ -162,12 +162,11 @@ b) Một áo giá 200.000 đồng, giảm 15%. Em phải trả bao nhiêu?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-3. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. **xem trước**. Xem trước để nắm hàng của số thập phân; phần này gắn với bài «05-17 Ôn tập - Tổng kết chương 5».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «05-17 Ôn tập - Tổng kết chương 5».
+- [Math Antics - Telling Time](https://www.youtube.com/watch?v=QU-XUmujbuM) — mathantics, English. Xem để nắm cách đọc kim đồng hồ; phần này gắn với bài «05-17 Ôn tập - Tổng kết chương 5».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

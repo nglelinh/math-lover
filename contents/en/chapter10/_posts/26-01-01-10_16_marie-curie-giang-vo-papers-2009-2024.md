@@ -1886,6 +1886,16 @@ Học kỳ 1, trường THCS Giảng Võ có 55% học sinh đạt loại giỏi
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Watch this first for area as the squares that cover a shape; it supports «10-16 Marie Curie & Giang Vo Papers (2009–2024)».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «10-16 Marie Curie & Giang Vo Papers (2009–2024)».
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. Watch for setting up an equation for an age problem; it supports «10-16 Marie Curie & Giang Vo Papers (2009–2024)».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Start with the most recent 2–3 years.

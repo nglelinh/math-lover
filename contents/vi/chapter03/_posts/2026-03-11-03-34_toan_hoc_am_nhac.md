@@ -231,12 +231,11 @@ Ví dụ: 120 BPM
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-2. [Bí ẩn dãy Fibonacci — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
-3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. **xem trước**. Xem trước để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-34 Toán Học Trong Âm Nhạc».
+- [Fibonacci Mystery - Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile, English. Xem để nắm quy luật cộng hai số liền trước trong dãy Fibonacci; phần này gắn với bài «07-34 Toán Học Trong Âm Nhạc».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Xem để nắm phép nhân cơ bản; phần này gắn với bài «07-34 Toán Học Trong Âm Nhạc».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Câu Hỏi Suy Nghĩ
 

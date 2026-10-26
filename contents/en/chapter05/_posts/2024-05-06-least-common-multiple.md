@@ -171,17 +171,15 @@ Level 4: For 4 and 6 we found GCF = 2 and LCM = 12. Compute $$4 \times 6$$ and $
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [LCM: Prime Factorization — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
-2. [GCF: Greatest Common Factor — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
-3. [3-digit division, grade 3 — Cô Giáo Nga](https://www.youtube.com/watch?v=8neRbeLtUY4) — Cô Giáo Nga Tiểu Học
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. **xem trước**. Watch this first for finding a least common multiple with prime factors; it supports «Least Common Multiple - The Smallest Shared Multiple».
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. Watch for how to find a greatest common factor; it supports «Least Common Multiple - The Smallest Shared Multiple».
+- [Toán lớp 3 : Bài 51. CHIA SỐ CÓ BA CHỮ SỐ CHO SỐ CÓ MỘT CHỮ SỐ](https://www.youtube.com/watch?v=8neRbeLtUY4) — Cô Giáo Nga Tiểu Học, tiếng Việt. Watch for dividing a three-digit number; it supports «Least Common Multiple - The Smallest Shared Multiple».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

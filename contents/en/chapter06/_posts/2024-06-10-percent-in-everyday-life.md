@@ -151,17 +151,15 @@ Level 4: Two shops: 20% off 100,000, or 15,000 dong off 80,000. Which is cheaper
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-2. [Dollars and Cents — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
-3. [Data and Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Watch this first for percent as parts out of 100; it supports «Percent in Everyday Life - Sales and Simple Interest».
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. Watch for counting dollars and cents; it supports «Percent in Everyday Life - Sales and Simple Interest».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Watch for how to read graphs and data tables; it supports «Percent in Everyday Life - Sales and Simple Interest».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

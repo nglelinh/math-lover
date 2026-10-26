@@ -144,12 +144,11 @@ Số nguyên tố chẵn duy nhất là:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Số nguyên tố — Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M) — Khan Academy
-2. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
-3. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
+- [Prime numbers | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M) — Khan Academy, English. **xem trước**. Xem trước để nắm số nguyên tố là số chỉ chia hết cho 1 và chính nó; phần này gắn với bài «04-04 Số nguyên tố - Những viên gạch cơ bản của toán học».
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. Xem để nắm tìm bội chung bằng phân tích thừa số nguyên tố; phần này gắn với bài «04-04 Số nguyên tố - Những viên gạch cơ bản của toán học».
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. Xem để nắm cách tìm ước chung lớn nhất; phần này gắn với bài «04-04 Số nguyên tố - Những viên gạch cơ bản của toán học».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

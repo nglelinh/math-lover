@@ -181,6 +181,16 @@ Bài 50. Cho 22 tấm thẻ được viết các số tự nhiên liên tiếp t
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-99 Đề Archimedes — 2024».
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. Xem để nắm phép thử chia hết, kể cả cộng các chữ số; phần này gắn với bài «10-99 Đề Archimedes — 2024».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm khái niệm phân số lớp 4; phần này gắn với bài «10-99 Đề Archimedes — 2024».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

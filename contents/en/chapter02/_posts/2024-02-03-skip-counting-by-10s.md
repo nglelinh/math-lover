@@ -149,16 +149,15 @@ See how easy counting by 10s is? It's just like counting 1, 2, 3, 4... but with 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Multiply and Divide by Powers of 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
-2. [Place Value — Math Antics](https://www.youtube.com/watch?v=T5Qf0qSSJFI) — Math Antics
-3. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+- [Multiply and Divide by Powers of 10 - Math Antics Extras](https://www.youtube.com/watch?v=qJB19dAZPpY) — mathantics, English. **xem trước**. Watch this first for multiplying and dividing by 10, 100, and 1000; it supports «Skip Counting by 10s - The Magic of Zero».
+- [Math Antics - Place Value](https://www.youtube.com/watch?v=T5Qf0qSSJFI) — mathantics, English. Watch for what each digit's place is worth; it supports «Skip Counting by 10s - The Magic of Zero».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Watch for basic multiplication; it supports «Skip Counting by 10s - The Magic of Zero».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

@@ -111,6 +111,16 @@ Thí sinh trình bày đầy đủ các bước giải của Bài 4 vào chỗ t
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-28 Đề Thủ Đức (đề chung) — 2025».
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. Xem để nắm cách tính tiền đô-la và xu; phần này gắn với bài «10-28 Đề Thủ Đức (đề chung) — 2025».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Xem để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «10-28 Đề Thủ Đức (đề chung) — 2025».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

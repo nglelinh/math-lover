@@ -73,6 +73,16 @@ Trong 1..20, bao nhiêu số chia hết cho 2 **hoặc** 3?
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. **xem trước**. Xem trước để nắm phép thử chia hết, kể cả cộng các chữ số; phần này gắn với bài «10-04 Ước – bội – chia hết trong đề».
+- [Finding factors of a number | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=vcn2ruTOwFo) — Khan Academy, English. Xem để nắm cách liệt kê hết ước của một số; phần này gắn với bài «10-04 Ước – bội – chia hết trong đề».
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. Xem để nắm cách tìm ước chung lớn nhất; phần này gắn với bài «10-04 Ước – bội – chia hết trong đề».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

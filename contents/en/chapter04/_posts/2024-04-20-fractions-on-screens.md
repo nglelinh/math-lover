@@ -120,17 +120,15 @@ Same song, different filled part — the denominator stayed 4 because the whole 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Fractions Are Parts — Math Antics](https://www.youtube.com/watch?v=CA9XLJpQp3c)
-2. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8)
-3. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw)
+- [Math Antics - Fractions Are Parts](https://www.youtube.com/watch?v=CA9XLJpQp3c) — mathantics, English. **xem trước**. Watch this first for fractions as equal parts of a whole; it supports «Optional — Fractions on Screens and Progress Bars».
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. Watch for what a fraction means; it supports «Optional — Fractions on Screens and Progress Bars».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Optional — Fractions on Screens and Progress Bars».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

@@ -9,7 +9,6 @@ categories: [chapter04, wonder]
 lesson_type: optional
 wonder_topic: Pizza Mathematics
 ---
-
 ## The Wonder
 
 Have you ever wondered why pizza is **the perfect shape for teaching fractions**?
@@ -405,6 +404,16 @@ Research real pizza prices:
 - They use fractions and statistics!
 
 ---
+
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Figuring out how much pizza is left | Fractions | 4th grade | Khan Academy](https://www.youtube.com/watch?v=u2hLYcmI5y4) — Khan Academy, English. **xem trước**. Watch this first for writing the pizza that is left as a fraction; it supports «Wonder: Pizza Mathematics - The Perfect Circle for Fractions».
+- [Math Antics - Fractions Are Parts](https://www.youtube.com/watch?v=CA9XLJpQp3c) — mathantics, English. Watch for fractions as equal parts of a whole; it supports «Wonder: Pizza Mathematics - The Perfect Circle for Fractions».
+- [Math Antics - Circles, Circumference And Area](https://www.youtube.com/watch?v=O-cawByg2aA) — mathantics, English. Watch for circumference and area of a circle; it supports «Wonder: Pizza Mathematics - The Perfect Circle for Fractions».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Your Pizza Math Challenge
 

@@ -144,10 +144,9 @@ Tỷ lệ = Tiết kiệm / Thu nhập × 100%
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Tiền đô-la và xu — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
-2. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-3. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. **xem trước**. Xem trước để nắm cách tính tiền đô-la và xu; phần này gắn với bài «07-48 Toán Học Trong Tài Chính».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «07-48 Toán Học Trong Tài Chính».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Xem để nắm cộng, trừ, nhân, chia số thập phân; phần này gắn với bài «07-48 Toán Học Trong Tài Chính».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

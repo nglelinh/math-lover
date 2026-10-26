@@ -94,6 +94,16 @@ Bài 2: Cho tam giác ABC có diện tích $$600\,\mathrm{cm}^{2}$$ . Trên cạ
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Watch this first for area as the squares that cover a shape; it supports «10-69 Amsterdam (AMS) Paper — sample».
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. Watch for divisibility tests, including adding the digits; it supports «10-69 Amsterdam (AMS) Paper — sample».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Watch for the link between distance, speed, and time; it supports «10-69 Amsterdam (AMS) Paper — sample».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Fix repeated mistakes before starting new papers.
