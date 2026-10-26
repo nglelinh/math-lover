@@ -284,9 +284,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-nav-subitem-title {
   min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.35;
+}
+.sidebar-nav-subitem.is-archived {
+  opacity: 0.8;
+}
+.sidebar-nav-empty {
+  font-size: .75rem;
+  font-style: italic;
+  color: rgba(255,255,255,.7);
 }
 .sidebar-nav-subitem .lesson-badge {
   margin-left: 0;
