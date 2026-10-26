@@ -163,17 +163,15 @@ Level 4: Invent one story that needs probability, one that needs a chart, and on
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Data And Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-3. [Introduction to number systems and binary — Khan Academy](https://www.youtube.com/watch?v=ku4KOFQ-bB4) — Khan Academy
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Watch this first for how to read graphs and data tables; it supports «Chapter Review - Data, Chance, and Codes».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Watch for probability as how likely an outcome is; it supports «Chapter Review - Data, Chance, and Codes».
+- [Introduction to number systems and binary | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=ku4KOFQ-bB4) — Khan Academy, English. Watch for number systems and binary; it supports «Chapter Review - Data, Chance, and Codes».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

@@ -104,6 +104,16 @@ Cùng phụ huynh ghi: **trường 1**, **trường 2 dự phòng**, **thời gi
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm khái niệm phân số lớp 4; phần này gắn với bài «10-01 Bản đồ ôn thi vào lớp 6».
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-01 Bản đồ ôn thi vào lớp 6».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «10-01 Bản đồ ôn thi vào lớp 6».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

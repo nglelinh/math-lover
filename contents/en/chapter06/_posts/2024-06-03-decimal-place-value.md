@@ -169,17 +169,15 @@ Level 4: Why does adding a zero *after* the last decimal digit not change the am
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Decimal Place Value — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-2. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
-3. [Fractions on a Number Line — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. **xem trước**. Watch this first for decimal place value; it supports «Decimal Place Value - Reading, Writing, and Comparing».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «Decimal Place Value - Reading, Writing, and Comparing».
+- [Fractions on the Number Line - Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — mathantics, English. Watch for placing fractions on a number line; it supports «Decimal Place Value - Reading, Writing, and Comparing».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

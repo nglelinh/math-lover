@@ -166,17 +166,15 @@ Level 4: Why is 1 not allowed in the prime club? What would go wrong if we let 1
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Prime numbers — Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M) — Khan Academy
-2. [LCM: Prime Factorization — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
-3. [GCF: Greatest Common Factor — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
+- [Prime numbers | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=mIStB5X4U8M) — Khan Academy, English. **xem trước**. Watch this first for a prime as a number with only two factors; it supports «Prime Numbers - The Building Blocks of Math».
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. Watch for finding a least common multiple with prime factors; it supports «Prime Numbers - The Building Blocks of Math».
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. Watch for how to find a greatest common factor; it supports «Prime Numbers - The Building Blocks of Math».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

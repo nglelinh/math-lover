@@ -132,12 +132,11 @@ b) x × 3 = 12, x = ?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
-2. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
-3. [Trục số — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. **xem trước**. Xem trước để nắm đại số là dùng một chữ để giữ chỗ cho số chưa biết; phần này gắn với bài «04-01 Đại số sơ bộ - Giới thiệu về biến số».
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. Xem để nắm cách giải phương trình một bước; phần này gắn với bài «04-01 Đại số sơ bộ - Giới thiệu về biến số».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Xem để nắm cách đặt số trên trục số; phần này gắn với bài «04-01 Đại số sơ bộ - Giới thiệu về biến số».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

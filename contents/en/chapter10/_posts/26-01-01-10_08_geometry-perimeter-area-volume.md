@@ -35,6 +35,16 @@ Same height → area ratio equals base ratio.
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Watch this first for area as the squares that cover a shape; it supports «10-08 Geometry: Perimeter, Area, Volume».
+- [Math Antics - Circles, Circumference And Area](https://www.youtube.com/watch?v=O-cawByg2aA) — mathantics, English. Watch for circumference and area of a circle; it supports «10-08 Geometry: Perimeter, Area, Volume».
+- [Math Antics - Volume](https://www.youtube.com/watch?v=qJwecTgce6c) — mathantics, English. Watch for volume as the space inside a solid; it supports «10-08 Geometry: Perimeter, Area, Volume».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. Trapezoid area formula.  

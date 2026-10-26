@@ -129,6 +129,16 @@ Hỏi phải mở rộng cạnh đáy thêm **mấy mét** nữa để được 
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. **xem trước**. Xem trước để nắm phép thử chia hết, kể cả cộng các chữ số; phần này gắn với bài «10-27 Đề Nguyễn An Khương — 2024».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Xem để nắm hàng của số thập phân; phần này gắn với bài «10-27 Đề Nguyễn An Khương — 2024».
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-27 Đề Nguyễn An Khương — 2024».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

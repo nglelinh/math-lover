@@ -152,12 +152,11 @@ Tìm góc bù với góc 60°
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Tính chất tam giác — Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy
-2. [Đối xứng — Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — Math Antics
-3. [Mặt phẳng tọa độ — Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — Math Antics
+- [Review of triangle properties | Special properties and parts of triangles | Geometry | Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy, English. **xem trước**. Xem trước để nắm các tính chất cơ bản của tam giác; phần này gắn với bài «06-02 Hình học nâng cao - Góc và Đường thẳng».
+- [Symmetry - Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — mathantics, English. Xem để nắm đối xứng của một hình; phần này gắn với bài «06-02 Hình học nâng cao - Góc và Đường thẳng».
+- [Algebra Basics: Graphing On The Coordinate Plane - Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — mathantics, English. Xem để nắm cách đọc một điểm trên mặt phẳng tọa độ; phần này gắn với bài «06-02 Hình học nâng cao - Góc và Đường thẳng».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Bài tập luyện tập
 

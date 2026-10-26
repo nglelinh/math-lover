@@ -147,12 +147,11 @@ Hình thoi có:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
-2. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
-3. [Tính chất tam giác — Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Xem trước để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «06-05 Hình học - Hình thoi và hình thang».
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «06-05 Hình học - Hình thoi và hình thang».
+- [Review of triangle properties | Special properties and parts of triangles | Geometry | Khan Academy](https://www.youtube.com/watch?v=KUhdMbx5ges) — Khan Academy, English. Xem để nắm các tính chất cơ bản của tam giác; phần này gắn với bài «06-05 Hình học - Hình thoi và hình thang».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

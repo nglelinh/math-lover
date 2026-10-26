@@ -874,6 +874,16 @@ Bài 20 : Cho hình chữ nhật ABCD có M là trung điểm AB và điểm N n
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-17 Đề LTV & Cầu Giấy (2012–2026)».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Xem để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-17 Đề LTV & Cầu Giấy (2012–2026)».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-17 Đề LTV & Cầu Giấy (2012–2026)».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Góc cha mẹ
 
 Cùng con ghi rõ **trường + năm đề** trên mỗi bài làm. Làm 2–3 năm gần nhất trước; chữa lỗi lặp trước khi sang đề khác.

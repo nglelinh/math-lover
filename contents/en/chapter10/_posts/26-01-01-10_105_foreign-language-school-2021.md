@@ -108,6 +108,16 @@ D. 40 phút
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Watch this first for percent as parts out of 100; it supports «10-105 Foreign Language School Paper — 2021».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Watch for area as the squares that cover a shape; it supports «10-105 Foreign Language School Paper — 2021».
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. Watch for what a fraction means; it supports «10-105 Foreign Language School Paper — 2021».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Fix repeated mistakes before starting new papers.

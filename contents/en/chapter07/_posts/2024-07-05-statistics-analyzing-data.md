@@ -171,17 +171,15 @@ Level 4: Why might a coach prefer the median of race times if one runner had a b
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Statistics intro: Mean, median, and mode — Khan Academy](https://www.youtube.com/watch?v=h8EYEJ32oQ8) — Khan Academy
-2. [Finding mean, median, and mode — Khan Academy](https://www.youtube.com/watch?v=k3aKKasOmIw) — Khan Academy
-3. [Data And Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+- [Statistics intro: Mean, median, and mode | Data and statistics | 6th grade | Khan Academy](https://www.youtube.com/watch?v=h8EYEJ32oQ8) — Khan Academy, English. **xem trước**. Watch this first for mean, median, and mode; it supports «Statistics - Collecting and Analyzing Data».
+- [Finding mean, median, and mode | Descriptive statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=k3aKKasOmIw) — Khan Academy, English. Watch for computing mean, median, and mode; it supports «Statistics - Collecting and Analyzing Data».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Watch for how to read graphs and data tables; it supports «Statistics - Collecting and Analyzing Data».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

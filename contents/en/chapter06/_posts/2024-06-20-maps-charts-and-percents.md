@@ -124,17 +124,15 @@ As a decimal, 2.4 cm is 2 cm and 4 mm. Lining up the point still matters.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Ratios and Proportions — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI)
-2. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw)
-3. [Data and Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38)
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. **xem trước**. Watch this first for ratios and rates as a relationship between two numbers; it supports «Optional — Maps, GPS Pins, and Charts in the News».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Optional — Maps, GPS Pins, and Charts in the News».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Watch for how to read graphs and data tables; it supports «Optional — Maps, GPS Pins, and Charts in the News».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

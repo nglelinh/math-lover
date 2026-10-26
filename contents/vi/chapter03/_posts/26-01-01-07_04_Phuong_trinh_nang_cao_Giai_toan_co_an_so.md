@@ -137,12 +137,11 @@ Một số nhân 3 rồi cộng 7 được 25. Tìm số đó?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Giải phương trình hai bước — Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — Math Antics
-2. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
-3. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
+- [Algebra Basics: Solving 2-Step Equations - Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — mathantics, English. **xem trước**. Xem trước để nắm cách giải phương trình hai bước; phần này gắn với bài «07-09 Phương trình nâng cao - Giải toán có ẩn số».
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. Xem để nắm cách giải phương trình một bước; phần này gắn với bài «07-09 Phương trình nâng cao - Giải toán có ẩn số».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Xem để nắm đại số là dùng một chữ để giữ chỗ cho số chưa biết; phần này gắn với bài «07-09 Phương trình nâng cao - Giải toán có ẩn số».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

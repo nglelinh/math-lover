@@ -153,12 +153,11 @@ Phân số nào bằng 1/2?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Rút gọn phân số — Math Antics](https://www.youtube.com/watch?v=AtBUQH8Tkqc) — Math Antics
-2. [Rút gọn phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=c0thGlyVsqA) — VietJack Tiểu học
-3. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+- [Math Antics - Simplifying Fractions](https://www.youtube.com/watch?v=AtBUQH8Tkqc) — mathantics, English. **xem trước**. Xem trước để nắm rút gọn phân số; phần này gắn với bài «03-03 Phân số bằng nhau - Khi nào hai phân số bằng nhau?».
+- [Toán lớp 4 Bài 56: Rút gọn phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=c0thGlyVsqA) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm cách rút gọn phân số; phần này gắn với bài «03-03 Phân số bằng nhau - Khi nào hai phân số bằng nhau?».
+- [Fractions on the Number Line - Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — mathantics, English. Xem để nắm cách đặt phân số trên trục số; phần này gắn với bài «03-03 Phân số bằng nhau - Khi nào hai phân số bằng nhau?».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

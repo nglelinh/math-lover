@@ -227,12 +227,11 @@ Dải Ngân Hà có khoảng **100-400 tỷ** ngôi sao!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Thể tích — Math Antics](https://www.youtube.com/watch?v=qJwecTgce6c) — Math Antics
-2. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
-3. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+- [Math Antics - Volume](https://www.youtube.com/watch?v=qJwecTgce6c) — mathantics, English. **xem trước**. Xem trước để nắm thể tích là không gian bên trong khối; phần này gắn với bài «07-38 Toán Học Trong Không Gian».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Xem để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «07-38 Toán Học Trong Không Gian».
+- [Multiply and Divide by Powers of 10 - Math Antics Extras](https://www.youtube.com/watch?v=qJB19dAZPpY) — mathantics, English. Xem để nắm nhân và chia cho 10, 100, 1000; phần này gắn với bài «07-38 Toán Học Trong Không Gian».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Câu Hỏi Suy Nghĩ
 

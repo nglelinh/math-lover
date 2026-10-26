@@ -117,17 +117,15 @@ The sentence “score is 2” is the same kind of sentence as “$$n = 2$$.”
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [What Are Variables and Lists in Scratch? — Scratch Team](https://www.youtube.com/watch?v=kRJ37shzFp0)
-2. [What Is Algebra? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI)
-3. [How to Make a Jumping Game in Scratch — Scratch Team](https://www.youtube.com/watch?v=1jHvXakt1qw)
+- [What Are Variables and Lists in Scratch? (Part 1)| Tutorial](https://www.youtube.com/watch?v=kRJ37shzFp0) — Scratch Team, English. **xem trước**. Watch this first for variables and lists that store a changeable value; it supports «Optional — The Mystery Box Is a Game Score».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Watch for algebra as a letter standing for an unknown number; it supports «Optional — The Mystery Box Is a Game Score».
+- [How to Make a Jumping Game in Scratch | Tutorial](https://www.youtube.com/watch?v=1jHvXakt1qw) — Scratch Team, English. Watch for using values that change while building a game; it supports «Optional — The Mystery Box Is a Game Score».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Thinking Questions
 

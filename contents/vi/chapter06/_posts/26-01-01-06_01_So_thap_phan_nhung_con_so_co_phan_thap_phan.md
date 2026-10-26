@@ -152,12 +152,11 @@ c) 0,5 và 0,50
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-2. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
-3. [Phân số trên trục số — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. **xem trước**. Xem trước để nắm hàng của số thập phân; phần này gắn với bài «05-03 Số thập phân - Những con số có phần thập phân».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Xem để nắm cộng, trừ, nhân, chia số thập phân; phần này gắn với bài «05-03 Số thập phân - Những con số có phần thập phân».
+- [Fractions on the Number Line - Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — mathantics, English. Xem để nắm cách đặt phân số trên trục số; phần này gắn với bài «05-03 Số thập phân - Những con số có phần thập phân».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

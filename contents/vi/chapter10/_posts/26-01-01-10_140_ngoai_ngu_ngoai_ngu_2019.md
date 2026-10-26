@@ -125,6 +125,16 @@ Bài 8. Quãng đường AB dài 60km. Cùng lúc có xe đi từ A và từ B k
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Xem trước để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-104 Đề Ngoại ngữ — 2019».
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. Xem để nắm cách lập phương trình cho bài toán tuổi; phần này gắn với bài «10-104 Đề Ngoại ngữ — 2019».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Xem để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-104 Đề Ngoại ngữ — 2019».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

@@ -172,12 +172,11 @@ Tính: 1/4 + 1/2
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Cộng trừ phân số — Math Antics](https://www.youtube.com/watch?v=5juto2ze8Lg) — Math Antics
-2. [Rút gọn phân số — Math Antics](https://www.youtube.com/watch?v=AtBUQH8Tkqc) — Math Antics
-3. [Khái niệm phân số lớp 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+- [Math Antics - Adding and Subtracting Fractions](https://www.youtube.com/watch?v=5juto2ze8Lg) — mathantics, English. **xem trước**. Xem trước để nắm cộng và trừ phân số; phần này gắn với bài «02-06 Phân số nâng cao - So sánh và Cộng trừ».
+- [Math Antics - Simplifying Fractions](https://www.youtube.com/watch?v=AtBUQH8Tkqc) — mathantics, English. Xem để nắm rút gọn phân số; phần này gắn với bài «02-06 Phân số nâng cao - So sánh và Cộng trừ».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm khái niệm phân số lớp 4; phần này gắn với bài «02-06 Phân số nâng cao - So sánh và Cộng trừ».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Bài tập luyện tập
 

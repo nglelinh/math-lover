@@ -42,6 +42,16 @@ Visual cans (1; 7; 19) need a formula in the box index.
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. **xem trước**. Watch this first for how to find a number-pattern rule; it supports «10-09 Sequences & Patterns».
+- [Fibonacci Mystery - Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile, English. Watch for the add-the-two-previous-numbers Fibonacci rule; it supports «10-09 Sequences & Patterns».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «10-09 Sequences & Patterns».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. 20th term of $$3;4;6;9;13;\ldots$$  

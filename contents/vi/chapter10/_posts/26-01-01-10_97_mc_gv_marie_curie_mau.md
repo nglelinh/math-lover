@@ -105,6 +105,16 @@ Có 18 hình lập phương như nhau, mỗi hình có cạnh là 1 cm. Xếp t�
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «10-77 Đề Marie Curie — đề mẫu».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Xem để nắm mối liên hệ quãng đường, vận tốc và thời gian; phần này gắn với bài «10-77 Đề Marie Curie — đề mẫu».
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. Xem để nắm thứ tự làm phép tính trong một biểu thức; phần này gắn với bài «10-77 Đề Marie Curie — đề mẫu».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

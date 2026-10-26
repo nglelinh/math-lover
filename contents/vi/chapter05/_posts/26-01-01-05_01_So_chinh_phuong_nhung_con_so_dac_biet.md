@@ -142,12 +142,11 @@ Số nào là số chính phương?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Lũy thừa và căn bậc hai — Math Antics](https://www.youtube.com/watch?v=B4zejSI8zho) — Math Antics
-2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+- [Math Antics - Exponents and Square Roots](https://www.youtube.com/watch?v=B4zejSI8zho) — mathantics, English. **xem trước**. Xem trước để nắm lũy thừa và căn bậc hai của số chính phương; phần này gắn với bài «04-02 Số chính phương - Những con số đặc biệt».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «04-02 Số chính phương - Những con số đặc biệt».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Xem để nắm phép nhân cơ bản; phần này gắn với bài «04-02 Số chính phương - Những con số đặc biệt».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

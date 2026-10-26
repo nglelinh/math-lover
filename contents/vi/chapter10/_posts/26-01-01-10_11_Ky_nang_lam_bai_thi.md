@@ -83,6 +83,15 @@ Viết 3 lỗi hay gặp của em vào sổ.
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - Order Of Operations](https://www.youtube.com/watch?v=dAgfnK528RA) — mathantics, English. **xem trước**. Xem trước để nắm thứ tự làm phép tính trong một biểu thức; phần này gắn với bài «10-11 Kỹ năng làm bài thi CLC».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Xem để nắm cộng, trừ, nhân, chia số thập phân; phần này gắn với bài «10-11 Kỹ năng làm bài thi CLC».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

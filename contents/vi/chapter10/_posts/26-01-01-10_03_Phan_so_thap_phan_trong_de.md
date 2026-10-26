@@ -72,6 +72,16 @@ $$\dfrac{3}{5}$$ của 360 quả bóng xanh. Bao nhiêu quả vàng?
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. **xem trước**. Xem trước để nắm khái niệm phân số lớp 4; phần này gắn với bài «10-03 Phân số & thập phân trong đề CLC».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Xem để nắm hàng của số thập phân; phần này gắn với bài «10-03 Phân số & thập phân trong đề CLC».
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. Xem để nắm phân số là gì; phần này gắn với bài «10-03 Phân số & thập phân trong đề CLC».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

@@ -163,16 +163,15 @@ Step 4: So ? = 7
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Solving Basic Equations Part 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
-2. [What Is Algebra? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
-3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. **xem trước**. Watch this first for solving a one-step equation; it supports «03-01 The Mystery Box - Introduction to Variables».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Watch for algebra as a letter standing for an unknown number; it supports «03-01 The Mystery Box - Introduction to Variables».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «03-01 The Mystery Box - Introduction to Variables».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

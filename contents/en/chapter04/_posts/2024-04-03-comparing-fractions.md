@@ -452,16 +452,15 @@ Now get creative!
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [What Are Fractions? — Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — Math Antics
-2. [Fractions on the Number Line — Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — Math Antics
-3. [Fractions grade 4 — VietJack](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học
+- [What Are Fractions? - Math Antics](https://www.youtube.com/watch?v=I1u3pM9g9o8) — mathantics, English. **xem trước**. Watch this first for what a fraction means; it supports «Comparing Fractions - Which is Bigger?».
+- [Fractions on the Number Line - Math Antics](https://www.youtube.com/watch?v=pWJzqTYS8no) — mathantics, English. Watch for placing fractions on a number line; it supports «Comparing Fractions - Which is Bigger?».
+- [Toán lớp 4 Bài 53: Khái niệm phân số - Kết nối tri thức (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=XBLL9DXfdeM) — VietJack Tiểu học & THCS, tiếng Việt. Watch for the grade-4 idea of a fraction; it supports «Comparing Fractions - Which is Bigger?».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

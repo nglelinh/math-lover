@@ -69,6 +69,16 @@ Tổng hai anh em 20; anh hơn em 4 → em $$8$$, anh $$12$$.
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. **xem trước**. Xem trước để nắm cách lập phương trình cho bài toán tuổi; phần này gắn với bài «10-06 Bài toán tuổi».
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. Xem để nắm cách giải phương trình một bước; phần này gắn với bài «10-06 Bài toán tuổi».
+- [Algebra Basics: Solving 2-Step Equations - Math Antics](https://www.youtube.com/watch?v=LDIiYKYvvdA) — mathantics, English. Xem để nắm cách giải phương trình hai bước; phần này gắn với bài «10-06 Bài toán tuổi».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

@@ -197,10 +197,9 @@ Tính thời gian đi từ nhà đến trường với vận tốc đi bộ!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Đo khoảng cách — Math Antics](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — Math Antics
-2. [Xem đồng hồ — Math Antics](https://www.youtube.com/watch?v=QU-XUmujbuM) — Math Antics
-3. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
+- [Math Antics - Measuring Distance](https://www.youtube.com/watch?v=dNcJ4-JVN5M) — mathantics, English. **xem trước**. Xem trước để nắm cách đo độ dài; phần này gắn với bài «07-43 Toán Học Trong Giao Thông».
+- [Math Antics - Telling Time](https://www.youtube.com/watch?v=QU-XUmujbuM) — mathantics, English. Xem để nắm cách đọc kim đồng hồ; phần này gắn với bài «07-43 Toán Học Trong Giao Thông».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Xem để nắm tỷ số và tỷ lệ là mối quan hệ giữa hai số; phần này gắn với bài «07-43 Toán Học Trong Giao Thông».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

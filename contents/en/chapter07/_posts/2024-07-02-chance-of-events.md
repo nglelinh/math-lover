@@ -173,17 +173,15 @@ Level 4: A forecast says 70% rain. You pack no umbrella and stay dry. Write two 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Finding probability example — Khan Academy](https://www.youtube.com/watch?v=yUaI0JriZtY) — Khan Academy
-2. [Experimental versus theoretical probability — Khan Academy](https://www.youtube.com/watch?v=Nos-xOCpQqg) — Khan Academy
-3. [What Are Percentages? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Finding probability example | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=yUaI0JriZtY) — Khan Academy, English. **xem trước**. Watch this first for a worked probability example; it supports «Chance of Events - How Likely Is It?».
+- [Experimental versus theoretical probability simulation | Probability | AP Statistics | Khan Academy](https://www.youtube.com/watch?v=Nos-xOCpQqg) — Khan Academy, English. Watch for experimental probability versus theoretical probability; it supports «Chance of Events - How Likely Is It?».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Chance of Events - How Likely Is It?».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

@@ -214,16 +214,15 @@ There are often multiple ways to see a pattern!
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-2. [Fibonacci Mystery — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
-3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. **xem trước**. Watch this first for how to find a number-pattern rule; it supports «03-03 Number Patterns - Finding Rules and Relationships».
+- [Fibonacci Mystery - Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile, English. Watch for the add-the-two-previous-numbers Fibonacci rule; it supports «03-03 Number Patterns - Finding Rules and Relationships».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «03-03 Number Patterns - Finding Rules and Relationships».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Insight
 

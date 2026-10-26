@@ -175,17 +175,15 @@ Level 4: A shirt costs 100,000 dong and is 20% off. What is the new price? Why i
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Ratios and Proportions — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-2. [Proportions — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
-3. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. **xem trước**. Watch this first for ratios and rates as a relationship between two numbers; it supports «Discovering Ratios - Comparing by Dividing».
+- [Math Antics - Proportions](https://www.youtube.com/watch?v=USmit5zUGas) — mathantics, English. Watch for direct proportion, when both amounts scale together; it supports «Discovering Ratios - Comparing by Dividing».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Discovering Ratios - Comparing by Dividing».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

@@ -168,12 +168,11 @@ Giá 100.000 đ, tăng 10%. Giá mới?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-2. [Tính toán số thập phân — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
-3. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Xem trước để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «05-09 Tỷ số và Tỷ lệ phần trăm».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Xem để nắm cộng, trừ, nhân, chia số thập phân; phần này gắn với bài «05-09 Tỷ số và Tỷ lệ phần trăm».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Xem để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «05-09 Tỷ số và Tỷ lệ phần trăm».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Bài tập luyện tập
 

@@ -100,10 +100,9 @@ Thang Richter đo cường độ động đất!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Xem trước để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «07-53 Toán Học Trong Khoa Học».
+- [Multiply and Divide by Powers of 10 - Math Antics Extras](https://www.youtube.com/watch?v=qJB19dAZPpY) — mathantics, English. Xem để nắm nhân và chia cho 10, 100, 1000; phần này gắn với bài «07-53 Toán Học Trong Khoa Học».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-53 Toán Học Trong Khoa Học».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

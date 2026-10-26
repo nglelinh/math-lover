@@ -133,12 +133,11 @@ a) Mua 3 cái kẹo giá 9.000 đ. Hỏi mua 6 cái giá bao nhiêu?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-2. [Tỷ lệ thuận — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
-3. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. **xem trước**. Xem trước để nắm tỷ số và tỷ lệ là mối quan hệ giữa hai số; phần này gắn với bài «04-04 Tỷ lệ thuận nghịch - Hai đại lượng».
+- [Math Antics - Proportions](https://www.youtube.com/watch?v=USmit5zUGas) — mathantics, English. Xem để nắm tỷ lệ thuận: khi số này nhân lên thì số kia cũng nhân lên; phần này gắn với bài «04-04 Tỷ lệ thuận nghịch - Hai đại lượng».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «04-04 Tỷ lệ thuận nghịch - Hai đại lượng».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

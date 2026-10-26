@@ -148,12 +148,11 @@ Số nào vừa là ước của 12 vừa là ước của 18?
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
-2. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. **xem trước**. Xem trước để nắm cách tìm ước chung lớn nhất; phần này gắn với bài «04-03 Ước số và Bội số - Tìm hiểu mối quan hệ».
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. Xem để nắm tìm bội chung bằng phân tích thừa số nguyên tố; phần này gắn với bài «04-03 Ước số và Bội số - Tìm hiểu mối quan hệ».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «04-03 Ước số và Bội số - Tìm hiểu mối quan hệ».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

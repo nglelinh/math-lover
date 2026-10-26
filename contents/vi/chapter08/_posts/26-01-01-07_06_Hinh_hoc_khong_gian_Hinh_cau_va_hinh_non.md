@@ -144,12 +144,11 @@ b) r = 3cm, h = 12cm
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Thể tích — Math Antics](https://www.youtube.com/watch?v=qJwecTgce6c) — Math Antics
-2. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
-3. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+- [Math Antics - Volume](https://www.youtube.com/watch?v=qJwecTgce6c) — mathantics, English. **xem trước**. Xem trước để nắm thể tích là không gian bên trong khối; phần này gắn với bài «06-11 Hình học không gian - Hình cầu và hình nón».
+- [Math Antics - Circles, Circumference And Area](https://www.youtube.com/watch?v=O-cawByg2aA) — mathantics, English. Xem để nắm chu vi và diện tích hình tròn; phần này gắn với bài «06-11 Hình học không gian - Hình cầu và hình nón».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Xem để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «06-11 Hình học không gian - Hình cầu và hình nón».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

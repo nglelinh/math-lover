@@ -181,17 +181,15 @@ Level 4: Can a number be both a factor *and* a multiple of 12? Find every exampl
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [GCF: Greatest Common Factor — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
-2. [LCM: Prime Factorization — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
-3. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. **xem trước**. Watch this first for how to find a greatest common factor; it supports «Factors and Multiples - How Numbers Relate».
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. Watch for finding a least common multiple with prime factors; it supports «Factors and Multiples - How Numbers Relate».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Factors and Multiples - How Numbers Relate».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

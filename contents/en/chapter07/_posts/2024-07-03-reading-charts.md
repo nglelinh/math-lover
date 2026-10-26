@@ -178,17 +178,15 @@ Level 4: Sketch two charts for the same car-sale numbers (January 100, February 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Data And Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [What Are Percentages? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-3. [Graphing On The Coordinate Plane — Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — Math Antics
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Watch this first for how to read graphs and data tables; it supports «Reading Charts - Talking with Pictures».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Reading Charts - Talking with Pictures».
+- [Algebra Basics: Graphing On The Coordinate Plane - Math Antics](https://www.youtube.com/watch?v=9Uc62CuQjc4) — mathantics, English. Watch for reading a point on the coordinate plane; it supports «Reading Charts - Talking with Pictures».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

@@ -208,12 +208,11 @@ Hãy cùng khám phá thế giới viễn tưởng này!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-2. [Đại số là gì? — Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — Math Antics
-3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. **xem trước**. Xem trước để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-36 Cuộc Sống Không Toán Học».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Xem để nắm đại số là dùng một chữ để giữ chỗ cho số chưa biết; phần này gắn với bài «07-36 Cuộc Sống Không Toán Học».
+- [Toán Lớp 3 - Phương Pháp Chia Tư Duy| #toancohien #hocphepchia #toantuduy #giaitoanthongminh](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN, tiếng Việt. Xem để nắm cách chia theo tư duy, không chỉ thuộc lòng; phần này gắn với bài «07-36 Cuộc Sống Không Toán Học».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Câu Hỏi Suy Nghĩ
 

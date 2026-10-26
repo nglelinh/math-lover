@@ -120,11 +120,11 @@ Có đúng không: “5 áo và 3 quần → 5 + 3 = 8 bộ đồ”? Giải th�
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phép cộng cơ bản — Khan Academy](https://www.youtube.com/watch?v=AuX7nPBqDts) — Khan Academy
-2. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-3. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
+- [Basic addition | Addition and subtraction | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=AuX7nPBqDts) — Khan Academy, English. **xem trước**. Xem trước để nắm phép cộng cơ bản từng bước; phần này gắn với bài «09-02 Chọn cái này HOẶC cái kia — Nguyên lý cộng».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Xem để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «09-02 Chọn cái này HOẶC cái kia — Nguyên lý cộng».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «09-02 Chọn cái này HOẶC cái kia — Nguyên lý cộng».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

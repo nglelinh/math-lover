@@ -79,10 +79,9 @@ Dùng hình tam giác, hình tròn để vẽ tranh!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Đối xứng — Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — Math Antics
-2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
+- [Symmetry - Math Antics](https://www.youtube.com/watch?v=QHq3CSoal0I) — mathantics, English. **xem trước**. Xem trước để nắm đối xứng của một hình; phần này gắn với bài «07-56 Toán Học Trong Nghệ Thuật».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-56 Toán Học Trong Nghệ Thuật».
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. Xem để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «07-56 Toán Học Trong Nghệ Thuật».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

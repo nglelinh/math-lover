@@ -158,12 +158,11 @@ Tìm số tiếp theo: 1, 4, 13, 40, ...
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Dữ liệu và biểu đồ — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
-2. [Xác suất cơ bản — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
-3. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. **xem trước**. Xem trước để nắm cách đọc biểu đồ và bảng dữ liệu; phần này gắn với bài «08-10 Ôn tập - Tổng kết chương 8».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Xem để nắm xác suất là khả năng một kết quả xảy ra; phần này gắn với bài «08-10 Ôn tập - Tổng kết chương 8».
+- [Multiply and Divide by Powers of 10 - Math Antics Extras](https://www.youtube.com/watch?v=qJB19dAZPpY) — mathantics, English. Xem để nắm nhân và chia cho 10, 100, 1000; phần này gắn với bài «08-10 Ôn tập - Tổng kết chương 8».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

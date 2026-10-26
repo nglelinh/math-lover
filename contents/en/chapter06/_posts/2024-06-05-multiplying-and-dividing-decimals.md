@@ -183,17 +183,15 @@ Level 4: Why does multiplying by 10 slide the point right, while dividing by 10 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Decimal Arithmetic — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
-2. [Decimal Place Value — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-3. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. **xem trước**. Watch this first for adding, subtracting, multiplying, and dividing decimals; it supports «Multiplying and Dividing Decimals - Sliding the Point».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Watch for decimal place value; it supports «Multiplying and Dividing Decimals - Sliding the Point».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «Multiplying and Dividing Decimals - Sliding the Point».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

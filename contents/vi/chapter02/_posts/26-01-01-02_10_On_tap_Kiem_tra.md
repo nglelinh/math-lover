@@ -382,12 +382,11 @@ Những mục nên tự đánh giá:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Phép chia cơ bản — Math Antics](https://www.youtube.com/watch?v=KGMf314LUc0) — Math Antics
-3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Xem trước để nắm phép nhân cơ bản; phần này gắn với bài «02-10 Ôn tập và Kiểm tra - Tổng kết chương 2».
+- [Math Antics - Basic Division](https://www.youtube.com/watch?v=KGMf314LUc0) — mathantics, English. Xem để nắm phép chia cơ bản; phần này gắn với bài «02-10 Ôn tập và Kiểm tra - Tổng kết chương 2».
+- [Toán Lớp 3 - Phương Pháp Chia Tư Duy| #toancohien #hocphepchia #toantuduy #giaitoanthongminh](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN, tiếng Việt. Xem để nắm cách chia theo tư duy, không chỉ thuộc lòng; phần này gắn với bài «02-10 Ôn tập và Kiểm tra - Tổng kết chương 2».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

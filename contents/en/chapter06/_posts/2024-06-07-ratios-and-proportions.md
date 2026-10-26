@@ -158,17 +158,15 @@ Level 4: If 3 apples weigh 600 g, how much do 8 apples weigh? Show the proportio
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Ratios and Proportions — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-2. [Proportions — Math Antics](https://www.youtube.com/watch?v=USmit5zUGas) — Math Antics
-3. [Data and Graphs — Math Antics](https://www.youtube.com/watch?v=hcgThf5mv38) — Math Antics
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. **xem trước**. Watch this first for ratios and rates as a relationship between two numbers; it supports «Ratios and Proportions - When Two Comparisons Match».
+- [Math Antics - Proportions](https://www.youtube.com/watch?v=USmit5zUGas) — mathantics, English. Watch for direct proportion, when both amounts scale together; it supports «Ratios and Proportions - When Two Comparisons Match».
+- [Math Antics - Data And Graphs](https://www.youtube.com/watch?v=hcgThf5mv38) — mathantics, English. Watch for how to read graphs and data tables; it supports «Ratios and Proportions - When Two Comparisons Match».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

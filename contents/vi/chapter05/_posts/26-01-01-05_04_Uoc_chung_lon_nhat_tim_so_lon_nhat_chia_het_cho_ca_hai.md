@@ -143,12 +143,11 @@ UCLN của 10 và 15 là:
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Ước chung lớn nhất — Math Antics](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — Math Antics
-2. [Ước chung bằng phân tích thừa số — Math Antics](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — Math Antics
-3. [Chia ba chữ số lớp 3 — Cô Giáo Nga](https://www.youtube.com/watch?v=8neRbeLtUY4) — Cô Giáo Nga Tiểu Học
+- [GCF: Greatest Common Factor - Math Antics Extras](https://www.youtube.com/watch?v=CUEOL3_Wm3Y) — mathantics, English. **xem trước**. Xem trước để nắm cách tìm ước chung lớn nhất; phần này gắn với bài «04-05 Ước chung lớn nhất - Tìm số lớn nhất chia hết cho cả hai».
+- [LCM: Prime Factorization Method - Math Antics Extras](https://www.youtube.com/watch?v=SXPsfr-Fnu4) — mathantics, English. Xem để nắm tìm bội chung bằng phân tích thừa số nguyên tố; phần này gắn với bài «04-05 Ước chung lớn nhất - Tìm số lớn nhất chia hết cho cả hai».
+- [Toán lớp 3 : Bài 51. CHIA SỐ CÓ BA CHỮ SỐ CHO SỐ CÓ MỘT CHỮ SỐ](https://www.youtube.com/watch?v=8neRbeLtUY4) — Cô Giáo Nga Tiểu Học, tiếng Việt. Xem để nắm chia số có ba chữ số; phần này gắn với bài «04-05 Ước chung lớn nhất - Tìm số lớn nhất chia hết cho cả hai».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

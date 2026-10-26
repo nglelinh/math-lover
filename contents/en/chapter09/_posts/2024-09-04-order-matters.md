@@ -44,13 +44,15 @@ Four people: $$4 \times 3 \times 2 \times 1 = 24$$.
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-1. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Fibonacci Mystery — Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile
+Watch a public video that matches this lesson:
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Watch this first for basic multiplication; it supports «Order Matters — Simple Permutations».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «Order Matters — Simple Permutations».
+- [Fibonacci Mystery - Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile, English. Watch for the add-the-two-previous-numbers Fibonacci rule; it supports «Order Matters — Simple Permutations».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

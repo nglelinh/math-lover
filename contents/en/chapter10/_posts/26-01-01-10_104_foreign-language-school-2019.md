@@ -118,6 +118,16 @@ Bài 8. Quãng đường AB dài 60km. Cùng lúc có xe đi từ A và từ B k
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Watch this first for percent as parts out of 100; it supports «10-104 Foreign Language School Paper — 2019».
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. Watch for setting up an equation for an age problem; it supports «10-104 Foreign Language School Paper — 2019».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Watch for the link between distance, speed, and time; it supports «10-104 Foreign Language School Paper — 2019».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Fix repeated mistakes before starting new papers.

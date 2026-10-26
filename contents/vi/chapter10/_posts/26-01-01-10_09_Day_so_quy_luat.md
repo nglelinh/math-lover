@@ -78,6 +78,16 @@ TB $$15,45,75 = 45$$.
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. **xem trước**. Xem trước để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «10-09 Dãy số & tìm quy luật».
+- [Fibonacci Mystery - Numberphile](https://www.youtube.com/watch?v=Nu-lW-Ifyec) — Numberphile, English. Xem để nắm quy luật cộng hai số liền trước trong dãy Fibonacci; phần này gắn với bài «10-09 Dãy số & tìm quy luật».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Xem để nắm cách đặt số trên trục số; phần này gắn với bài «10-09 Dãy số & tìm quy luật».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập luyện tập
 
 ### Bài 1

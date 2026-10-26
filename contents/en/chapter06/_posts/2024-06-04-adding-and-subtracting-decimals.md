@@ -167,17 +167,15 @@ Level 4: Why does “line up the last digits” fail for $$12 + 0.5$$, while “
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Decimal Arithmetic — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
-2. [Decimal Place Value — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. **xem trước**. Watch this first for adding, subtracting, multiplying, and dividing decimals; it supports «Adding and Subtracting Decimals - Keep the Points in Line».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Watch for decimal place value; it supports «Adding and Subtracting Decimals - Keep the Points in Line».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «Adding and Subtracting Decimals - Keep the Points in Line».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

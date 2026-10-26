@@ -159,17 +159,15 @@ Level 4: Why is 2 years of 8% simple interest *not* the same as “8% of 5,000,0
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [What Is a Percent? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-2. [Dollars and Cents — Math Antics](https://www.youtube.com/watch?v=DbYbIB4m3RM) — Math Antics
-3. [Decimal Arithmetic — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Watch this first for percent as parts out of 100; it supports «Advanced Percent - Increase, Decrease, and Interest Over Time».
+- [Math Antics - Dollars And Cents](https://www.youtube.com/watch?v=DbYbIB4m3RM) — mathantics, English. Watch for counting dollars and cents; it supports «Advanced Percent - Increase, Decrease, and Interest Over Time».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Watch for adding, subtracting, multiplying, and dividing decimals; it supports «Advanced Percent - Increase, Decrease, and Interest Over Time».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

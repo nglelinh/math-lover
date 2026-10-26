@@ -40,13 +40,15 @@ $$2 \times 3 \times 2 = 12$$
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-1. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-2. [Intro to multiplication — Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy
-3. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+Watch a public video that matches this lesson:
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. **xem trước**. Watch this first for basic multiplication; it supports «This AND That — The Multiplication Principle».
+- [Intro to multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=RNxwasijbAo) — Khan Academy, English. Watch for multiplication as repeated addition; it supports «This AND That — The Multiplication Principle».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Watch for probability as how likely an outcome is; it supports «This AND That — The Multiplication Principle».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

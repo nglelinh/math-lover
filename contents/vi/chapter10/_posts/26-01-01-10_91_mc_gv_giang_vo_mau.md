@@ -85,6 +85,16 @@ Học kỳ 1, trường THCS Giảng Võ có 55% học sinh đạt loại giỏi
 
 ---
 
+## Video tham khảo
+
+Xem thêm trên YouTube để củng cố bài học:
+
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. **xem trước**. Xem trước để nắm cách lập phương trình cho bài toán tuổi; phần này gắn với bài «10-76 Đề Giảng Võ — đề mẫu».
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. Xem để nắm phép thử chia hết, kể cả cộng các chữ số; phần này gắn với bài «10-76 Đề Giảng Võ — đề mẫu».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Xem để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «10-76 Đề Giảng Võ — đề mẫu».
+
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
+
 ## Bài tập sau đề
 
 1. Chọn **3 câu sai** — làm lại sau 2 ngày.

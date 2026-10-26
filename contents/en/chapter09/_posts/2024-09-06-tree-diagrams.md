@@ -36,13 +36,15 @@ When choices branch in several steps, a long list gets messy. A **tree diagram**
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-1. [Number Patterns — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-2. [Basic multiplication — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
-3. [Probability explained — Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy
+Watch a public video that matches this lesson:
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. **xem trước**. Watch this first for how to find a number-pattern rule; it supports «Tree Diagrams — Draw to Count Safely».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Watch for basic multiplication; it supports «Tree Diagrams — Draw to Count Safely».
+- [Probability explained | Independent and dependent events | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk) — Khan Academy, English. Watch for probability as how likely an outcome is; it supports «Tree Diagrams — Draw to Count Safely».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

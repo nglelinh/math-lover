@@ -36,6 +36,16 @@ $$3A=30\Rightarrow A=10$$; then split $$B+C$$ and $$B-C$$.
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. **xem trước**. Watch this first for solving a one-step equation; it supports «10-10 Unknowns, Logic & Number Grids».
+- [Algebra Basics: What Is Algebra? - Math Antics](https://www.youtube.com/watch?v=NybHckSEQBI) — mathantics, English. Watch for algebra as a letter standing for an unknown number; it supports «10-10 Unknowns, Logic & Number Grids».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Watch for how to find a number-pattern rule; it supports «10-10 Unknowns, Logic & Number Grids».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Exercises
 
 1. Solve the multi-term equation for $$x$$.  

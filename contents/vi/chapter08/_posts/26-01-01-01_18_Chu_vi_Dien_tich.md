@@ -204,12 +204,11 @@ c) Tính diện tích phòng học biết dài 8 m, rộng 6 m.
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Diện tích — Math Antics](https://www.youtube.com/watch?v=xCdxURXMdFY) — Math Antics
-2. [Hình tròn, chu vi và diện tích — Math Antics](https://www.youtube.com/watch?v=O-cawByg2aA) — Math Antics
-3. [Ôn tập hình học lớp 4 — VietJack](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Xem trước để nắm diện tích là số ô vuông phủ kín hình; phần này gắn với bài «06-06 Khám phá chu vi và diện tích - Đo lường hình phẳng».
+- [Math Antics - Circles, Circumference And Area](https://www.youtube.com/watch?v=O-cawByg2aA) — mathantics, English. Xem để nắm chu vi và diện tích hình tròn; phần này gắn với bài «06-06 Khám phá chu vi và diện tích - Đo lường hình phẳng».
+- [Ôn tập về hình học - Toán lớp 4 - Cô Hà Phương (DỄ HIỂU NHẤT)](https://www.youtube.com/watch?v=e7xS59eDyRg) — VietJack Tiểu học & THCS, tiếng Việt. Xem để nắm ôn các hình phẳng trong chương trình lớp 4; phần này gắn với bài «06-06 Khám phá chu vi và diện tích - Đo lường hình phẳng».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
 ## Góc cha mẹ
 

@@ -181,17 +181,15 @@ Level 4: Invent a story where $$0.5$$ and $$1/2$$ are both useful — one for a 
 
 ---
 
-## Watch and Learn
+## Video tham khảo
 
-Popular educational videos to reinforce this lesson:
+Watch a public video that matches this lesson:
 
-1. [Decimal Place Value — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
-2. [Decimal Arithmetic — Math Antics](https://www.youtube.com/watch?v=kwh4SD1ToFc) — Math Antics
-3. [The Number Line — Math Antics](https://www.youtube.com/watch?v=RSJOTBJlKNA) — Math Antics
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. **xem trước**. Watch this first for decimal place value; it supports «The World of Decimals - Numbers with a Point».
+- [Math Antics - Decimal Arithmetic](https://www.youtube.com/watch?v=kwh4SD1ToFc) — mathantics, English. Watch for adding, subtracting, multiplying, and dividing decimals; it supports «The World of Decimals - Numbers with a Point».
+- [Math Antics - The Number Line](https://www.youtube.com/watch?v=RSJOTBJlKNA) — mathantics, English. Watch for how numbers sit on a number line; it supports «The World of Decimals - Numbers with a Point».
 
-*Videos: YouTube — educational channels suitable for ages 8–10*
-
----
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
 
 ## Parent Corner
 

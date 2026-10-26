@@ -174,10 +174,9 @@ Tính xem cần bao nhiêu cây để trồng trong vườn nhà!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Phần trăm là gì? — Math Antics](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — Math Antics
-2. [Tỷ số và tỷ lệ — Math Antics](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — Math Antics
-3. [Phép nhân cơ bản — Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. **xem trước**. Xem trước để nắm phần trăm nghĩa là bao nhiêu phần trên 100; phần này gắn với bài «07-44 Toán Học Trong Nông Nghiệp».
+- [Math Antics - Ratios And Rates](https://www.youtube.com/watch?v=RQ2nYUBVvqI) — mathantics, English. Xem để nắm tỷ số và tỷ lệ là mối quan hệ giữa hai số; phần này gắn với bài «07-44 Toán Học Trong Nông Nghiệp».
+- [Basic multiplication | Multiplication and division | Arithmetic | Khan Academy](https://www.youtube.com/watch?v=mvOkMYCygps) — Khan Academy, English. Xem để nắm phép nhân cơ bản; phần này gắn với bài «07-44 Toán Học Trong Nông Nghiệp».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

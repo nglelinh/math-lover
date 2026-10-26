@@ -2245,6 +2245,16 @@ b) AC cắt MD tại N. Biết diện tích tam giác AND là $$5\,\mathrm{cm}^{
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Math Antics - Area](https://www.youtube.com/watch?v=xCdxURXMdFY) — mathantics, English. **xem trước**. Watch this first for area as the squares that cover a shape; it supports «10-19 Other schools Papers (đa năm)».
+- [Speed, Distance and Time](https://www.youtube.com/watch?v=o8DSb6D-0fw) — corbettmaths, English. Watch for the link between distance, speed, and time; it supports «10-19 Other schools Papers (đa năm)».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «10-19 Other schools Papers (đa năm)».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Start with the most recent 2–3 years.

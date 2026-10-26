@@ -80,6 +80,16 @@ Học kỳ 1, trường THCS Giảng Võ có 55% học sinh đạt loại giỏi
 
 ---
 
+## Video tham khảo
+
+Watch a public video that matches this lesson:
+
+- [Age word problems 3 | Linear equations | Algebra I | Khan Academy](https://www.youtube.com/watch?v=DplUpe3oyWo) — Khan Academy, English. **xem trước**. Watch this first for setting up an equation for an age problem; it supports «10-76 Giang Vo Paper — sample».
+- [Divisibility tests for 2, 3, 4, 5, 6, 9, 10 | Factors and multiples | Pre-Algebra | Khan Academy](https://www.youtube.com/watch?v=Df9h5t64NlQ) — Khan Academy, English. Watch for divisibility tests, including adding the digits; it supports «10-76 Giang Vo Paper — sample».
+- [Math Antics - What Are Percentages?](https://www.youtube.com/watch?v=JeVSmq1Nrpw) — mathantics, English. Watch for percent as parts out of 100; it supports «10-76 Giang Vo Paper — sample».
+
+*Videos: YouTube — educational channels; each link checked with oEmbed.*
+
 ## Parent Corner
 
 Label every sheet with **school + year**. Fix repeated mistakes before starting new papers.

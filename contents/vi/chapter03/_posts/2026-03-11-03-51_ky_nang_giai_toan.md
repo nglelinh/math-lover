@@ -117,10 +117,9 @@ Hãy học các kỹ năng quan trọng!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Giải phương trình bước 1 — Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — Math Antics
-2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Toán lớp 3 — phương pháp tư duy — Cô Hiền](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN
+- [Algebra Basics: Solving Basic Equations Part 1 - Math Antics](https://www.youtube.com/watch?v=l3XzepN03KQ) — mathantics, English. **xem trước**. Xem trước để nắm cách giải phương trình một bước; phần này gắn với bài «07-51 Kỹ Năng Giải Toán».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-51 Kỹ Năng Giải Toán».
+- [Toán Lớp 3 - Phương Pháp Chia Tư Duy| #toancohien #hocphepchia #toantuduy #giaitoanthongminh](https://www.youtube.com/watch?v=1MItnAP54bs) — TOÁN CÔ HIỀN, tiếng Việt. Xem để nắm cách chia theo tư duy, không chỉ thuộc lòng; phần này gắn với bài «07-51 Kỹ Năng Giải Toán».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 

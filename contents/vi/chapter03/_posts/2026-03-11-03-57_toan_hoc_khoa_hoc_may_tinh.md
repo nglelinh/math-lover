@@ -79,10 +79,9 @@ Dùng toán học để mã hóa dữ liệu!
 
 Xem thêm trên YouTube để củng cố bài học:
 
-1. [Nhân chia lũy thừa 10 — Math Antics](https://www.youtube.com/watch?v=qJB19dAZPpY) — Math Antics
-2. [Mẫu hình số — Math Antics](https://www.youtube.com/watch?v=vV7C7bXm4VI) — Math Antics
-3. [Giá trị chữ số thập phân — Math Antics](https://www.youtube.com/watch?v=KG6ILNOiMgM) — Math Antics
+- [Multiply and Divide by Powers of 10 - Math Antics Extras](https://www.youtube.com/watch?v=qJB19dAZPpY) — mathantics, English. **xem trước**. Xem trước để nắm nhân và chia cho 10, 100, 1000; phần này gắn với bài «07-57 Toán Học Trong Khoa Học Máy Tính».
+- [Math Antics - Number Patterns](https://www.youtube.com/watch?v=vV7C7bXm4VI) — mathantics, English. Xem để nắm cách tìm quy luật mẫu hình số; phần này gắn với bài «07-57 Toán Học Trong Khoa Học Máy Tính».
+- [Math Antics - Decimal Place Value](https://www.youtube.com/watch?v=KG6ILNOiMgM) — mathantics, English. Xem để nắm hàng của số thập phân; phần này gắn với bài «07-57 Toán Học Trong Khoa Học Máy Tính».
 
-*Video: YouTube — kênh giáo dục; nội dung phù hợp lứa tuổi 8–10*
-
+*Video: YouTube — kênh giáo dục; đã kiểm tra bằng oEmbed.*
 
