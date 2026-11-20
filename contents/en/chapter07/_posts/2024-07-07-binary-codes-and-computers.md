@@ -114,6 +114,11 @@ Ten different voltages would be easier to confuse. Two voltages are sturdy.
 Four light bulbs can count from 0 to 15. A lit bulb is 1 and an unlit bulb is 0. Computers use only 0 and 1.
 
 
+### Try it yourself: Light up the number
+
+<div class="mlx-explainer" data-mlx="binary" data-lang="en"></div>
+
+
 ## Guided Discovery Activities
 
 ### Activity 1: To binary

@@ -108,6 +108,11 @@ Compare with GCF: GCF keeps the *smaller* shared count. LCM keeps the *larger* o
 One friend visits the library every 4 days and the other every 6 days. Watch the jumps to see the first day they meet: the least common multiple.
 
 
+### Try it yourself: When do they meet again?
+
+<div class="mlx-explainer" data-mlx="jumper" data-mode="lcm" data-lang="en"></div>
+
+
 ## Guided Discovery Activities
 
 ### Activity 1: Three quick LCMs

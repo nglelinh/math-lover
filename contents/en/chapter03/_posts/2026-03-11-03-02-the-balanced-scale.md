@@ -118,6 +118,11 @@ $$x = 7$$
 A scale stays balanced when you do the same thing to both sides. Take 3 blocks from both sides and the mystery box is revealed.
 
 
+### Try it yourself: Balance the scale
+
+<div class="mlx-explainer" data-mlx="balance" data-lang="en"></div>
+
+
 ## Guided Discovery Activity
 
 ### Activity 1: Building Block Balance

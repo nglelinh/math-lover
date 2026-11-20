@@ -78,6 +78,11 @@ Em đã biết về biến số. Hôm nay, chúng ta sẽ học cách giải ph�
 Chiếc cân vẫn thăng bằng khi ta làm giống nhau ở cả hai bên. Lấy 3 khối ở cả hai bên là tìm ra ô bí ẩn.
 
 
+### Tự tay thử: Cân thăng bằng
+
+<div class="mlx-explainer" data-mlx="balance" data-lang="vi"></div>
+
+
 ## Hoạt động khám phá
 
 

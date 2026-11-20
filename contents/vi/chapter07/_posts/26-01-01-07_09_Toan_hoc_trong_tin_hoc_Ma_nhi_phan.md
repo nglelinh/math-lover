@@ -96,6 +96,11 @@ Máy tính chỉ hiểu 2 trạng thái:
 Bốn bóng đèn có thể đếm từ 0 đến 15. Bóng sáng là 1, bóng tắt là 0. Máy tính chỉ dùng 0 và 1.
 
 
+### Tự tay thử: Bật đèn để tạo số
+
+<div class="mlx-explainer" data-mlx="binary" data-lang="vi"></div>
+
+
 ## Hoạt động khám phá
 
 

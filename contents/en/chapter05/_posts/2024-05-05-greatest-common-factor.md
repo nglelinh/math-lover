@@ -108,6 +108,11 @@ Same answer, faster when the numbers grow.
 Lan has 12 pens and 18 notebooks. Four packs leaves 2 notebooks over, but six packs works perfectly: 2 pens and 3 notebooks in each. The most packs she can make is the greatest common factor, 6.
 
 
+### Try it yourself: Share the gifts into packs
+
+<div class="mlx-explainer" data-mlx="jumper" data-mode="gcf" data-lang="en"></div>
+
+
 ## Guided Discovery Activities
 
 ### Activity 1: Three quick GCFs

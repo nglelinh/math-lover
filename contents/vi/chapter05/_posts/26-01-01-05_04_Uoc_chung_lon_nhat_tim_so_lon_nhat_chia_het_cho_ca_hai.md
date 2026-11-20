@@ -79,6 +79,11 @@ Em đã biết tìm ước số của một số. Hôm nay, chúng ta sẽ học
 Lan có 12 bút và 18 vở. Chia 4 gói thì dư 2 quyển vở, còn chia 6 gói thì vừa đủ: mỗi gói 2 bút và 3 vở. Số gói nhiều nhất chính là ước chung lớn nhất, bằng 6.
 
 
+### Tự tay thử: Chia quà thành các túi
+
+<div class="mlx-explainer" data-mlx="jumper" data-mode="gcf" data-lang="vi"></div>
+
+
 ## Hoạt động khám phá
 
 

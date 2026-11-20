@@ -79,6 +79,11 @@ Em đã biết tìm bội số và UCLN. Hôm nay, chúng ta sẽ học về BCN
 Một bạn đến thư viện cứ 4 ngày một lần, bạn kia cứ 6 ngày một lần. Hãy xem các bước nhảy để biết ngày đầu tiên hai bạn gặp nhau: đó là bội chung nhỏ nhất.
 
 
+### Tự tay thử: Khi nào hai bạn gặp lại?
+
+<div class="mlx-explainer" data-mlx="jumper" data-mode="lcm" data-lang="vi"></div>
+
+
 ## Hoạt động khám phá
 
 

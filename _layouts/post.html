@@ -113,6 +113,9 @@ layout: default
 {% if page.lang == 'en' and page.modern_apps %}
 <script src="{{ site.baseurl }}/public/js/interactive-modern-apps.js"></script>
 {% endif %}
+{% if page.chapter == '03' or page.chapter == '05' or page.chapter == '07' %}
+<script src="{{ site.baseurl }}/public/js/interactive-explainers.js"></script>
+{% endif %}
 
 
 <script src="https://utteranc.es/client.js"
