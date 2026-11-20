@@ -66,6 +66,15 @@ Vì khi ta vẽ các chấm tròn thành hình vuông, số chấm tạo thành 
 
 ---
 
+### Video ngắn: Chấm xếp thành hình vuông
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/square-dots_vi.mp4"></video>
+</div>
+
+Mỗi hình vuông mới được tạo bằng cách thêm một hình chữ L gồm các chấm: 1, rồi thêm 3, thêm 5, thêm 7… Vì vậy 1 + 3 + 5 + 7 + 9 = 25 = 5 × 5. Số chính phương là tổng của các số lẻ liên tiếp!
+
+
 ## Hoạt động khám phá
 
 

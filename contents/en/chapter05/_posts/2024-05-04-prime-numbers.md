@@ -98,6 +98,15 @@ That writing is called **prime factorization**. Two children who break 12 apart 
 
 ---
 
+### Short video: Finding primes by crossing out
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/prime-sieve_en.mp4"></video>
+</div>
+
+Cross out the multiples of 2, then 3, then 5, then 7. The numbers that never get crossed out (except 1) are the primes. There are exactly 25 primes below 100.
+
+
 ## Guided Discovery Activities
 
 ### Activity 1: Prime or not?

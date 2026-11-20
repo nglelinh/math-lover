@@ -104,6 +104,15 @@ The last-digit clue is fast, but the pair test explains why.
 
 ---
 
+### Short video: Pairs make even numbers
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/even-pairs_en.mp4"></video>
+</div>
+
+Watch the dots line up in pairs. A number that pairs up perfectly is **even**. If one dot is left alone, the number is **odd**. Peek at the last digit: 0, 2, 4, 6 or 8 means even!
+
+
 ## Guided Discovery Activities
 
 ### Activity A: Pair and Leftover

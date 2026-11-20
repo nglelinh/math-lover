@@ -70,6 +70,15 @@ Em đã biết tìm bội số và UCLN. Hôm nay, chúng ta sẽ học về BCN
 
 ---
 
+### Video ngắn: Hai bạn gặp lại nhau
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/common-multiple-meet_vi.mp4"></video>
+</div>
+
+Một bạn đến thư viện cứ 4 ngày một lần, bạn kia cứ 6 ngày một lần. Hãy xem các bước nhảy để biết ngày đầu tiên hai bạn gặp nhau: đó là bội chung nhỏ nhất.
+
+
 ## Hoạt động khám phá
 
 

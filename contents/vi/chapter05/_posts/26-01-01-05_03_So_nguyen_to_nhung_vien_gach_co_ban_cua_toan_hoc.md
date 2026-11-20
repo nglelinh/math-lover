@@ -70,6 +70,15 @@ Số nguyên tố giống như **viên gạch cơ bản** - mọi số đều c�
 
 ---
 
+### Video ngắn: Sàng số nguyên tố
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/prime-sieve_vi.mp4"></video>
+</div>
+
+Gạch các bội của 2, rồi của 3, của 5, của 7. Những số không bao giờ bị gạch (trừ số 1) chính là số nguyên tố. Có đúng 25 số nguyên tố nhỏ hơn 100.
+
+
 ## Hoạt động khám phá
 
 

@@ -70,6 +70,15 @@ Em đã biết tìm ước số của một số. Hôm nay, chúng ta sẽ học
 
 ---
 
+### Video ngắn: Chia quà công bằng
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/gift-packs-gcf_vi.mp4"></video>
+</div>
+
+Lan có 12 bút và 18 vở. Chia 4 gói thì dư 2 quyển vở, còn chia 6 gói thì vừa đủ: mỗi gói 2 bút và 3 vở. Số gói nhiều nhất chính là ước chung lớn nhất, bằng 6.
+
+
 ## Hoạt động khám phá
 
 

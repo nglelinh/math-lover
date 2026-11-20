@@ -130,6 +130,15 @@ The more pieces you cut something into, the smaller each piece becomes!
 
 ---
 
+### Short video: Sharing pizza fairly
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/pizza-fractions_en.mp4"></video>
+</div>
+
+Cut a pizza into 4 equal pieces. Each piece is one quarter, and 4 quarters make the whole pizza again.
+
+
 ## Guided Discovery Activity
 
 ### Activity 1: Paper Folding Fractions

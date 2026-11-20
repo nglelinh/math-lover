@@ -87,6 +87,15 @@ Máy tính chỉ hiểu 2 trạng thái:
 
 ---
 
+### Video ngắn: Đếm bằng bóng đèn
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/binary-bulbs_vi.mp4"></video>
+</div>
+
+Bốn bóng đèn có thể đếm từ 0 đến 15. Bóng sáng là 1, bóng tắt là 0. Máy tính chỉ dùng 0 và 1.
+
+
 ## Hoạt động khám phá
 
 

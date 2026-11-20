@@ -99,6 +99,15 @@ Same answer, faster when the numbers grow.
 
 ---
 
+### Short video: Fair gift packs
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/gift-packs-gcf_en.mp4"></video>
+</div>
+
+Lan has 12 pens and 18 notebooks. Four packs leaves 2 notebooks over, but six packs works perfectly: 2 pens and 3 notebooks in each. The most packs she can make is the greatest common factor, 6.
+
+
 ## Guided Discovery Activities
 
 ### Activity 1: Three quick GCFs

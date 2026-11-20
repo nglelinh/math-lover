@@ -101,6 +101,15 @@ Each next square grows by the next odd number. That is a pattern you can *see* w
 
 ---
 
+### Short video: Dots that make squares
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/square-dots_en.mp4"></video>
+</div>
+
+Each new square is made by adding an L-shape of dots: 1, then 3 more, then 5 more, then 7 more… So 1 + 3 + 5 + 7 + 9 = 25 = 5 × 5. Square numbers are sums of odd numbers in a row!
+
+
 ## Guided Discovery Activities
 
 ### Activity 1: Compute the next squares

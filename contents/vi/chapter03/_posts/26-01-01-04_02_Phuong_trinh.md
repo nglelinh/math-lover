@@ -69,6 +69,15 @@ Em đã biết về biến số. Hôm nay, chúng ta sẽ học cách giải ph�
 
 ---
 
+### Video ngắn: Chiếc cân thăng bằng
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/balance-scale_vi.mp4"></video>
+</div>
+
+Chiếc cân vẫn thăng bằng khi ta làm giống nhau ở cả hai bên. Lấy 3 khối ở cả hai bên là tìm ra ô bí ẩn.
+
+
 ## Hoạt động khám phá
 
 
