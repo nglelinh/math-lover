@@ -133,6 +133,15 @@ Càng cắt nhiều phần, mỗi phần càng nhỏ!
 
 ---
 
+### Video ngắn: Chia pizza công bằng
+
+<div class="reel-video" style="text-align:center;margin:1.5rem 0;">
+<video controls playsinline preload="metadata" style="width:100%;max-width:360px;height:auto;aspect-ratio:9/16;border-radius:12px;background:#10121a;" src="{{ site.baseurl }}/public/videos/reels/pizza-fractions_vi.mp4"></video>
+</div>
+
+Cắt một cái pizza thành 4 phần bằng nhau. Mỗi phần là một phần tư, và 4 phần tư ghép lại thành cả cái pizza.
+
+
 ## Hoạt Động Khám Phá Có Hướng Dẫn
 
 

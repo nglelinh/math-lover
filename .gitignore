@@ -64,3 +64,7 @@ yarn-error.log*
 # Grade-6 exam intermediate downloads (local OCR/PDF cache)
 on-thi-lop-6/de-thi/_downloads/
 on-thi-lop-6/**/__pycache__/
+
+# Large magazine PDF collections (not course content; ~1.4 GB)
+toan-tieu-hoc/
+toan-tuoi-tho/
