@@ -68,3 +68,7 @@ on-thi-lop-6/**/__pycache__/
 # Large magazine PDF collections (not course content; ~1.4 GB)
 toan-tieu-hoc/
 toan-tuoi-tho/
+
+# Python bytecode
+__pycache__/
+*.pyc
