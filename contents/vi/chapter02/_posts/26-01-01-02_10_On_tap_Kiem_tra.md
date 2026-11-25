@@ -50,7 +50,7 @@ Sau bài học này, em có thể:
 
 ---
 
-## Bản đồ kiến thức chương 2
+## Kiến thức cần nhớ chương 2
 
 ### Nhóm 1: Số và cấu trúc
 
